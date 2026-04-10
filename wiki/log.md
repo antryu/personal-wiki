@@ -128,3 +128,10 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-10] ingest | Wiki List Reference
 - Source: bot, Category: reference, Raw: raw/ingest/reference/2026-04-10-wiki-list-reference.md
+
+## [2026-04-10] lint | automated
+- Broken links: 0
+0, Orphans: 74, Oversized: 5, Placeholders: 78, Total: 150
+
+## [2026-04-10] lint | automated
+- Broken links: 0, Orphans: 74, Oversized: 5, Placeholders: 78, Total: 150
