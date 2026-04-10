@@ -23,8 +23,8 @@
 - 하드웨어: MacBook Pro M1 16GB
 
 ## Related
-- [[wiki/tech/m1-macbook-setup]]
-- [[wiki/projects/discord-bot]]
+- [[tech/m1-macbook-setup]]
+- [[projects/discord-bot]]
 
 ## Sources
 - [2026-02-22](raw/discord/imacsbot/2026-02-22.md)

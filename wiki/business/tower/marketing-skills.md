@@ -116,6 +116,6 @@
 
 ## Related
 
-- [[wiki/business/tower/y-tower]] — _y Tower 전체 조직 구조
-- [[wiki/business/strategy/y-strategy]] — _y Holdings 전략
-- [[wiki/channels/mybidwise]] — MyBidWise SaaS (스킬 적용 대상)
+- [[business/tower/y-tower]] — _y Tower 전체 조직 구조
+- [[business/strategy/y-strategy]] — _y Holdings 전략
+- [[channels/mybidwise]] — MyBidWise SaaS (스킬 적용 대상)

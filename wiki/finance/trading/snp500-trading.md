@@ -130,10 +130,10 @@ VBA → 디스코드 웹훅 자동 체결 알림 시스템을 구축:
 
 ## Related
 
-- [[wiki/finance/snp500-regime-strategy]] — 레짐별 파라미터 설정
-- [[wiki/tech/vba-discord-webhook]] — VBA 디스코드 웹훅 연동
-- [[wiki/projects/y-builder]] — 자동 모니터링 파이프라인
-- [[wiki/finance/trading-logic]] — 거래 로직 상세 (옵시디언 Trading/거래로직_상세.md)
+- [[finance/snp500-regime-strategy]] — 레짐별 파라미터 설정
+- [[tech/vba-discord-webhook]] — VBA 디스코드 웹훅 연동
+- [[projects/y-builder]] — 자동 모니터링 파이프라인
+- [[finance/trading-logic]] — 거래 로직 상세 (옵시디언 Trading/거래로직_상세.md)
 
 ## Sources
 

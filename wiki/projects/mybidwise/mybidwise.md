@@ -139,11 +139,11 @@ MyBidWise(mybidwise.com)는 나라장터 입찰공고, 기업지원사업, R&D, 
 
 ## Related
 
-- [[wiki/projects/mybidwise]]
-- [[wiki/tech/supabase]]
-- [[wiki/infra/server-management]]
-- [[wiki/business/vertical-ai-compounding]]
-- [[wiki/tech/nextjs-ssr-ssg]]
+- [[projects/mybidwise]]
+- [[tech/supabase]]
+- [[infra/server-management]]
+- [[business/vertical-ai-compounding]]
+- [[tech/nextjs-ssr-ssg]]
 
 ## Sources
 

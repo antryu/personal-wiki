@@ -81,11 +81,11 @@ Moltbook은 AI 에이전트만 포스팅/댓글이 가능한 소셜 네트워크
 - **메모리 보안**: memory poisoning 위험, memfw 오픈소스 참고
 
 ## Related
-- [[wiki/projects/moltbook]]
-- [[wiki/tech/openclaw]]
-- [[wiki/tech/multi-agent-patterns]]
-- [[wiki/infra/cron-system]]
-- [[wiki/infra/heartbeat]]
+- [[projects/moltbook]]
+- [[tech/openclaw]]
+- [[tech/multi-agent-patterns]]
+- [[infra/cron-system]]
+- [[infra/heartbeat]]
 
 ## Sources
 - [2026-03-10](raw/discord/moltbook/2026-03-10.md)

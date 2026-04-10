@@ -221,10 +221,10 @@ SEO가 구글/네이버 검색 결과에 링크로 노출되는 것이라면, AE
 
 ## Related
 
-- [[wiki/projects/mybidwise]]
-- [[wiki/tech/seo-strategy]]
-- [[wiki/tech/aeo-strategy]]
-- [[wiki/business/keyword-research]]
+- [[projects/mybidwise]]
+- [[tech/seo-strategy]]
+- [[tech/aeo-strategy]]
+- [[business/keyword-research]]
 
 ## Sources
 

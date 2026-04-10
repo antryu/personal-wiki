@@ -5,7 +5,7 @@
 
 ## Overview
 
-Ultra Trader는 크립토(BTC/USDT, ETH/USDT) 선물 자동매매를 목표로 설계된 Python 기반 트레이딩 플랫폼이다. 25,559줄 / 73개 파일 규모로, 15개 전략 모듈, AI/ML 레이어, 백테스트 엔진, 웹 대시보드를 포함한다. 개발 과정에서 기존 [[wiki/finance/snp500-trading|SnP500-trading]] 프로젝트의 MES 30분봉 데이터를 활용해 성능을 검증했으나, 기존 V21 전략(승률 75%) 대비 Ultra Trader는 승률 0.4%로 참패했다. 이후 AI 자동 전략 생성(Option B) 방향으로 전환하여 ML 학습, Optuna 최적화, DeepSeek 분석을 수행했다.
+Ultra Trader는 크립토(BTC/USDT, ETH/USDT) 선물 자동매매를 목표로 설계된 Python 기반 트레이딩 플랫폼이다. 25,559줄 / 73개 파일 규모로, 15개 전략 모듈, AI/ML 레이어, 백테스트 엔진, 웹 대시보드를 포함한다. 개발 과정에서 기존 [[finance/snp500-trading|SnP500-trading]] 프로젝트의 MES 30분봉 데이터를 활용해 성능을 검증했으나, 기존 V21 전략(승률 75%) 대비 Ultra Trader는 승률 0.4%로 참패했다. 이후 AI 자동 전략 생성(Option B) 방향으로 전환하여 ML 학습, Optuna 최적화, DeepSeek 분석을 수행했다.
 
 ## Key Topics
 
@@ -61,7 +61,7 @@ M4 Max를 상시 가동 서버로 결정 (2026-03-27):
 
 ### MES 데이터 백테스트 및 기존 전략 비교
 
-기존 [[wiki/finance/snp500-trading|SnP500-trading]] 프로젝트의 MES 30분봉 데이터(65,536개, 2020-05~2025-12)를 Ultra Trader에 적용하여 비교 (2026-03-27~28):
+기존 [[finance/snp500-trading|SnP500-trading]] 프로젝트의 MES 30분봉 데이터(65,536개, 2020-05~2025-12)를 Ultra Trader에 적용하여 비교 (2026-03-27~28):
 
 **3-Way 성능 비교:**
 
@@ -156,11 +156,11 @@ M4 Max를 상시 가동 서버로 결정 (2026-03-27):
 
 ## Related
 
-- [[wiki/finance/snp500-trading]]
-- [[wiki/projects/ultra-trader]]
-- [[wiki/tech/ollama-deepseek]]
-- [[wiki/infra/m4-server]]
-- [[wiki/infra/tailscale-network]]
+- [[finance/snp500-trading]]
+- [[projects/ultra-trader]]
+- [[tech/ollama-deepseek]]
+- [[infra/m4-server]]
+- [[infra/tailscale-network]]
 
 ## Sources
 

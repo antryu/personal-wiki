@@ -129,14 +129,14 @@
 - S&P500 자동매매 실전 운용 시작 (키움증권 CME 선물)
 
 ## Related
-- [[wiki/projects/hydrogen-law-rag]]
-- [[wiki/projects/mybidwise]]
-- [[wiki/projects/knowledge-pipeline]]
-- [[wiki/projects/snp500-trading]]
-- [[wiki/tech/supabase-vector-search]]
-- [[wiki/tech/rag-chunking-strategies]]
-- [[wiki/infra/m1-pro-server]]
-- [[wiki/infra/m4-max-server]]
+- [[projects/hydrogen-law-rag]]
+- [[projects/mybidwise]]
+- [[projects/knowledge-pipeline]]
+- [[projects/snp500-trading]]
+- [[tech/supabase-vector-search]]
+- [[tech/rag-chunking-strategies]]
+- [[infra/m1-pro-server]]
+- [[infra/m4-max-server]]
 
 ## Sources
 - [2024-11-19](raw/discord/m116gmac/2024-11-19.md)

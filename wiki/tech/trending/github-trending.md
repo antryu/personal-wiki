@@ -137,11 +137,11 @@
 
 ## Related
 
-- [[wiki/business/y-holdings]]
-- [[wiki/business/mybidwise]]
-- [[wiki/research/ai-agents]]
-- [[wiki/research/agent-memory]]
-- [[wiki/research/rag]]
+- [[business/y-holdings]]
+- [[business/mybidwise]]
+- [[research/ai-agents]]
+- [[research/agent-memory]]
+- [[research/rag]]
 
 ## Sources
 

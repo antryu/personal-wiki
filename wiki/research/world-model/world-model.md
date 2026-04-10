@@ -170,11 +170,11 @@ JEPA 추가: BB 하단 이탈 → JEPA "어떤 레짐?" → 진입/패스
 
 ## Related
 
-- [[wiki/research/lewm-jepa]] — LeWorldModel 논문 상세
-- [[wiki/tech/jepa-architecture]] — JEPA/SIGReg 기술 설명
-- [[wiki/projects/sp500-trading]] — S&P500 트레이딩 프로젝트
-- [[wiki/tech/apple-silicon-ml]] — Apple Silicon ML 학습 환경
-- [[wiki/business/linkedin-strategy]] — LinkedIn 콘텐츠 전략
+- [[research/lewm-jepa]] — LeWorldModel 논문 상세
+- [[tech/jepa-architecture]] — JEPA/SIGReg 기술 설명
+- [[projects/sp500-trading]] — S&P500 트레이딩 프로젝트
+- [[tech/apple-silicon-ml]] — Apple Silicon ML 학습 환경
+- [[business/linkedin-strategy]] — LinkedIn 콘텐츠 전략
 
 ## Sources
 

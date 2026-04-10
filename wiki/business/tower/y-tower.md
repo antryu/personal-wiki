@@ -158,9 +158,9 @@ BZCF 비즈까페 인터뷰 — 2003년생, 200억 투자 사업가:
 
 ## Related
 
-- [[wiki/business/mybidwise]] — SaaS사업부 핵심 제품
-- [[wiki/business/investment]] — 투자사업부 관련
-- [[wiki/business/ai-company-org]] — AI 회사 조직도 상세
+- [[business/mybidwise]] — SaaS사업부 핵심 제품
+- [[business/investment]] — 투자사업부 관련
+- [[business/ai-company-org]] — AI 회사 조직도 상세
 
 ## Sources
 

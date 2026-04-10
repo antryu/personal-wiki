@@ -182,10 +182,10 @@ VBA 로직 기반 최종 백테스트 (2020~2025, 65K bars):
 
 ## Related
 
-- [[wiki/finance/snp500-trading]] — S&P500 자동매매 프로젝트 개요
-- [[wiki/tech/backtesting]] — 백테스트 방법론
-- [[wiki/infra/obsidian-sync]] — 옵시디언 동기화 설정
-- [[wiki/projects/thairon]] — Thairon 프로젝트
+- [[finance/snp500-trading]] — S&P500 자동매매 프로젝트 개요
+- [[tech/backtesting]] — 백테스트 방법론
+- [[infra/obsidian-sync]] — 옵시디언 동기화 설정
+- [[projects/thairon]] — Thairon 프로젝트
 
 ## Sources
 

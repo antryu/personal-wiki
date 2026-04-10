@@ -151,11 +151,11 @@ ATLAS 레퍼런스 기반 자동 최적화 설계:
 
 ## Related
 
-- [[wiki/business/y-holdings-overview]]
-- [[wiki/business/y-tower-development]]
-- [[wiki/business/x-posts-content]]
-- [[wiki/research/multi-agent-frameworks]]
-- [[wiki/research/byzantine-generals-problem]]
+- [[business/y-holdings-overview]]
+- [[business/y-tower-development]]
+- [[business/x-posts-content]]
+- [[research/multi-agent-frameworks]]
+- [[research/byzantine-generals-problem]]
 
 ## Sources
 

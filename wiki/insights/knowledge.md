@@ -92,14 +92,14 @@ R.Andrew가 그동안 Threads, X(Twitter), LinkedIn, KakaoTalk, Chrome 등에서
 
 ## Related
 
-- [[wiki/projects/govrfp]]
-- [[wiki/projects/sp500-bot]]
-- [[wiki/projects/openclaw]]
-- [[wiki/projects/malhae]]
-- [[wiki/tech/claude-code]]
-- [[wiki/tech/ai-agents]]
-- [[wiki/finance/trading-strategy]]
-- [[wiki/infra/knowledge-pipeline]]
+- [[projects/govrfp]]
+- [[projects/sp500-bot]]
+- [[projects/openclaw]]
+- [[projects/malhae]]
+- [[tech/claude-code]]
+- [[tech/ai-agents]]
+- [[finance/trading-strategy]]
+- [[infra/knowledge-pipeline]]
 
 ## Sources
 

@@ -87,11 +87,11 @@
 - AI 프로젝트 진행상황의 구체적 기록 부족
 
 ## Related
-- [[wiki/business/y-builder]]
-- [[wiki/business/ai-agent-group]]
-- [[wiki/daily/meditation-habit]]
-- [[wiki/daily/exercise-routine]]
-- [[wiki/business/snp500-trading]]
+- [[business/y-builder]]
+- [[business/ai-agent-group]]
+- [[daily/meditation-habit]]
+- [[daily/exercise-routine]]
+- [[business/snp500-trading]]
 
 ## Sources
 - [2026-02-27](raw/discord/daily-tracker/2026-02-27.md)

@@ -108,12 +108,12 @@ Skepty(#04, DeepSeek R1 70B)에게 테스트 지시 투입:
 
 ## Related
 
-- [[wiki/project/y-holdings-simulator]]
-- [[wiki/project/snp500-trading]]
-- [[wiki/project/mybidwise]]
-- [[wiki/tech/karpathy-autoresearch]]
-- [[wiki/tech/agent-orchestration]]
-- [[wiki/infra/m4-max-server]]
+- [[project/y-holdings-simulator]]
+- [[project/snp500-trading]]
+- [[project/mybidwise]]
+- [[tech/karpathy-autoresearch]]
+- [[tech/agent-orchestration]]
+- [[infra/m4-max-server]]
 
 ## Sources
 
