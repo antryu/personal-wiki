@@ -75,3 +75,18 @@
 [2026-04-10 01:00:19] === Compile done ===
 [2026-04-10 01:00:19] === Compile done ===
 ✅ Built /Users/andrew/PRJs/personal-wiki/index.html (61,707 bytes, 4 tabs)
+[2026-04-11 01:00:01] === Compile started (mode: --daily) ===
+[2026-04-11 01:00:01] === Compile started (mode: --daily) ===
+[2026-04-11 01:00:25] Ollama OK (qwen2.5:72b)
+[2026-04-11 01:00:25] Ollama OK (qwen2.5:72b)
+[main 32b7b6b] auto: wiki compile 2026-04-11
+ 2 files changed, 67 insertions(+)
+ create mode 100644 wiki/projects/mybidwise/seo-blog-strategy.md
+fatal: could not read Username for 'https://github.com': Device not configured
+[2026-04-11 01:00:26] git push failed
+[2026-04-11 01:00:26] git push failed
+[2026-04-11 01:00:26] Git pushed
+[2026-04-11 01:00:26] Git pushed
+[2026-04-11 01:00:26] === Compile done ===
+[2026-04-11 01:00:26] === Compile done ===
+✅ Built /Users/andrew/PRJs/personal-wiki/index.html (61,707 bytes, 4 tabs)

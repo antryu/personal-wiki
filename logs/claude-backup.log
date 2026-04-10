@@ -81,3 +81,54 @@ push failed
 fatal: could not read Username for 'https://github.com': Device not configured
 push failed
 [Fri Apr 10 00:30:02 KST 2026] Done
+[Sat Apr 11 00:30:00 KST 2026] Backing up Claude Code sessions...
+  ✅ subagents/agent-a83852c2180ce1bec.jsonl
+  ✅ subagents/agent-a7603ab139a03583e.jsonl
+  ✅ subagents/agent-a9bf18c84673db129.jsonl
+  ✅ subagents/agent-aa42ffdc2e5825035.jsonl
+  ✅ subagents/agent-a7befba834808e7c7.jsonl
+  ✅ subagents/agent-a91f83afe9c8f4c95.jsonl
+  ✅ subagents/agent-a4aaaa9a8026980e7.jsonl
+  ✅ subagents/agent-a385844e18ecc6339.jsonl
+  ✅ subagents/agent-ab796852fbf4da665.jsonl
+  ✅ subagents/agent-ae963d7860b47211d.jsonl
+  ✅ subagents/agent-a4a028215bc205dee.jsonl
+  ✅ -Users-andrew-PRJs/e9294cbc-5670-4332-89db-2df3fd226158.jsonl
+  ✅ -Users-andrew-PRJs-seomachine/f3ee7496-104d-4d34-8934-064b4a9a9d86.jsonl
+  ✅ subagents/agent-abb06ff9ae4554c46.jsonl
+  ✅ subagents/agent-ac3cdd204c4069290.jsonl
+  ✅ subagents/agent-a8b74a5ec4da55c2b.jsonl
+  ✅ subagents/agent-a09e393f89a3e3d93.jsonl
+  ✅ subagents/agent-a16d0df0b5e6e56fd.jsonl
+  ✅ subagents/agent-af853f78fb9fa3d14.jsonl
+  ✅ subagents/agent-a511f8625e49650de.jsonl
+  ✅ subagents/agent-a68b7174c332119f3.jsonl
+  ✅ subagents/agent-a01ed34db5f899649.jsonl
+  ✅ subagents/agent-a2abd1742b195a6a4.jsonl
+  ✅ subagents/agent-a91c28a5d5dc5bc06.jsonl
+  ✅ subagents/agent-a85174688cc8e7393.jsonl
+  ✅ subagents/agent-a18a13d88e102a8d2.jsonl
+  ✅ subagents/agent-a02bb207d0db59882.jsonl
+  ✅ subagents/agent-abbd1beb95fd9e488.jsonl
+  ✅ subagents/agent-a04270b8dc6de1e8c.jsonl
+  ✅ subagents/agent-aaff8d385b33bb9dd.jsonl
+  ✅ subagents/agent-aac5451c5a20bd22e.jsonl
+  ✅ subagents/agent-aeab10c068dd1f40e.jsonl
+  ✅ subagents/agent-a26d197d67575e3e0.jsonl
+  ✅ subagents/agent-a63f7894f0602fd9f.jsonl
+  ✅ subagents/agent-aabc2dfc26a6b9d41.jsonl
+  ✅ subagents/agent-a878337c10a7d72a5.jsonl
+  ✅ subagents/agent-a620e7a0eec27d7d9.jsonl
+  ✅ subagents/agent-a0d549f4cd36fdbac.jsonl
+  ✅ subagents/agent-af9b354c49fcd30e3.jsonl
+  ✅ subagents/agent-ac7618a4da7200931.jsonl
+  ✅ -Users-andrew-y-company-oss/5ab6fb9f-73f0-43a0-a307-b42df7a68ab6.jsonl
+  ✅ -Users-andrew-y-company-oss/1a9161c9-398f-45ff-b9a7-22bb57f4a714.jsonl
+  ✅ -Users-andrew-y-company-oss/360a1045-7414-4d89-863e-e4de7fee2319.jsonl
+  ✅ -Users-andrew-y-company-oss/ad113b9e-c6d3-4b81-97aa-a7311a91039c.jsonl
+  ✅ -Users-andrew-y-company-oss/e65c5666-45e8-41bd-b162-048da4450810.jsonl
+  ✅ -Users-andrew-y-company-oss/6e77c0db-c8aa-40f0-aa0b-3d402d2815bd.jsonl
+The following paths are ignored by one of your .gitignore files:
+raw/claude-code
+hint: Use -f if you really want to add them.
+hint: Disable this message with "git config set advice.addIgnoredFile false"
