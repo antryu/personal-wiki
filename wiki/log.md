@@ -125,3 +125,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-10] trending | macOS Proxy App with Clash Meta
 - Source: GitHub Trending (Swift), ⭐ 601, Category: projects
+
+## [2026-04-10] ingest | Wiki List Reference
+- Source: bot, Category: reference, Raw: raw/ingest/reference/2026-04-10-wiki-list-reference.md
