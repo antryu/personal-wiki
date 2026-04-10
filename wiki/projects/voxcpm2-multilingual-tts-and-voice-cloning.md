@@ -1,40 +1,36 @@
 # VoxCPM2: Multilingual TTS and Voice Cloning
 
-> VoxCPM2 is a tokenizer-free Text-to-Speech (TTS) system capable of generating studio-quality multilingual speech, designing custom voices from text descriptions, and cloning voices with unprecedented fidelity. It supports 30 languages and achieves real-time performance on modern GPUs.  
+> VoxCPM2 is a tokenizer-free, end-to-end Text-to-Speech (TTS) system capable of generating high-quality multilingual speech, designing custom voices from text descriptions, and cloning voices with unprecedented fidelity. It supports 30 languages, 48kHz studio-grade audio, and real-time streaming.  
 > Last updated: 2026-04-10
 
 ## Overview
-**VoxCPM2** is an advanced TTS model developed by OpenBMB, built on a 2B-parameter architecture trained on over 2 million hours of multilingual speech data. It eliminates the need for discrete tokenization by using an end-to-end diffusion autoregressive architecture, enabling direct generation of continuous speech representations. Key innovations include:
 
-- **Multilingual Support**: Synthesizes speech in 30 languages without requiring language tags.
-- **Voice Design**: Creates novel voices from natural-language descriptions (e.g., gender, tone, pace).
-- **Voice Cloning**: Replicates voices using short reference clips, with optional style adjustments.
-- **High-Quality Audio**: Outputs 48kHz studio-grade audio via an asymmetric AudioVAE V2 design.
-- **Real-Time Performance**: Achieves ~0.13 RTF on NVIDIA RTX 4090 with Nano-VLLM acceleration.
+VoxCPM2 is the latest release of the VoxCPM series, a diffusion autoregressive TTS model trained on **2 million hours of multilingual speech data**. Built on a **MiniCPM-4 backbone**, it eliminates traditional tokenization by directly generating continuous speech representations, enabling natural and expressive synthesis. The model supports **30 languages**, **voice design from natural language descriptions**, **controllable voice cloning**, and **48kHz high-fidelity audio output**.  
 
-The model is open-source under the Apache-2.0 license and includes a Hugging Face demo, documentation, and community support via Discord and Feishu.
+Key features include:
+- **Tokenizer-free architecture**: Directly maps text to speech without discrete tokens.
+- **Voice Design**: Create novel voices using descriptions (e.g., "young female with energetic tone").
+- **Controllable Cloning**: Clone voices from short reference clips while adjusting style (emotion, pace).
+- **Ultimate Cloning**: Preserve all vocal nuances (timbre, rhythm, emotion) with reference audio + transcript.
+- **Asymmetric AudioVAE V2**: Converts 16kHz input to 48kHz output without external upsampling.
+- **Real-time performance**: Achieves ~0.3 RTF on RTX 4090, accelerated to ~0.13 with Nano-VLLM.
 
----
+Repository metadata:
+- **Stars**: 8,704  
+- **Forks**: 1,033  
+- **Language**: Python  
+- **License**: Apache License 2.0  
+- **Open Issues**: 59  
 
-### Repository Info
-- **URL**: [GitHub](https://github.com/OpenBMB/VoxCPM)
-- **Stars**: 8,082
-- **Forks**: 936
-- **Language**: Python
-- **License**: [Apache License 2.0](LICENSE)
-- **Created**: 2025-09-16
-- **Updated**: 2026-04-10
-- **Topics**: audio, deeplearning, multilingual, speech-synthesis, voice-cloning
-- **Open Issues**: 55
-
----
+Project links:  
+[GitHub](https://github.com/OpenBMB/VoxCPM) | [Live Demo](https://huggingface.co/spaces/OpenBMB/VoxCPM-Demo) | [Documentation](https://voxcpm.readthedocs.io/en/latest/) | [Hugging Face](https://huggingface.co/openbmb/VoxCPM2) | [ModelScope](https://modelscope.cn/models/OpenBMB/VoxCPM2) | [Audio Samples](https://openbmb.github.io/voxcpm2-demopage/)
 
 ## Key Points
-- Supports **30 languages** with no language tags required.
-- Enables **creative voice design** from text descriptions (no reference audio needed).
-- Offers **controllable voice cloning** with style customization (emotion, pace, expression).
-- Produces **48kHz audio** directly from 16kHz reference clips.
-- Achieves **real-time synthesis** (~0.3 RTF on RTX 4090) and is free for commercial use.
+- Supports **30 languages** (no language tags required).
+- Generates **48kHz studio-quality audio** with built-in super-resolution.
+- Enables **voice cloning** with reference audio (as low as 16kHz input).
+- Allows **custom voice design** via natural language descriptions.
+- Open-source under **Apache-2.0**, with commercial use permitted.
 
 ## Sources
 - [GitHub](https://github.com/OpenBMB/VoxCPM)

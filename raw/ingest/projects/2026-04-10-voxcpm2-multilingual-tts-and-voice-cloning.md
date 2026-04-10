@@ -1,4 +1,4 @@
-<!-- GitHub Trending: Python | 8,078 stars | +496 today -->
+<!-- GitHub Trending: Python | 8,694 stars | +933 today -->
 
 # OpenBMB/VoxCPM
 
@@ -6,14 +6,14 @@
 
 ## Repository Info
 - **URL**: https://github.com/OpenBMB/VoxCPM
-- **Stars**: 8,082
-- **Forks**: 936
+- **Stars**: 8,704
+- **Forks**: 1,033
 - **Language**: Python
 - **License**: Apache License 2.0
 - **Created**: 2025-09-16
 - **Updated**: 2026-04-10
 - **Topics**: audio, deeplearning, minicpm, multilingual, python, pytorch, speech, speech-synthesis, text-to-speech, tts, tts-model, voice-cloning, voice-design, voxcpm
-- **Open Issues**: 55
+- **Open Issues**: 59
 
 ## README (excerpt)
 <h2 align="center">VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning</h2>

@@ -135,3 +135,147 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-10] lint | automated
 - Broken links: 0, Orphans: 74, Oversized: 5, Placeholders: 78, Total: 150
+
+## [2026-04-10] trending | MarkItDown Converter
+- Source: GitHub Trending (Python), ⭐ 99,422, Category: tech
+
+## [2026-04-10] trending | Open-Source AI Coworker
+- Source: GitHub Trending (TypeScript), ⭐ 11,689, Category: projects
+
+## [2026-04-10] trending | Managed AI Agents Platform
+- Source: GitHub Trending (TypeScript), ⭐ 5,920, Category: tech
+
+## [2026-04-10] trending | Kronos: Financial Markets Foundation Model
+- Source: GitHub Trending (Python), ⭐ 12,672, Category: finance
+
+## [2026-04-10] trending | Open Data Loader PDF
+- Source: GitHub Trending (Java), ⭐ 14,732, Category: projects
+
+## [2026-04-10] trending | jq JSON Processor
+- Source: GitHub Trending (C), ⭐ 34,259, Category: tech
+
+## [2026-04-10] trending | Claude Code Best Practices
+- Source: GitHub Trending (HTML), ⭐ 35,646, Category: tech
+
+## [2026-04-10] trending | Observer Patch Holography
+- Source: GitHub Trending (Python), ⭐ 411, Category: research
+
+## [2026-04-10] trending | Prefect Workflow Orchestration
+- Source: GitHub Trending (Python), ⭐ 22,127, Category: tech
+
+## [2026-04-10] trending | VoxCPM2: Multilingual TTS and Voice Cloning
+- Source: GitHub Trending (Python), ⭐ 8,694, Category: projects
+
+## [2026-04-10] trending | MiniMind: 2h GPT Training
+- Source: GitHub Trending (Python), ⭐ 46,431, Category: tech
+
+## [2026-04-10] trending | Feast: Open Source Feature Store for AI/ML
+- Source: GitHub Trending (Python), ⭐ 6,940, Category: infra
+
+## [2026-04-10] trending | MiroFish: Swarm Intelligence Prediction Engine
+- Source: GitHub Trending (Python), ⭐ 53,173, Category: tech
+
+## [2026-04-10] trending | Lightweight Financial Charts Library
+- Source: GitHub Trending (TypeScript), ⭐ 14,721, Category: finance
+
+## [2026-04-10] trending | JetBrains CC GUI Plugin
+- Source: GitHub Trending (TypeScript), ⭐ 2,503, Category: tech
+
+## [2026-04-10] trending | Project AIRI: AI Waifu Companion
+- Source: GitHub Trending (TypeScript), ⭐ 37,658, Category: projects
+
+## [2026-04-10] trending | WeFlow WeChat Chat Insights
+- Source: GitHub Trending (TypeScript), ⭐ 7,118, Category: insights
+
+## [2026-04-10] trending | Continue CLI for AI Code Checks
+- Source: GitHub Trending (TypeScript), ⭐ 32,469, Category: projects
+
+## [2026-04-10] trending | Playwright CLI
+- Source: GitHub Trending (TypeScript), ⭐ 7,248, Category: tech
+
+## [2026-04-10] trending | n8n - AI-Powered Workflow Automation Platform
+- Source: GitHub Trending (TypeScript), ⭐ 183,460, Category: tech
+
+## [2026-04-10] trending | Chrome DevTools for Coding Agents
+- Source: GitHub Trending (TypeScript), ⭐ 33,978, Category: projects
+
+## [2026-04-10] trending | Fast Python Package Manager in Rust
+- Source: GitHub Trending (Rust), ⭐ 83,027, Category: tech
+
+## [2026-04-10] trending | Ruff: Fast Python Linter and Formatter in Rust
+- Source: GitHub Trending (Rust), ⭐ 46,984, Category: projects
+
+## [2026-04-10] trending | Deno: Modern JavaScript/TypeScript Runtime
+- Source: GitHub Trending (Rust), ⭐ 106,433, Category: tech
+
+## [2026-04-10] trending | Reth: Rust Ethereum Client
+- Source: GitHub Trending (Rust), ⭐ 5,512, Category: projects
+
+## [2026-04-10] trending | Self-Hosted AI Coding Assistant
+- Source: GitHub Trending (Rust), ⭐ 33,372, Category: tech
+
+## [2026-04-10] trending | Lance: Open Lakehouse Format for Multimodal AI
+- Source: GitHub Trending (Rust), ⭐ 6,299, Category: tech
+
+## [2026-04-10] trending | All-in-One AI Assistant Tool
+- Source: GitHub Trending (Rust), ⭐ 42,418, Category: projects
+
+## [2026-04-10] trending | Skills Hub: Cross-Platform AI Skill Manager
+- Source: GitHub Trending (Rust), ⭐ 682, Category: projects
+
+## [2026-04-10] trending | Polars DataFrame Query Engine
+- Source: GitHub Trending (Rust), ⭐ 38,096, Category: tech
+
+## [2026-04-10] trending | Git AI Code Tracker
+- Source: GitHub Trending (Rust), ⭐ 1,546, Category: tech
+
+## [2026-04-10] trending | Unified AI API Relay Service
+- Source: GitHub Trending (Go), ⭐ 11,558, Category: infra
+
+## [2026-04-10] trending | Grafana MCP Server
+- Source: GitHub Trending (Go), ⭐ 2,776, Category: infra
+
+## [2026-04-10] trending | Docker Compose
+- Source: GitHub Trending (Go), ⭐ 37,256, Category: infra
+
+## [2026-04-10] trending | Kubernetes Package Manager
+- Source: GitHub Trending (Go), ⭐ 29,678, Category: tech
+
+## [2026-04-10] trending | Bifrost AI Gateway
+- Source: GitHub Trending (Go), ⭐ 3,674, Category: infra
+
+## [2026-04-10] trending | TiDB Cloud-Native SQL Database
+- Source: GitHub Trending (Go), ⭐ 39,944, Category: tech
+
+## [2026-04-10] trending | Pulumi: Infrastructure as Code in Any Language
+- Source: GitHub Trending (Go), ⭐ 25,016, Category: infra
+
+## [2026-04-10] trending | NATS Server
+- Source: GitHub Trending (Go), ⭐ 19,547, Category: infra
+
+## [2026-04-10] trending | Canopy Network Protocol
+- Source: GitHub Trending (Go), ⭐ 9,340, Category: tech
+
+## [2026-04-10] trending | Go GitHub API Client Library
+- Source: GitHub Trending (Go), ⭐ 11,184, Category: tech
+
+## [2026-04-10] trending | Maccy
+- Source: GitHub Trending (Swift), ⭐ 19,315, Category: projects
+
+## [2026-04-10] trending | Sentry Cocoa SDK
+- Source: GitHub Trending (Swift), ⭐ 1,046, Category: tech
+
+## [2026-04-10] trending | Swift Snapshot Testing Library
+- Source: GitHub Trending (Swift), ⭐ 4,203, Category: tech
+
+## [2026-04-10] trending | Lottie iOS Animation Library
+- Source: GitHub Trending (Swift), ⭐ 26,728, Category: tech
+
+## [2026-04-10] trending | FluidVoice: Open-Source macOS Dictation App
+- Source: GitHub Trending (Swift), ⭐ 1,731, Category: projects
+
+## [2026-04-10] trending | SQLiteData Swift SQLite & CloudKit Sync
+- Source: GitHub Trending (Swift), ⭐ 1,749, Category: tech
+
+## [2026-04-10] trending | GitHub Copilot for Xcode
+- Source: GitHub Trending (Swift), ⭐ 5,970, Category: tech
