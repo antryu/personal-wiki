@@ -1,0 +1,83 @@
+[Tue Apr  7 00:30:01 KST 2026] Backing up Claude Code sessions...
+  ✅ -Users-andrew-openclaw-fresh/04073591-5d46-4544-b3a3-f699af3ad130.jsonl
+[main 783d905] auto: claude-code session backup 2026-04-07
+ 1 file changed, 1661 insertions(+)
+ create mode 100644 raw/claude-code/-Users-andrew-openclaw-fresh/04073591-5d46-4544-b3a3-f699af3ad130.jsonl
+fatal: could not read Username for 'https://github.com': Device not configured
+push failed
+[Tue Apr  7 00:30:02 KST 2026] Done
+[Wed Apr  8 00:30:00 KST 2026] Backing up Claude Code sessions...
+  ✅ -Users-andrew-openclaw-fresh/04073591-5d46-4544-b3a3-f699af3ad130.jsonl
+  ✅ subagents/agent-a0ae66cbaee71bb79.jsonl
+  ✅ -Users-andrew-PRJs-GovRFP/d3d2b3bc-7009-4dc4-b192-ab37518c6172.jsonl
+  ✅ -Users-andrew-PRJs-GovRFP/0a924ea0-4517-4fcf-95e4-653b4b5b2793.jsonl
+  ✅ subagents/agent-ac9fc7eb904f9d111.jsonl
+  ✅ subagents/agent-ac59bbd8a6354dca5.jsonl
+  ✅ subagents/agent-af67640a6c67e0b27.jsonl
+  ✅ -Users-andrew-PRJs-GovRFP/a71a5fa9-f66e-4a07-a7c6-cfb96403f4dd.jsonl
+  ✅ -Users-andrew-PRJs-GovRFP/62df58c8-26fa-41f3-af52-f613cba1689d.jsonl
+  ✅ subagents/agent-a894b886f114fc16d.jsonl
+  ✅ subagents/agent-ad0b528f9a02cffa0.jsonl
+  ✅ -Users-andrew-PRJs/e9294cbc-5670-4332-89db-2df3fd226158.jsonl
+  ✅ -Users-andrew-y-company/c46b7f0f-0f75-42d1-9e15-f8df2da13615.jsonl
+  ✅ -Users-andrew-y-company/ab52a8ea-035d-49e6-bd43-d10d6fe0a29b.jsonl
+[main e221c6c] auto: claude-code session backup 2026-04-08
+ 14 files changed, 6909 insertions(+)
+ create mode 100644 raw/claude-code/-Users-andrew-PRJs-GovRFP/0a924ea0-4517-4fcf-95e4-653b4b5b2793.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-PRJs-GovRFP/62df58c8-26fa-41f3-af52-f613cba1689d.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-PRJs-GovRFP/a71a5fa9-f66e-4a07-a7c6-cfb96403f4dd.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-PRJs-GovRFP/d3d2b3bc-7009-4dc4-b192-ab37518c6172.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-PRJs/e9294cbc-5670-4332-89db-2df3fd226158.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-y-company/ab52a8ea-035d-49e6-bd43-d10d6fe0a29b.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-y-company/c46b7f0f-0f75-42d1-9e15-f8df2da13615.jsonl
+ create mode 100644 raw/claude-code/subagents/agent-a0ae66cbaee71bb79.jsonl
+ create mode 100644 raw/claude-code/subagents/agent-a894b886f114fc16d.jsonl
+ create mode 100644 raw/claude-code/subagents/agent-ac59bbd8a6354dca5.jsonl
+ create mode 100644 raw/claude-code/subagents/agent-ac9fc7eb904f9d111.jsonl
+ create mode 100644 raw/claude-code/subagents/agent-ad0b528f9a02cffa0.jsonl
+ create mode 100644 raw/claude-code/subagents/agent-af67640a6c67e0b27.jsonl
+fatal: could not read Username for 'https://github.com': Device not configured
+push failed
+[Wed Apr  8 00:30:02 KST 2026] Done
+[Thu Apr  9 00:30:00 KST 2026] Backing up Claude Code sessions...
+  ✅ subagents/agent-a2f8cc2eaa5cb7b5c.jsonl
+  ✅ -Users-andrew-PRJs-hydrogen-law/d6ee7424-4589-4ac0-8755-7b04f32ba829.jsonl
+  ✅ -Users-andrew-PRJs/e9294cbc-5670-4332-89db-2df3fd226158.jsonl
+  ✅ -Users-andrew-y-company-oss/ba85c1ac-73fd-4695-aab8-9399c498b330.jsonl
+  ✅ -Users-andrew-y-company-oss/56b9afa5-f3fc-4d6a-84d5-17d36ad45b12.jsonl
+  ✅ -Users-andrew-y-company-oss/6caead8d-cb15-4726-a2e6-4fe2001f4497.jsonl
+  ✅ -Users-andrew-y-company-oss/23d1261b-2670-4b2f-9d4f-2187291cc929.jsonl
+  ✅ -Users-andrew-y-company-oss/1fc20b90-84bc-413a-b136-7190d4fe311d.jsonl
+  ✅ -Users-andrew-y-company-oss/4cb8fd43-f182-4e3a-840c-2f902952b960.jsonl
+  ✅ -Users-andrew-y-company-oss/9b5f4807-d324-404b-87a1-f0f149bf527c.jsonl
+  ✅ -Users-andrew-y-company-oss/76151b9b-0b53-4e4e-9f81-3abfab3c1a5b.jsonl
+  ✅ -Users-andrew-y-company-oss/d77244a0-294f-46bf-9f39-26ca389dd28d.jsonl
+  ✅ -Users-andrew-y-company-oss/9861e5d3-1616-4560-b17f-48540756d940.jsonl
+  ✅ -Users-andrew-y-company-oss/d6b259c7-d0f5-428d-9fe6-61d15b27ba50.jsonl
+  ✅ -Users-andrew/450bf821-13ae-40d0-86a0-c56ac720a9a5.jsonl
+[main 6d0cd40] auto: claude-code session backup 2026-04-09
+ 15 files changed, 2137 insertions(+)
+ create mode 100644 raw/claude-code/-Users-andrew-PRJs-hydrogen-law/d6ee7424-4589-4ac0-8755-7b04f32ba829.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-y-company-oss/1fc20b90-84bc-413a-b136-7190d4fe311d.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-y-company-oss/23d1261b-2670-4b2f-9d4f-2187291cc929.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-y-company-oss/4cb8fd43-f182-4e3a-840c-2f902952b960.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-y-company-oss/56b9afa5-f3fc-4d6a-84d5-17d36ad45b12.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-y-company-oss/6caead8d-cb15-4726-a2e6-4fe2001f4497.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-y-company-oss/76151b9b-0b53-4e4e-9f81-3abfab3c1a5b.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-y-company-oss/9861e5d3-1616-4560-b17f-48540756d940.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-y-company-oss/9b5f4807-d324-404b-87a1-f0f149bf527c.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-y-company-oss/ba85c1ac-73fd-4695-aab8-9399c498b330.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-y-company-oss/d6b259c7-d0f5-428d-9fe6-61d15b27ba50.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew-y-company-oss/d77244a0-294f-46bf-9f39-26ca389dd28d.jsonl
+ create mode 100644 raw/claude-code/-Users-andrew/450bf821-13ae-40d0-86a0-c56ac720a9a5.jsonl
+ create mode 100644 raw/claude-code/subagents/agent-a2f8cc2eaa5cb7b5c.jsonl
+fatal: could not read Username for 'https://github.com': Device not configured
+push failed
+[Thu Apr  9 00:30:03 KST 2026] Done
+[Fri Apr 10 00:30:00 KST 2026] Backing up Claude Code sessions...
+  ✅ -Users-andrew-PRJs/e9294cbc-5670-4332-89db-2df3fd226158.jsonl
+[main 65402ba] auto: claude-code session backup 2026-04-10
+ 1 file changed, 24 insertions(+)
+fatal: could not read Username for 'https://github.com': Device not configured
+push failed
+[Fri Apr 10 00:30:02 KST 2026] Done

@@ -1,0 +1,1 @@
+파일 쓰기 권한이 필요합니다. `wiki/tech/ui-design-components.md` 파일 생성을 허용해 주세요. 위키 아티클은 원본 Component Gallery Cheatsheet를 9개 카테고리(Navigation, Input, Form, Layout, Content, Feedback, Overlay, Utility)로 정리하고 혼동되는 네이밍 비교표를 포함합니다.

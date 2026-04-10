@@ -1,0 +1,5 @@
+raw/openclaw-memory/
+raw/openclaw-sessions/
+raw/thairon-index/
+node_modules/
+*.sqlite

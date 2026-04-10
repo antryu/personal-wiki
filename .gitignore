@@ -1,0 +1,8 @@
+*.pyc
+*.sqlite
+.vercel
+__pycache__/
+node_modules/
+raw/claude-code-m1/
+raw/claude-code/
+raw/openclaw-memory/

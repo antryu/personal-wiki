@@ -1,0 +1,1 @@
+맥북 한 대로 멀티모달 파인튜닝을 한다고? Gemma 4 Fine-Tuner가 보여주는 로컬 AI의 현재 - 박재홍의 실리콘밸리 https://share.google/U8cHQxEvPrnvbeC90
