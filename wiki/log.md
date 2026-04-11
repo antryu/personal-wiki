@@ -279,3 +279,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-10] trending | GitHub Copilot for Xcode
 - Source: GitHub Trending (Swift), ⭐ 5,970, Category: tech
+
+## [2026-04-11] lint | automated
+- Broken links: 0, Orphans: 122, Oversized: 6, Placeholders: 78, Total: 198
