@@ -282,3 +282,123 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-11] lint | automated
 - Broken links: 0, Orphans: 122, Oversized: 6, Placeholders: 78, Total: 198
+
+## [2026-04-11] trending | China Textbook Repository
+- Source: GitHub Trending (Roff), ⭐ 67,756, Category: reference
+
+## [2026-04-11] trending | Awesome Design Systems
+- Source: GitHub Trending (all), ⭐ 22,189, Category: tech
+
+## [2026-04-11] trending | Reverse-Engineering SynthID Watermark
+- Source: GitHub Trending (Python), ⭐ 2,120, Category: research
+
+## [2026-04-11] trending | Scientific Agent Skills for Research
+- Source: GitHub Trending (Python), ⭐ 18,136, Category: research
+
+## [2026-04-11] trending | BERT: Pre-Trained NLP Models
+- Source: GitHub Trending (Python), ⭐ 39,974, Category: tech
+
+## [2026-04-11] trending | AgentScope: Transparent AI Agent Framework
+- Source: GitHub Trending (Python), ⭐ 23,431, Category: projects
+
+## [2026-04-11] trending | CompressO
+- Source: GitHub Trending (TypeScript), ⭐ 3,073, Category: projects
+
+## [2026-04-11] trending | Autonomous AI Coding Agent
+- Source: GitHub Trending (TypeScript), ⭐ 15,339, Category: tech
+
+## [2026-04-11] trending | Web Testing & Automation Framework
+- Source: GitHub Trending (TypeScript), ⭐ 86,130, Category: tech
+
+## [2026-04-11] trending | Claude Code Skills Collection
+- Source: GitHub Trending (TypeScript), ⭐ 14,146, Category: tech
+
+## [2026-04-11] trending | Qwen Code Agent
+- Source: GitHub Trending (TypeScript), ⭐ 22,711, Category: projects
+
+## [2026-04-11] trending | AutoBE AI Backend Builder
+- Source: GitHub Trending (TypeScript), ⭐ 1,219, Category: tech
+
+## [2026-04-11] trending | GitButler
+- Source: GitHub Trending (Rust), ⭐ 20,300, Category: projects
+
+## [2026-04-11] trending | RustFS Object Storage
+- Source: GitHub Trending (Rust), ⭐ 24,807, Category: infra
+
+## [2026-04-11] trending | RMCP Rust SDK
+- Source: GitHub Trending (Rust), ⭐ 3,284, Category: tech
+
+## [2026-04-11] trending | Iced GUI Library
+- Source: GitHub Trending (Rust), ⭐ 30,149, Category: tech
+
+## [2026-04-11] trending | DiskANN Project
+- Source: GitHub Trending (Rust), ⭐ 1,751, Category: projects
+
+## [2026-04-11] trending | Codex CLI
+- Source: GitHub Trending (Rust), ⭐ 74,636, Category: projects
+
+## [2026-04-11] trending | AI-Enhanced Kanban Task Manager
+- Source: GitHub Trending (Rust), ⭐ 24,840, Category: projects
+
+## [2026-04-11] trending | Apache OpenDAL Unified Storage Layer
+- Source: GitHub Trending (Rust), ⭐ 4,996, Category: infra
+
+## [2026-04-11] trending | Polkadot Blockchain SDK
+- Source: GitHub Trending (Rust), ⭐ 2,743, Category: tech
+
+## [2026-04-11] trending | MCP Database Toolbox
+- Source: GitHub Trending (Go), ⭐ 14,391, Category: infra
+
+## [2026-04-11] trending | AI-Powered VPS Control Panel
+- Source: GitHub Trending (Go), ⭐ 34,918, Category: infra
+
+## [2026-04-11] trending | NVIDIA GPU Operator
+- Source: GitHub Trending (Go), ⭐ 2,632, Category: infra
+
+## [2026-04-11] trending | Flux2: Kubernetes GitOps Solution
+- Source: GitHub Trending (Go), ⭐ 8,030, Category: infra
+
+## [2026-04-11] trending | Heterogeneous GPU Sharing on Kubernetes
+- Source: GitHub Trending (Go), ⭐ 3,263, Category: projects
+
+## [2026-04-11] trending | Sealed Secrets for Kubernetes
+- Source: GitHub Trending (Go), ⭐ 9,026, Category: tech
+
+## [2026-04-11] trending | LangChain for Go
+- Source: GitHub Trending (Go), ⭐ 9,035, Category: tech
+
+## [2026-04-11] trending | gRPC Go Implementation
+- Source: GitHub Trending (Go), ⭐ 22,896, Category: tech
+
+## [2026-04-11] trending | Harness DevOps Platform
+- Source: GitHub Trending (Go), ⭐ 34,536, Category: tech
+
+## [2026-04-11] trending | Eino: Go AI Framework
+- Source: GitHub Trending (Go), ⭐ 10,565, Category: tech
+
+## [2026-04-11] trending | macOS Instant Space Switcher
+- Source: GitHub Trending (Swift), ⭐ 1,156, Category: projects
+
+## [2026-04-11] trending | VibeProxy AI Coding Tool
+- Source: GitHub Trending (Swift), ⭐ 2,341, Category: tech
+
+## [2026-04-11] trending | BoringNotch Custom Notch Design
+- Source: GitHub Trending (Swift), ⭐ 8,112, Category: projects
+
+## [2026-04-11] trending | Datadog iOS SDK
+- Source: GitHub Trending (Swift), ⭐ 279, Category: tech
+
+## [2026-04-11] trending | VoiceInk Voice-to-Text App
+- Source: GitHub Trending (Swift), ⭐ 4,539, Category: tech
+
+## [2026-04-11] trending | MLX Swift LLM/VLM Framework
+- Source: GitHub Trending (Swift), ⭐ 382, Category: tech
+
+## [2026-04-11] trending | AI Coding Assistant Usage Monitor
+- Source: GitHub Trending (Swift), ⭐ 932, Category: tech
+
+## [2026-04-11] trending | Xcode Project Generator
+- Source: GitHub Trending (Swift), ⭐ 8,324, Category: projects
+
+## [2026-04-11] trending | Next-Gen Matrix iOS Client
+- Source: GitHub Trending (Swift), ⭐ 798, Category: projects

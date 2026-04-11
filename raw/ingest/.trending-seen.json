@@ -1,238 +1,398 @@
 [
   {
     "repo": "NousResearch/hermes-agent",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "forrestchang/andrej-karpathy-skills",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "HKUDS/DeepTutor",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "coleam00/Archon",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "YishenTu/claudian",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "aaif-goose/goose",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "antinomyhq/forgecode",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "goharbor/harbor",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "vxcontrol/pentagi",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "osaurus-ai/osaurus",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "madeye/BaoLianDeng",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "microsoft/markitdown",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "rowboatlabs/rowboat",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "multica-ai/multica",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "shiyu-coder/Kronos",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "opendataloader-project/opendataloader-pdf",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "jqlang/jq",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "shanraisshan/claude-code-best-practice",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "FloatingPragma/observer-patch-holography",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "PrefectHQ/prefect",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "OpenBMB/VoxCPM",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "jingyaogong/minimind",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "feast-dev/feast",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "666ghj/MiroFish",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "tradingview/lightweight-charts",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "zhukunpenglinyutong/jetbrains-cc-gui",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "moeru-ai/airi",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "hicccc77/WeFlow",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "continuedev/continue",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "microsoft/playwright-cli",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "n8n-io/n8n",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "ChromeDevTools/chrome-devtools-mcp",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "astral-sh/uv",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "astral-sh/ruff",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "denoland/deno",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "paradigmxyz/reth",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "TabbyML/tabby",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "lance-format/lance",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "farion1231/cc-switch",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "qufei1993/skills-hub",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "pola-rs/polars",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "git-ai-project/git-ai",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "Wei-Shaw/sub2api",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "grafana/mcp-grafana",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "docker/compose",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "helm/helm",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "maximhq/bifrost",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "pingcap/tidb",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "pulumi/pulumi",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "nats-io/nats-server",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "canopy-network/canopy",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "google/go-github",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "p0deje/Maccy",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "getsentry/sentry-cocoa",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "pointfreeco/swift-snapshot-testing",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "airbnb/lottie-ios",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "altic-dev/FluidVoice",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "pointfreeco/sqlite-data",
-    "ts": 1775862956727
+    "ts": 1775948663447
   },
   {
     "repo": "github/CopilotForXcode",
-    "ts": 1775862956727
+    "ts": 1775948663447
+  },
+  {
+    "repo": "TapXWorld/ChinaTextbook",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "alexpate/awesome-design-systems",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "aloshdenny/reverse-SynthID",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "google-research/bert",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "agentscope-ai/agentscope",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "codeforreal1/compressO",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "snarktank/ralph",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "microsoft/playwright",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "JimLiu/baoyu-skills",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "QwenLM/qwen-code",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "wrtnlabs/autobe",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "gitbutlerapp/gitbutler",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "rustfs/rustfs",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "modelcontextprotocol/rust-sdk",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "iced-rs/iced",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "microsoft/DiskANN",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "openai/codex",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "BloopAI/vibe-kanban",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "apache/opendal",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "paritytech/polkadot-sdk",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "googleapis/mcp-toolbox",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "1Panel-dev/1Panel",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "NVIDIA/gpu-operator",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "fluxcd/flux2",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "Project-HAMi/HAMi",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "bitnami-labs/sealed-secrets",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "tmc/langchaingo",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "grpc/grpc-go",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "harness/harness",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "cloudwego/eino",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "jurplel/InstantSpaceSwitcher",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "automazeio/vibeproxy",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "TheBoredTeam/boring.notch",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "DataDog/dd-sdk-ios",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "Beingpax/VoiceInk",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "ml-explore/mlx-swift-lm",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "tddworks/ClaudeBar",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "yonaskolb/XcodeGen",
+    "ts": 1775948663447
+  },
+  {
+    "repo": "element-hq/element-x-ios",
+    "ts": 1775948663447
   }
 ]
