@@ -420,3 +420,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-12] ingest | Spark to System Part II
 - Source: bot, Category: tech, Raw: raw/ingest/tech/2026-04-12-spark-to-system-part-ii.md
+
+## [2026-04-12] ingest | Kiwoom Securities Trade Confirmations
+- Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-12-kiwoom-securities-trade-confirmations.md
