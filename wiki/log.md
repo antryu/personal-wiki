@@ -441,3 +441,78 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-12] ingest | Autoresearch by Ralphloop
 - Source: bot, Category: research, Raw: raw/ingest/research/2026-04-12-autoresearch-by-ralphloop.md
+
+## [2026-04-12] trending | AI-Powered Hedge Fund Simulation
+- Source: GitHub Trending (Python), ⭐ 52,130, Category: finance
+
+## [2026-04-12] trending | AI PPT Generator
+- Source: GitHub Trending (Python), ⭐ 4,688, Category: tech
+
+## [2026-04-12] trending | LLM-Powered Stock Analysis System
+- Source: GitHub Trending (Python), ⭐ 29,501, Category: projects
+
+## [2026-04-12] trending | Command-Line Video Downloader
+- Source: GitHub Trending (Python), ⭐ 156,419, Category: tech
+
+## [2026-04-12] trending | Voicebox: Open-Source Voice Synthesis Studio
+- Source: GitHub Trending (TypeScript), ⭐ 15,319, Category: projects
+
+## [2026-04-12] trending | Obsidian Web Clipper
+- Source: GitHub Trending (TypeScript), ⭐ 3,725, Category: tech
+
+## [2026-04-12] trending | Web Data API for AI Agents
+- Source: GitHub Trending (TypeScript), ⭐ 108,098, Category: tech
+
+## [2026-04-12] trending | TinyFish Cookbook Projects
+- Source: GitHub Trending (TypeScript), ⭐ 1,572, Category: projects
+
+## [2026-04-12] trending | Memory-First Coding Agent
+- Source: GitHub Trending (TypeScript), ⭐ 2,199, Category: projects
+
+## [2026-04-12] trending | Real-World Minecraft Generator
+- Source: GitHub Trending (Rust), ⭐ 14,839, Category: projects
+
+## [2026-04-12] trending | Secure Personal AI Assistant
+- Source: GitHub Trending (Rust), ⭐ 11,682, Category: projects
+
+## [2026-04-12] trending | Rust GPUI Desktop Components
+- Source: GitHub Trending (Rust), ⭐ 10,933, Category: tech
+
+## [2026-04-12] trending | Rust-native Trading Engine
+- Source: GitHub Trending (Rust), ⭐ 21,822, Category: projects
+
+## [2026-04-12] trending | DORA Robotics Framework
+- Source: GitHub Trending (Rust), ⭐ 3,433, Category: tech
+
+## [2026-04-12] trending | egui: Rust GUI Library
+- Source: GitHub Trending (Rust), ⭐ 28,715, Category: tech
+
+## [2026-04-12] trending | Rust SQL Toolkit
+- Source: GitHub Trending (Rust), ⭐ 16,871, Category: tech
+
+## [2026-04-12] trending | ankitects/anki
+- Source: GitHub Trending (Rust), ⭐ 27,401, Category: tech
+
+## [2026-04-12] trending | Local AI Model Swapping Infrastructure
+- Source: GitHub Trending (Go), ⭐ 3,225, Category: infra
+
+## [2026-04-12] trending | Cross-Platform Download Manager
+- Source: GitHub Trending (Go), ⭐ 23,841, Category: projects
+
+## [2026-04-12] trending | Claude CLI
+- Source: GitHub Trending (Go), ⭐ 281, Category: projects
+
+## [2026-04-12] trending | Versity S3 Gateway
+- Source: GitHub Trending (Go), ⭐ 1,515, Category: tech
+
+## [2026-04-12] trending | Multi-Cloud Kubernetes Orchestration
+- Source: GitHub Trending (Go), ⭐ 5,398, Category: tech
+
+## [2026-04-12] trending | SagerNet/sing-box
+- Source: GitHub Trending (Go), ⭐ 32,533, Category: tech
+
+## [2026-04-12] trending | Signal iOS Messenger
+- Source: GitHub Trending (Swift), ⭐ 11,968, Category: projects
+
+## [2026-04-12] trending | Composable Architecture for Swift
+- Source: GitHub Trending (Swift), ⭐ 14,529, Category: tech
