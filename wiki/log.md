@@ -408,3 +408,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-12] ingest | From Spark to System Part II
 - Source: bot, Category: tech, Raw: raw/ingest/tech/2026-04-12-from-spark-to-system-part-ii.md
+
+## [2026-04-12] ingest | Content Summary Request
+- Source: bot, Category: insights, Raw: raw/ingest/insights/2026-04-12-content-summary-request.md
