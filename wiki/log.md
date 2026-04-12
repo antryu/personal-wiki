@@ -435,3 +435,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-12] ingest | Kiwon Settlement Alert
 - Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-12-kiwon-settlement-alert.md
+
+## [2026-04-12] ingest | 키움증권 체결알림
+- Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-12-키움증권-체결알림.md
