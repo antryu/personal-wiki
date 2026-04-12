@@ -438,3 +438,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-12] ingest | 키움증권 체결알림
 - Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-12-키움증권-체결알림.md
+
+## [2026-04-12] ingest | Autoresearch by Ralphloop
+- Source: bot, Category: research, Raw: raw/ingest/research/2026-04-12-autoresearch-by-ralphloop.md
