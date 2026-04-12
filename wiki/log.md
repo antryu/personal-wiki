@@ -402,3 +402,9 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-11] trending | Next-Gen Matrix iOS Client
 - Source: GitHub Trending (Swift), ⭐ 798, Category: projects
+
+## [2026-04-12] lint | automated
+- Broken links: 0, Orphans: 162, Oversized: 6, Placeholders: 78, Total: 238
+
+## [2026-04-12] ingest | From Spark to System Part II
+- Source: bot, Category: tech, Raw: raw/ingest/tech/2026-04-12-from-spark-to-system-part-ii.md
