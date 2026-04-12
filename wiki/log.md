@@ -429,3 +429,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-12] ingest | Memory Shortage
 - Source: bot, Category: tech, Raw: raw/ingest/tech/2026-04-12-memory-shortage.md
+
+## [2026-04-12] ingest | Kiwoom Trade Confirmations
+- Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-12-kiwoom-trade-confirmations.md
