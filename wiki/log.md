@@ -411,3 +411,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-12] ingest | Content Summary Request
 - Source: bot, Category: insights, Raw: raw/ingest/insights/2026-04-12-content-summary-request.md
+
+## [2026-04-12] ingest | Content Summary
+- Source: bot, Category: research, Raw: raw/ingest/research/2026-04-12-content-summary.md

@@ -13,3 +13,10 @@
 - **AI 정보 채널** — 추천 소스 목록
 
 권한을 허용하면 바로 파일을 생성하고 `index.md`도 업데이트하겠습니다.
+
+
+## Content Summary (2026-04-12)
+
+<@1472756256975491266>  내용요약
+
+- Source: [원본](raw/ingest/research/2026-04-12-content-summary.md)
