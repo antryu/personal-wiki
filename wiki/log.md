@@ -426,3 +426,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-12] ingest | April S&P 500 Transaction History
 - Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-12-april-s-p-500-transaction-history.md
+
+## [2026-04-12] ingest | Memory Shortage
+- Source: bot, Category: tech, Raw: raw/ingest/tech/2026-04-12-memory-shortage.md
