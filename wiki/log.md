@@ -417,3 +417,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-12] ingest | User Summary
 - Source: bot, Category: reference, Raw: raw/ingest/reference/2026-04-12-user-summary.md
+
+## [2026-04-12] ingest | Spark to System Part II
+- Source: bot, Category: tech, Raw: raw/ingest/tech/2026-04-12-spark-to-system-part-ii.md

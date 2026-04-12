@@ -1,0 +1,2 @@
+<@1472756256975491266> 요약
+https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fvoiceinthemachine.com%2F2026%2F04%2F10%2Ffrom-spark-to-system-part-ii&urlhash=ahgF&mt=ydCas_-jGs2aCYTt4kGDWheyntjdlTZAGLjI-ry3mtvDLejoJ9cyVSe322CcrmiA07YELK8FT3OUwpDCVBI8IBa9mZX46CNiTjWG_hXxcfF7L4X2dbbq-A&isSdui=true
