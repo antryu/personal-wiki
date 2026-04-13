@@ -147,3 +147,14 @@ The following paths are ignored by one of your .gitignore files:
 raw/claude-code
 hint: Use -f if you really want to add them.
 hint: Disable this message with "git config set advice.addIgnoredFile false"
+[Tue Apr 14 00:30:00 KST 2026] Backing up Claude Code sessions...
+  ✅ subagents/agent-aa5dbc5c924c6037e.jsonl
+  ✅ subagents/agent-ad734db3d465696f7.jsonl
+  ✅ subagents/agent-a45503277cf4b6a67.jsonl
+  ✅ subagents/agent-acompact-f38c56c3f2af4e18.jsonl
+  ✅ subagents/agent-a21e157a4cc0f50ca.jsonl
+  ✅ -Users-andrew-PRJs/e9294cbc-5670-4332-89db-2df3fd226158.jsonl
+The following paths are ignored by one of your .gitignore files:
+raw/claude-code
+hint: Use -f if you really want to add them.
+hint: Disable this message with "git config set advice.addIgnoredFile false"
