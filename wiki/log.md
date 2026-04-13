@@ -519,3 +519,96 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-13] lint | automated
 - Broken links: 0, Orphans: 187, Oversized: 6, Placeholders: 78, Total: 263
+
+## [2026-04-13] trending | Claude API Cookbook
+- Source: GitHub Trending (Jupyter Notebook), ⭐ 39,417, Category: tech
+
+## [2026-04-13] trending | AI Coding Context Optimization System
+- Source: GitHub Trending (JavaScript), ⭐ 52,028, Category: tech
+
+## [2026-04-13] trending | Axolotl LLM Fine-tuning Framework
+- Source: GitHub Trending (Python), ⭐ 11,677, Category: tech
+
+## [2026-04-13] trending | Microsoft Agent Lightning: AI Agent Trainer
+- Source: GitHub Trending (Python), ⭐ 16,831, Category: projects
+
+## [2026-04-13] trending | AI Short Video Engine
+- Source: GitHub Trending (Python), ⭐ 3,771, Category: projects
+
+## [2026-04-13] trending | Twenty: Open-Source CRM Alternative
+- Source: GitHub Trending (TypeScript), ⭐ 43,930, Category: projects
+
+## [2026-04-13] trending | Offline Survival Computer
+- Source: GitHub Trending (TypeScript), ⭐ 23,458, Category: projects
+
+## [2026-04-13] trending | React Video Creation Framework
+- Source: GitHub Trending (TypeScript), ⭐ 43,109, Category: tech
+
+## [2026-04-13] trending | RapidRAW: GPU-Accelerated RAW Image Editor
+- Source: GitHub Trending (TypeScript), ⭐ 6,382, Category: projects
+
+## [2026-04-13] trending | AI-Native Proxy for Agentic Apps
+- Source: GitHub Trending (Rust), ⭐ 6,292, Category: infra
+
+## [2026-04-13] trending | High-Performance Graph-RAG Framework in Rust
+- Source: GitHub Trending (Rust), ⭐ 1,668, Category: tech
+
+## [2026-04-13] trending | Wasmer: WebAssembly Containers
+- Source: GitHub Trending (Rust), ⭐ 20,599, Category: tech
+
+## [2026-04-13] trending | Unified Data & AI Computation Framework
+- Source: GitHub Trending (Rust), ⭐ 1,324, Category: projects
+
+## [2026-04-13] trending | EasyTier Mesh VPN
+- Source: GitHub Trending (Rust), ⭐ 10,832, Category: tech
+
+## [2026-04-13] trending | SurrealDB Realtime Database
+- Source: GitHub Trending (Rust), ⭐ 31,839, Category: tech
+
+## [2026-04-13] trending | BAML Framework
+- Source: GitHub Trending (Rust), ⭐ 7,970, Category: tech
+
+## [2026-04-13] trending | Apache DataFusion
+- Source: GitHub Trending (Rust), ⭐ 8,598, Category: tech
+
+## [2026-04-13] trending | Mullvad VPN Client App
+- Source: GitHub Trending (Rust), ⭐ 6,962, Category: projects
+
+## [2026-04-13] trending | Tailscale Secure WireGuard Networking
+- Source: GitHub Trending (Go), ⭐ 30,504, Category: tech
+
+## [2026-04-13] trending | V2Ray Community Domain List
+- Source: GitHub Trending (Go), ⭐ 8,273, Category: projects
+
+## [2026-04-13] trending | PanSou Cloud Search API
+- Source: GitHub Trending (Go), ⭐ 12,636, Category: projects
+
+## [2026-04-13] trending | Loki Log Aggregation System
+- Source: GitHub Trending (Go), ⭐ 27,980, Category: infra
+
+## [2026-04-13] trending | Lucky Network Utility
+- Source: GitHub Trending (Go), ⭐ 7,614, Category: infra
+
+## [2026-04-13] trending | HomeBox Inventory System
+- Source: GitHub Trending (Go), ⭐ 5,692, Category: projects
+
+## [2026-04-13] trending | Cloudflare Speed Test Tool
+- Source: GitHub Trending (Go), ⭐ 25,789, Category: projects
+
+## [2026-04-13] trending | AdGuardHome
+- Source: GitHub Trending (Go), ⭐ 33,525, Category: infra
+
+## [2026-04-13] trending | TinyGo: Go Compiler for Microcontrollers & WebAssembly
+- Source: GitHub Trending (Go), ⭐ 17,342, Category: tech
+
+## [2026-04-13] trending | FineTune macOS Audio Controller
+- Source: GitHub Trending (Swift), ⭐ 5,618, Category: projects
+
+## [2026-04-13] trending | Apple Container Tool
+- Source: GitHub Trending (Swift), ⭐ 25,889, Category: tech
+
+## [2026-04-13] trending | FluxMarkdown: Enhanced Markdown Preview for macOS
+- Source: GitHub Trending (Swift), ⭐ 463, Category: tech
+
+## [2026-04-13] trending | Eevee Spotify Reborn
+- Source: GitHub Trending (Swift), ⭐ 2,223, Category: projects
