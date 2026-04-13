@@ -516,3 +516,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-12] trending | Composable Architecture for Swift
 - Source: GitHub Trending (Swift), ⭐ 14,529, Category: tech
+
+## [2026-04-13] lint | automated
+- Broken links: 0, Orphans: 187, Oversized: 6, Placeholders: 78, Total: 263
