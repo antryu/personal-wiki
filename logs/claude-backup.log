@@ -158,3 +158,10 @@ The following paths are ignored by one of your .gitignore files:
 raw/claude-code
 hint: Use -f if you really want to add them.
 hint: Disable this message with "git config set advice.addIgnoredFile false"
+[Wed Apr 15 00:30:00 KST 2026] Backing up Claude Code sessions...
+  ✅ -Users-andrew-PRJs/e9294cbc-5670-4332-89db-2df3fd226158.jsonl
+  ✅ -Users-andrew-y-company-oss/82e96fb1-e280-45c3-add2-527d65961b5a.jsonl
+The following paths are ignored by one of your .gitignore files:
+raw/claude-code
+hint: Use -f if you really want to add them.
+hint: Disable this message with "git config set advice.addIgnoredFile false"
