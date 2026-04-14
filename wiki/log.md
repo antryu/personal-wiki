@@ -615,3 +615,81 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-14] lint | automated
 - Broken links: 0, Orphans: 218, Oversized: 6, Placeholders: 78, Total: 294
+
+## [2026-04-14] trending | Pascal 3D Architectural Editor
+- Source: GitHub Trending (TypeScript), ⭐ 11,497, Category: projects
+
+## [2026-04-14] trending | Awesome Systematic Trading
+- Source: GitHub Trending (Python), ⭐ 7,893, Category: reference
+
+## [2026-04-14] trending | OpenSRE Toolkit
+- Source: GitHub Trending (Python), ⭐ 724, Category: tech
+
+## [2026-04-14] trending | Ultralytics YOLO
+- Source: GitHub Trending (Python), ⭐ 55,909, Category: tech
+
+## [2026-04-14] trending | Claude Code Skills & Plugins for AI Coding Tools
+- Source: GitHub Trending (Python), ⭐ 11,079, Category: projects
+
+## [2026-04-14] trending | Seerr Media Request Manager
+- Source: GitHub Trending (TypeScript), ⭐ 10,809, Category: projects
+
+## [2026-04-14] trending | Open Agent Skills CLI
+- Source: GitHub Trending (TypeScript), ⭐ 14,123, Category: tech
+
+## [2026-04-14] trending | SuperSplat Editor
+- Source: GitHub Trending (TypeScript), ⭐ 4,365, Category: projects
+
+## [2026-04-14] trending | Database Diagram Editor
+- Source: GitHub Trending (TypeScript), ⭐ 21,842, Category: tech
+
+## [2026-04-14] trending | OmniGet: Multi-Platform Media Downloader
+- Source: GitHub Trending (Rust), ⭐ 1,641, Category: projects
+
+## [2026-04-14] trending | Microsandbox for AI Agents
+- Source: GitHub Trending (Rust), ⭐ 5,362, Category: tech
+
+## [2026-04-14] trending | Native Windows Tmux for PowerShell
+- Source: GitHub Trending (PowerShell), ⭐ 1,274, Category: projects
+
+## [2026-04-14] trending | Rust Clippy Linter
+- Source: GitHub Trending (Rust), ⭐ 13,052, Category: tech
+
+## [2026-04-14] trending | Codex Switcher
+- Source: GitHub Trending (Rust), ⭐ 174, Category: tech
+
+## [2026-04-14] trending | Navidrome Music Server
+- Source: GitHub Trending (Go), ⭐ 20,461, Category: projects
+
+## [2026-04-14] trending | AI Model Gateway API
+- Source: GitHub Trending (Go), ⭐ 26,773, Category: infra
+
+## [2026-04-14] trending | Kyverno: Policy-as-Code for Kubernetes
+- Source: GitHub Trending (Go), ⭐ 7,620, Category: projects
+
+## [2026-04-14] trending | HashiCorp Vault - Secrets & Access Management
+- Source: GitHub Trending (Go), ⭐ 35,399, Category: infra
+
+## [2026-04-14] trending | OpenTelemetry Collector
+- Source: GitHub Trending (Go), ⭐ 6,833, Category: infra
+
+## [2026-04-14] trending | Syft
+- Source: GitHub Trending (Go), ⭐ 8,704, Category: tech
+
+## [2026-04-14] trending | AI Native API Gateway
+- Source: GitHub Trending (Go), ⭐ 8,139, Category: infra
+
+## [2026-04-14] trending | Go Database Migrations
+- Source: GitHub Trending (Go), ⭐ 18,359, Category: tech
+
+## [2026-04-14] trending | Kubernetes Workflow Engine
+- Source: GitHub Trending (Go), ⭐ 16,614, Category: infra
+
+## [2026-04-14] trending | Swift Logging API
+- Source: GitHub Trending (Swift), ⭐ 3,993, Category: tech
+
+## [2026-04-14] trending | Firefox iOS App Development
+- Source: GitHub Trending (Swift), ⭐ 12,879, Category: projects
+
+## [2026-04-14] trending | AltStore: Alternative iOS App Store
+- Source: GitHub Trending (Swift), ⭐ 13,762, Category: projects
