@@ -612,3 +612,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-13] trending | Eevee Spotify Reborn
 - Source: GitHub Trending (Swift), ⭐ 2,223, Category: projects
+
+## [2026-04-14] lint | automated
+- Broken links: 0, Orphans: 218, Oversized: 6, Placeholders: 78, Total: 294
