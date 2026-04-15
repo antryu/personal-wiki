@@ -804,3 +804,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-15] trending | macOS Display & Volume Control Tool
 - Source: GitHub Trending (Swift), ⭐ 32,954, Category: tech
+
+## [2026-04-15] ingest | Win Rate Adjustment Needed
+- Source: bot, Category: business, Raw: raw/ingest/business/2026-04-15-win-rate-adjustment-needed.md
