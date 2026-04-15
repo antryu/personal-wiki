@@ -819,3 +819,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-15] ingest | Financial Summary Q1
 - Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-15-financial-summary-q1.md
+
+## [2026-04-15] ingest | S&P500 Trading Review (3/16~4/15)
+- Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-15-s-p500-trading-review-3-16-4-15.md
