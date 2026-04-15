@@ -810,3 +810,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-15] ingest | 수익 변환 95포인트 $475
 - Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-15-수익-변환-95포인트-475.md
+
+## [2026-04-15] ingest | Profit Verification
+- Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-15-profit-verification.md
