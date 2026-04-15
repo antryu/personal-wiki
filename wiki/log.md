@@ -813,3 +813,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-15] ingest | Profit Verification
 - Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-15-profit-verification.md
+
+## [2026-04-15] ingest | Cost-Inclusive Loss
+- Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-15-cost-inclusive-loss.md
