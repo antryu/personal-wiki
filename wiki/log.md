@@ -825,3 +825,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-15] ingest | Financial Transaction Log
 - Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-15-financial-transaction-log.md
+
+## [2026-04-15] ingest | Financial Transaction Records
+- Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-15-financial-transaction-records.md
