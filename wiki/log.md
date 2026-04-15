@@ -771,3 +771,9 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-15] trending | Trivy: Comprehensive Security Scanner
 - Source: GitHub Trending (Go), ⭐ 34,526, Category: tech
+
+## [2026-04-15] ingest | 4월 16일부터 거래 증가
+- Source: bot, Category: business, Raw: raw/ingest/business/2026-04-15-4월-16일부터-거래-증가.md
+
+## [2026-04-15] trending | Headscale: Self-Hosted Tailscale Control Server
+- Source: GitHub Trending (Go), ⭐ 37,446, Category: tech
