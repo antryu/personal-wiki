@@ -789,3 +789,18 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-15] trending | Istio Service Mesh
 - Source: GitHub Trending (Go), ⭐ 38,120, Category: tech
+
+## [2026-04-15] trending | OpenTelemetry Go
+- Source: GitHub Trending (Go), ⭐ 6,349, Category: tech
+
+## [2026-04-15] trending | TLS Server Scanner
+- Source: GitHub Trending (Go), ⭐ 3,508, Category: tech
+
+## [2026-04-15] trending | Swift Code Quality Tool
+- Source: GitHub Trending (Swift), ⭐ 19,525, Category: tech
+
+## [2026-04-15] trending | AI-Powered Terminal for macOS
+- Source: GitHub Trending (Swift), ⭐ 14,271, Category: tech
+
+## [2026-04-15] trending | macOS Display & Volume Control Tool
+- Source: GitHub Trending (Swift), ⭐ 32,954, Category: tech
