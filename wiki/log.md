@@ -777,3 +777,9 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-15] trending | Headscale: Self-Hosted Tailscale Control Server
 - Source: GitHub Trending (Go), ⭐ 37,446, Category: tech
+
+## [2026-04-15] ingest | Transaction Limit Raised to 2 from April 16
+- Source: bot, Category: business, Raw: raw/ingest/business/2026-04-15-transaction-limit-raised-to-2-from-april-16.md
+
+## [2026-04-15] trending | Tinode Instant Messaging Server
+- Source: GitHub Trending (Go), ⭐ 13,245, Category: tech
