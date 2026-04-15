@@ -696,3 +696,69 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-15] lint | automated
 - Broken links: 0, Orphans: 244, Oversized: 6, Placeholders: 78, Total: 320
+
+## [2026-04-15] trending | Hands-on LLM Programming Tutorial
+- Source: GitHub Trending (Jupyter Notebook), ⭐ 29,336, Category: projects
+
+## [2026-04-15] trending | Public APIs Reference
+- Source: GitHub Trending (Python), ⭐ 423,190, Category: reference
+
+## [2026-04-15] trending | Open Agents Project
+- Source: GitHub Trending (TypeScript), ⭐ 2,563, Category: projects
+
+## [2026-04-15] trending | Self-Evolving Agent Framework for System Control
+- Source: GitHub Trending (Python), ⭐ 1,868, Category: research
+
+## [2026-04-15] trending | AI-Powered File Type Detection
+- Source: GitHub Trending (Python), ⭐ 13,707, Category: tech
+
+## [2026-04-15] trending | Multi-Platform AI Assistant Agent
+- Source: GitHub Trending (Python), ⭐ 43,266, Category: projects
+
+## [2026-04-15] trending | System Design Primer
+- Source: GitHub Trending (Python), ⭐ 342,915, Category: tech
+
+## [2026-04-15] trending | High-Performance LLM Serving Framework
+- Source: GitHub Trending (Python), ⭐ 25,855, Category: projects
+
+## [2026-04-15] trending | Open WebUI
+- Source: GitHub Trending (Python), ⭐ 132,052, Category: projects
+
+## [2026-04-15] trending | Open Source DocuSign Alternative
+- Source: GitHub Trending (TypeScript), ⭐ 12,658, Category: projects
+
+## [2026-04-15] trending | Claude Code Ultimate Guide
+- Source: GitHub Trending (TypeScript), ⭐ 3,486, Category: reference
+
+## [2026-04-15] trending | Open-Source Background Agents System
+- Source: GitHub Trending (TypeScript), ⭐ 1,500, Category: tech
+
+## [2026-04-15] trending | OpenSpec: AI Spec-Driven Development Framework
+- Source: GitHub Trending (TypeScript), ⭐ 40,272, Category: tech
+
+## [2026-04-15] trending | Postiz: AI Social Media Scheduler
+- Source: GitHub Trending (TypeScript), ⭐ 28,667, Category: projects
+
+## [2026-04-15] trending | VibeCoding CC GUI Client
+- Source: GitHub Trending (TypeScript), ⭐ 1,449, Category: projects
+
+## [2026-04-15] trending | Plannotator
+- Source: GitHub Trending (TypeScript), ⭐ 4,234, Category: tech
+
+## [2026-04-15] trending | GitLab MCP Server
+- Source: GitHub Trending (TypeScript), ⭐ 1,365, Category: tech
+
+## [2026-04-15] trending | Carbonyl: Terminal-Based Chromium Browser
+- Source: GitHub Trending (Rust), ⭐ 18,463, Category: projects
+
+## [2026-04-15] trending | Semantic Code Analysis CLI
+- Source: GitHub Trending (Rust), ⭐ 1,745, Category: tech
+
+## [2026-04-15] trending | Jujutsu VCS
+- Source: GitHub Trending (Rust), ⭐ 27,995, Category: tech
+
+## [2026-04-15] ingest | S&P500 Performance Summary: March 16 - April 15
+- Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-15-s-p500-performance-summary-march-16-april-15.md
+
+## [2026-04-15] trending | Kiro Rust Client
+- Source: GitHub Trending (Rust), ⭐ 929, Category: projects
