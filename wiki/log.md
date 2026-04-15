@@ -693,3 +693,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-14] trending | AltStore: Alternative iOS App Store
 - Source: GitHub Trending (Swift), ⭐ 13,762, Category: projects
+
+## [2026-04-15] lint | automated
+- Broken links: 0, Orphans: 244, Oversized: 6, Placeholders: 78, Total: 320
