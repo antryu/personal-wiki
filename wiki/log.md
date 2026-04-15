@@ -807,3 +807,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-15] ingest | Win Rate Adjustment Needed
 - Source: bot, Category: business, Raw: raw/ingest/business/2026-04-15-win-rate-adjustment-needed.md
+
+## [2026-04-15] ingest | 수익 변환 95포인트 $475
+- Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-15-수익-변환-95포인트-475.md
