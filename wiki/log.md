@@ -834,3 +834,120 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-16] ingest | Transaction History
 - Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-16-transaction-history.md
+
+## [2026-04-16] trending | DFlash: Block Diffusion for Speculative Decoding
+- Source: GitHub Trending (Python), ⭐ 1,576, Category: research
+
+## [2026-04-16] trending | OpenAI Agents SDK
+- Source: GitHub Trending (Python), ⭐ 21,174, Category: tech
+
+## [2026-04-16] trending | GEP-Powered AI Evolution Engine
+- Source: GitHub Trending (JavaScript), ⭐ 3,099, Category: projects
+
+## [2026-04-16] trending | Android Reverse Engineering Skill
+- Source: GitHub Trending (Shell), ⭐ 2,173, Category: tech
+
+## [2026-04-16] trending | LLM Inference Server for Apple Silicon
+- Source: GitHub Trending (Python), ⭐ 10,387, Category: tech
+
+## [2026-04-16] trending | Time Series Foundation Model
+- Source: GitHub Trending (Python), ⭐ 17,907, Category: research
+
+## [2026-04-16] trending | Intelligent Agent Tutorial
+- Source: GitHub Trending (Python), ⭐ 37,546, Category: tech
+
+## [2026-04-16] trending | Awesome GitHub Copilot Collection
+- Source: GitHub Trending (Python), ⭐ 30,062, Category: tech
+
+## [2026-04-16] trending | Polymarket AI Agents
+- Source: GitHub Trending (Python), ⭐ 3,027, Category: tech
+
+## [2026-04-16] trending | Agentive OS for Physical Space
+- Source: GitHub Trending (Python), ⭐ 2,902, Category: tech
+
+## [2026-04-16] trending | Strix: AI-Powered Cybersecurity Tool
+- Source: GitHub Trending (Python), ⭐ 24,094, Category: projects
+
+## [2026-04-16] trending | Cal.diy Open Source Scheduling Platform
+- Source: GitHub Trending (TypeScript), ⭐ 41,321, Category: infra
+
+## [2026-04-16] trending | 3D Gaussian Splatting Renderer for THREE.js
+- Source: GitHub Trending (TypeScript), ⭐ 2,487, Category: projects
+
+## [2026-04-16] trending | Strapi Headless CMS
+- Source: GitHub Trending (TypeScript), ⭐ 71,908, Category: tech
+
+## [2026-04-16] trending | Claude Code Plugin Insights
+- Source: GitHub Trending (TypeScript), ⭐ 473, Category: insights
+
+## [2026-04-16] trending | Secure AI Platform with MCP Tools
+- Source: GitHub Trending (TypeScript), ⭐ 3,578, Category: tech
+
+## [2026-04-16] trending | Visual Studio Code
+- Source: GitHub Trending (TypeScript), ⭐ 183,927, Category: tech
+
+## [2026-04-16] trending | Compound Engineering AI Plugin
+- Source: GitHub Trending (TypeScript), ⭐ 14,511, Category: tech
+
+## [2026-04-16] trending | AT Protocol Reference Implementation
+- Source: GitHub Trending (TypeScript), ⭐ 9,309, Category: reference
+
+## [2026-04-16] trending | Smart PDF Classifier and Text Extractor in Rust
+- Source: GitHub Trending (Rust), ⭐ 486, Category: tech
+
+## [2026-04-16] trending | Embassy: Rust Async Embedded Framework
+- Source: GitHub Trending (Rust), ⭐ 9,065, Category: projects
+
+## [2026-04-16] trending | NVIDIA NCX Infra Controller for AI Cloud Infrastructure
+- Source: GitHub Trending (Rust), ⭐ 122, Category: infra
+
+## [2026-04-16] trending | Codex CLI Account Manager and Gateway
+- Source: GitHub Trending (Rust), ⭐ 1,387, Category: tech
+
+## [2026-04-16] trending | Secure AI Agent Sandbox
+- Source: GitHub Trending (Rust), ⭐ 1,962, Category: tech
+
+## [2026-04-16] trending | Zellij Terminal Multiplexer
+- Source: GitHub Trending (Rust), ⭐ 31,629, Category: projects
+
+## [2026-04-16] trending | Secure Internet Sharing Tool
+- Source: GitHub Trending (Go), ⭐ 4,272, Category: tech
+
+## [2026-04-16] trending | VictoriaMetrics: Monitoring & Time Series DB
+- Source: GitHub Trending (Go), ⭐ 16,775, Category: infra
+
+## [2026-04-16] trending | OAuth2 Proxy Authentication Tool
+- Source: GitHub Trending (Go), ⭐ 14,207, Category: infra
+
+## [2026-04-16] trending | Cross-Platform Resource Downloader
+- Source: GitHub Trending (Go), ⭐ 16,598, Category: projects
+
+## [2026-04-16] trending | SkillShare CLI Skills Manager
+- Source: GitHub Trending (Go), ⭐ 1,500, Category: projects
+
+## [2026-04-16] trending | Node Exporter
+- Source: GitHub Trending (Go), ⭐ 13,326, Category: infra
+
+## [2026-04-16] trending | GitHub MCP Server
+- Source: GitHub Trending (Go), ⭐ 28,927, Category: infra
+
+## [2026-04-16] trending | AI Gateway for Envoy Proxy
+- Source: GitHub Trending (Go), ⭐ 1,517, Category: infra
+
+## [2026-04-16] trending | VHS Terminal Recorder
+- Source: GitHub Trending (Go), ⭐ 19,387, Category: tech
+
+## [2026-04-16] trending | Goose Database Migration Tool
+- Source: GitHub Trending (Go), ⭐ 10,514, Category: infra
+
+## [2026-04-16] trending | Swift Package Manager
+- Source: GitHub Trending (Swift), ⭐ 10,127, Category: tech
+
+## [2026-04-16] trending | QuickRecorder macOS Screen Recorder
+- Source: GitHub Trending (Swift), ⭐ 8,183, Category: projects
+
+## [2026-04-16] trending | Automatic Work Journal
+- Source: GitHub Trending (Swift), ⭐ 5,952, Category: projects
+
+## [2026-04-16] trending | Stripe iOS SDK
+- Source: GitHub Trending (Swift), ⭐ 2,520, Category: tech
