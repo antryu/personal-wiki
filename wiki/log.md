@@ -828,3 +828,9 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-15] ingest | Financial Transaction Records
 - Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-15-financial-transaction-records.md
+
+## [2026-04-16] lint | automated
+- Broken links: 4, Orphans: 287, Oversized: 6, Placeholders: 78, Total: 363
+
+## [2026-04-16] ingest | Transaction History
+- Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-16-transaction-history.md
