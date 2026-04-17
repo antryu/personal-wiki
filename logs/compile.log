@@ -171,3 +171,17 @@ fatal: could not read Username for 'https://github.com': Device not configured
 [2026-04-17 01:00:20] === Compile done ===
 [2026-04-17 01:00:20] === Compile done ===
 ✅ Built /Users/andrew/PRJs/personal-wiki/index.html (61,707 bytes, 4 tabs)
+[2026-04-18 01:00:01] === Compile started (mode: --daily) ===
+[2026-04-18 01:00:01] === Compile started (mode: --daily) ===
+[2026-04-18 01:00:24] Ollama OK (qwen2.5:72b)
+[2026-04-18 01:00:24] Ollama OK (qwen2.5:72b)
+[main 7caf445] auto: wiki compile 2026-04-18
+ 1 file changed, 3 insertions(+)
+fatal: could not read Username for 'https://github.com': Device not configured
+[2026-04-18 01:00:24] git push failed
+[2026-04-18 01:00:24] git push failed
+[2026-04-18 01:00:24] Git pushed
+[2026-04-18 01:00:24] Git pushed
+[2026-04-18 01:00:24] === Compile done ===
+[2026-04-18 01:00:24] === Compile done ===
+✅ Built /Users/andrew/PRJs/personal-wiki/index.html (61,707 bytes, 4 tabs)
