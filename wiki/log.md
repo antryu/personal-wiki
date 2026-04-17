@@ -954,3 +954,90 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-17] lint | automated
 - Broken links: 4, Orphans: 327, Oversized: 6, Placeholders: 78, Total: 403
+
+## [2026-04-17] trending | Craft Agents Open Source
+- Source: GitHub Trending (TypeScript), ⭐ 4,278, Category: tech
+
+## [2026-04-17] trending | T3 Code: Coding Agents GUI
+- Source: GitHub Trending (TypeScript), ⭐ 9,409, Category: projects
+
+## [2026-04-17] trending | Project Lyra
+- Source: GitHub Trending (Python), ⭐ 1,429, Category: projects
+
+## [2026-04-17] trending | GR00T Whole-Body Control for Humanoid Robots
+- Source: GitHub Trending (Python), ⭐ 1,502, Category: projects
+
+## [2026-04-17] trending | Anthropic Agent Skills for Claude
+- Source: GitHub Trending (Python), ⭐ 119,570, Category: tech
+
+## [2026-04-17] trending | Chandra OCR
+- Source: GitHub Trending (Python), ⭐ 9,052, Category: tech
+
+## [2026-04-17] trending | Agent Package Manager for AI Agents
+- Source: GitHub Trending (Python), ⭐ 1,802, Category: tech
+
+## [2026-04-17] trending | Awesome LLM Applications
+- Source: GitHub Trending (Python), ⭐ 106,132, Category: projects
+
+## [2026-04-17] trending | OpenAI Agents SDK for JavaScript/TypeScript
+- Source: GitHub Trending (TypeScript), ⭐ 2,702, Category: tech
+
+## [2026-04-17] trending | Maxun: No-Code Web Scraping & API Platform
+- Source: GitHub Trending (TypeScript), ⭐ 15,481, Category: tech
+
+## [2026-04-17] trending | Custom CLI Status Line
+- Source: GitHub Trending (TypeScript), ⭐ 7,774, Category: tech
+
+## [2026-04-17] trending | AI-Powered UI Automation Framework
+- Source: GitHub Trending (TypeScript), ⭐ 12,695, Category: tech
+
+## [2026-04-17] trending | AI-Powered React App Builder
+- Source: GitHub Trending (TypeScript), ⭐ 25,551, Category: tech
+
+## [2026-04-17] trending | Cloudflare AI Agents Platform
+- Source: GitHub Trending (TypeScript), ⭐ 4,781, Category: tech
+
+## [2026-04-17] trending | Worktrunk CLI
+- Source: GitHub Trending (Rust), ⭐ 4,592, Category: tech
+
+## [2026-04-17] trending | Pingora: Rust Network Framework
+- Source: GitHub Trending (Rust), ⭐ 26,439, Category: tech
+
+## [2026-04-17] trending | High-Performance Observability Pipeline
+- Source: GitHub Trending (Rust), ⭐ 21,669, Category: infra
+
+## [2026-04-17] trending | OpenTelemetry Collector Contrib
+- Source: GitHub Trending (Go), ⭐ 4,590, Category: infra
+
+## [2026-04-17] trending | Lux Video Downloader
+- Source: GitHub Trending (Go), ⭐ 31,241, Category: tech
+
+## [2026-04-17] trending | Moby Project
+- Source: GitHub Trending (Go), ⭐ 71,507, Category: projects
+
+## [2026-04-17] trending | Authelia SSO & MFA Portal
+- Source: GitHub Trending (Go), ⭐ 27,537, Category: tech
+
+## [2026-04-17] trending | ABAP AI Development Bridge
+- Source: GitHub Trending (Go), ⭐ 284, Category: projects
+
+## [2026-04-17] trending | MATLAB MCP Server
+- Source: GitHub Trending (Go), ⭐ 381, Category: infra
+
+## [2026-04-17] trending | AI-Powered Git Workflow Tool
+- Source: GitHub Trending (Go), ⭐ 3,986, Category: tech
+
+## [2026-04-17] trending | CloudNativePG
+- Source: GitHub Trending (Go), ⭐ 8,458, Category: infra
+
+## [2026-04-17] trending | iOS Chat SDK in Swift
+- Source: GitHub Trending (Swift), ⭐ 952, Category: tech
+
+## [2026-04-17] trending | MarkEdit: Lightweight macOS Markdown Editor
+- Source: GitHub Trending (Swift), ⭐ 4,255, Category: tech
+
+## [2026-04-17] trending | Facebook SDK for iOS
+- Source: GitHub Trending (Swift), ⭐ 8,042, Category: tech
+
+## [2026-04-17] trending | FreeFlow: Open-Source AI Transcription Alternative
+- Source: GitHub Trending (Swift), ⭐ 1,320, Category: projects
