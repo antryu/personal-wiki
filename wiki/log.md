@@ -951,3 +951,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-16] trending | Stripe iOS SDK
 - Source: GitHub Trending (Swift), ⭐ 2,520, Category: tech
+
+## [2026-04-17] lint | automated
+- Broken links: 4, Orphans: 327, Oversized: 6, Placeholders: 78, Total: 403
