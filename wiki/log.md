@@ -1044,3 +1044,72 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-18] lint | automated
 - Broken links: 4, Orphans: 356, Oversized: 6, Placeholders: 78, Total: 432
+
+## [2026-04-18] trending | DeepGEMM: High-Performance GPU Kernels
+- Source: GitHub Trending (Cuda), ⭐ 6,515, Category: tech
+
+## [2026-04-18] trending | ArcKit Governance Toolkit
+- Source: GitHub Trending (HTML), ⭐ 711, Category: business
+
+## [2026-04-18] trending | AI-Native Trading Infrastructure
+- Source: GitHub Trending (Python), ⭐ 3,001, Category: finance
+
+## [2026-04-18] trending | Saleor Core API
+- Source: GitHub Trending (Python), ⭐ 22,811, Category: tech
+
+## [2026-04-18] trending | CadQuery Parametric CAD Framework
+- Source: GitHub Trending (Python), ⭐ 4,946, Category: projects
+
+## [2026-04-18] trending | JobOps: DevOps for Job Hunting
+- Source: GitHub Trending (TypeScript), ⭐ 2,781, Category: projects
+
+## [2026-04-18] trending | Assistant UI Library
+- Source: GitHub Trending (TypeScript), ⭐ 9,540, Category: tech
+
+## [2026-04-18] trending | Bitwarden AI Plugins
+- Source: GitHub Trending (TypeScript), ⭐ 69, Category: tech
+
+## [2026-04-18] trending | React Email Toolkit
+- Source: GitHub Trending (TypeScript), ⭐ 18,619, Category: tech
+
+## [2026-04-18] trending | Homarr Dashboard
+- Source: GitHub Trending (TypeScript), ⭐ 3,473, Category: tech
+
+## [2026-04-18] trending | Global Intelligence Dashboard
+- Source: GitHub Trending (TypeScript), ⭐ 48,953, Category: projects
+
+## [2026-04-18] trending | GitHub Checkout Action
+- Source: GitHub Trending (TypeScript), ⭐ 7,782, Category: infra
+
+## [2026-04-18] trending | Nginx Web UI Tool
+- Source: GitHub Trending (Go), ⭐ 11,058, Category: infra
+
+## [2026-04-18] trending | Evilginx2 Phishing Framework
+- Source: GitHub Trending (Go), ⭐ 14,934, Category: projects
+
+## [2026-04-18] trending | Kubernetes Operator for GitHub Actions Runners
+- Source: GitHub Trending (Go), ⭐ 6,174, Category: infra
+
+## [2026-04-18] trending | Go Git Library
+- Source: GitHub Trending (Go), ⭐ 7,363, Category: tech
+
+## [2026-04-18] trending | LiveKit Real-Time Communication Stack
+- Source: GitHub Trending (Go), ⭐ 18,260, Category: projects
+
+## [2026-04-18] trending | Azure SDK for Go
+- Source: GitHub Trending (Go), ⭐ 1,813, Category: tech
+
+## [2026-04-18] trending | Temporal Workflow Engine
+- Source: GitHub Trending (Go), ⭐ 19,691, Category: tech
+
+## [2026-04-18] trending | DS2API - DeepSeek to Multi-Model API Converter
+- Source: GitHub Trending (Go), ⭐ 1,131, Category: projects
+
+## [2026-04-18] trending | Swift Programming Language
+- Source: GitHub Trending (Swift), ⭐ 69,922, Category: tech
+
+## [2026-04-18] trending | SwiftNIO: High-Performance Networking Framework
+- Source: GitHub Trending (Swift), ⭐ 8,442, Category: tech
+
+## [2026-04-18] trending | CotEditor: Lightweight macOS Text Editor
+- Source: GitHub Trending (Swift), ⭐ 7,826, Category: projects
