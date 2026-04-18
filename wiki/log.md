@@ -1041,3 +1041,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-17] trending | FreeFlow: Open-Source AI Transcription Alternative
 - Source: GitHub Trending (Swift), ⭐ 1,320, Category: projects
+
+## [2026-04-18] lint | automated
+- Broken links: 4, Orphans: 356, Oversized: 6, Placeholders: 78, Total: 432
