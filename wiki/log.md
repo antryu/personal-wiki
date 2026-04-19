@@ -1113,3 +1113,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-18] trending | CotEditor: Lightweight macOS Text Editor
 - Source: GitHub Trending (Swift), ⭐ 7,826, Category: projects
+
+## [2026-04-19] lint | automated
+- Broken links: 4, Orphans: 379, Oversized: 6, Placeholders: 78, Total: 455
