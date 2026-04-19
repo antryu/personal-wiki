@@ -1116,3 +1116,66 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-19] lint | automated
 - Broken links: 4, Orphans: 379, Oversized: 6, Placeholders: 78, Total: 455
+
+## [2026-04-19] trending | Paperless-ngx DMS
+- Source: GitHub Trending (Python), ⭐ 38,813, Category: projects
+
+## [2026-04-19] trending | WiFi-based Human Pose and Vital Monitoring System
+- Source: GitHub Trending (Rust), ⭐ 47,438, Category: projects
+
+## [2026-04-19] trending | TheAlgorithms Python
+- Source: GitHub Trending (Python), ⭐ 219,867, Category: tech
+
+## [2026-04-19] trending | DeerFlow AI Agent Framework
+- Source: GitHub Trending (Python), ⭐ 62,719, Category: tech
+
+## [2026-04-19] trending | Interactive Deep Learning Book
+- Source: GitHub Trending (Python), ⭐ 28,661, Category: tech
+
+## [2026-04-19] trending | Free V2ray Configs
+- Source: GitHub Trending (Python), ⭐ 1,499, Category: projects
+
+## [2026-04-19] trending | Open Source Survey Tool
+- Source: GitHub Trending (TypeScript), ⭐ 12,091, Category: projects
+
+## [2026-04-19] trending | AI-First Design Tool for React
+- Source: GitHub Trending (TypeScript), ⭐ 25,466, Category: tech
+
+## [2026-04-19] trending | VidBee Downloader
+- Source: GitHub Trending (TypeScript), ⭐ 8,508, Category: projects
+
+## [2026-04-19] trending | Yazi Terminal File Manager
+- Source: GitHub Trending (Rust), ⭐ 36,748, Category: projects
+
+## [2026-04-19] trending | Xray-core Network Platform
+- Source: GitHub Trending (Go), ⭐ 37,244, Category: projects
+
+## [2026-04-19] trending | Cerbos Authorization Layer
+- Source: GitHub Trending (Go), ⭐ 4,352, Category: tech
+
+## [2026-04-19] trending | Dotfile Management Tool
+- Source: GitHub Trending (Go), ⭐ 19,240, Category: tech
+
+## [2026-04-19] trending | Advanced DNS Tunneling VPN
+- Source: GitHub Trending (Go), ⭐ 758, Category: projects
+
+## [2026-04-19] trending | V2Ray Core Proxy Platform
+- Source: GitHub Trending (Go), ⭐ 33,710, Category: tech
+
+## [2026-04-19] trending | Cloudflare Tunnel Client
+- Source: GitHub Trending (Go), ⭐ 13,894, Category: infra
+
+## [2026-04-19] trending | AI Code Review for Git
+- Source: GitHub Trending (Go), ⭐ 703, Category: tech
+
+## [2026-04-19] trending | PlayCover: Run iOS Apps on Apple Silicon Macs
+- Source: GitHub Trending (Swift), ⭐ 11,136, Category: projects
+
+## [2026-04-19] trending | Easydict: macOS Dictionary & Translator App
+- Source: GitHub Trending (Swift), ⭐ 12,901, Category: projects
+
+## [2026-04-19] trending | Bluetooth & Nostr P2P Chat App
+- Source: GitHub Trending (Swift), ⭐ 25,742, Category: projects
+
+## [2026-04-19] trending | LlamaBarn: Local LLM Runner for macOS
+- Source: GitHub Trending (Swift), ⭐ 1,182, Category: tech
