@@ -1179,3 +1179,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-19] trending | LlamaBarn: Local LLM Runner for macOS
 - Source: GitHub Trending (Swift), ⭐ 1,182, Category: tech
+
+## [2026-04-19] ingest | S&P 500 Transaction Records
+- Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-19-s-p-500-transaction-records.md
