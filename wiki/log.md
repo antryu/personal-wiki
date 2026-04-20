@@ -1191,3 +1191,93 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 - Updated `projects/snp500-trading.md` with live pipeline diagram and current performance
 - Updated `finance/trading/trading-index.md` to reference new structure
 - y-bot listener + PM2 cron (08:00 KST) fully automate future trades
+
+## [2026-04-20] trending | alexzhang13/rlm
+- Source: GitHub Trending (Python), ⭐ 3,484, Category: tech
+
+## [2026-04-20] trending | sansan0/TrendRadar
+- Source: GitHub Trending (Python), ⭐ 52,918, Category: tech
+
+## [2026-04-20] trending | home-assistant/core
+- Source: GitHub Trending (Python), ⭐ 86,120, Category: tech
+
+## [2026-04-20] trending | zhinianboke/xianyu-auto-reply
+- Source: GitHub Trending (Python), ⭐ 4,194, Category: tech
+
+## [2026-04-20] trending | HKUDS/RAG-Anything
+- Source: GitHub Trending (Python), ⭐ 16,418, Category: tech
+
+## [2026-04-20] trending | mnfst/manifest
+- Source: GitHub Trending (TypeScript), ⭐ 5,333, Category: tech
+
+## [2026-04-20] trending | zilliztech/claude-context
+- Source: GitHub Trending (TypeScript), ⭐ 6,097, Category: tech
+
+## [2026-04-20] trending | vercel-labs/portless
+- Source: GitHub Trending (TypeScript), ⭐ 7,184, Category: tech
+
+## [2026-04-20] trending | crbnos/carbon
+- Source: GitHub Trending (TypeScript), ⭐ 2,021, Category: tech
+
+## [2026-04-20] trending | tailcallhq/forgecode
+- Source: GitHub Trending (Rust), ⭐ 6,730, Category: tech
+
+## [2026-04-20] trending | signalapp/libsignal
+- Source: GitHub Trending (Rust), ⭐ 5,687, Category: tech
+
+## [2026-04-20] trending | a2x/cs2-dumper
+- Source: GitHub Trending (Rust), ⭐ 1,940, Category: tech
+
+## [2026-04-20] trending | alacritty/alacritty
+- Source: GitHub Trending (Rust), ⭐ 63,566, Category: tech
+
+## [2026-04-20] trending | solana-foundation/anchor
+- Source: GitHub Trending (Rust), ⭐ 5,032, Category: tech
+
+## [2026-04-20] trending | 0x192/universal-android-debloater
+- Source: GitHub Trending (Rust), ⭐ 19,187, Category: tech
+
+## [2026-04-20] trending | Universal-Debloater-Alliance/universal-a
+- Source: GitHub Trending (Rust), ⭐ 6,417, Category: tech
+
+## [2026-04-20] trending | containers/libkrun
+- Source: GitHub Trending (Rust), ⭐ 2,014, Category: tech
+
+## [2026-04-20] trending | base/base
+- Source: GitHub Trending (Rust), ⭐ 330, Category: tech
+
+## [2026-04-20] trending | pocketbase/pocketbase
+- Source: GitHub Trending (Go), ⭐ 57,749, Category: tech
+
+## [2026-04-20] trending | go-vikunja/vikunja
+- Source: GitHub Trending (Go), ⭐ 3,984, Category: tech
+
+## [2026-04-20] trending | xdevplatform/xurl
+- Source: GitHub Trending (Go), ⭐ 808, Category: tech
+
+## [2026-04-20] trending | gogs/gogs
+- Source: GitHub Trending (Go), ⭐ 47,512, Category: tech
+
+## [2026-04-20] trending | basecamp/once
+- Source: GitHub Trending (Go), ⭐ 1,645, Category: tech
+
+## [2026-04-20] trending | ParsaKSH/spoof-tunnel
+- Source: GitHub Trending (Go), ⭐ 158, Category: tech
+
+## [2026-04-20] trending | Diniboy1123/usque
+- Source: GitHub Trending (Go), ⭐ 811, Category: tech
+
+## [2026-04-20] trending | StephenDev0/StikDebug
+- Source: GitHub Trending (Swift), ⭐ 1,661, Category: tech
+
+## [2026-04-20] trending | Ranchero-Software/NetNewsWire
+- Source: GitHub Trending (Swift), ⭐ 9,942, Category: tech
+
+## [2026-04-20] trending | apple/containerization
+- Source: GitHub Trending (Swift), ⭐ 8,485, Category: tech
+
+## [2026-04-20] trending | argmaxinc/argmax-oss-swift
+- Source: GitHub Trending (Swift), ⭐ 6,013, Category: tech
+
+## [2026-04-20] trending | quoid/userscripts
+- Source: GitHub Trending (Swift), ⭐ 4,450, Category: tech
