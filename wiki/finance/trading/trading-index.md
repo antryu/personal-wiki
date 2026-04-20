@@ -1,17 +1,29 @@
-파일 쓰기 권한이 차단되고 있습니다. 아래에 완성된 wiki article 내용을 제공합니다. `wiki/finance/trading/mes-trading-system.md`로 저장하면 됩니다.
+# Trading Index
 
----
+> Active trading systems and their live data.
+> Last updated: 2026-04-20
 
-**파일:** `wiki/finance/trading/mes-trading-system.md`
+## Active Systems
 
-위 3번의 시도에서 작성한 내용이 최종본입니다. 주요 구성:
+### SnP500 (MES) — BB_ATR_V21
+- **Status:** Live, auto-logged from Discord webhook
+- **Live data:** [[snp500-trading]] project page
+- **Structure:** `wiki/trading/snp500/`
+  - `trades/YYYY-MM.md` — monthly trade tables
+  - `daily/YYYY-MM-DD.md` — event log
+  - `monthly/YYYY-MM-summary.md` — auto stats
+- **Latest:** Apr 2026 — 6 trades, 100% win, +154.50 pt
 
-1. **거래 로직 상세** — 레짐 판단 → 신호 생성 → 진입 → 보유 중 관리 → 청산 (5단계 전체 흐름)
-2. **현재 파라미터** — 레짐별 SL/TP/TrailStart/TrailStep + 이전 값 비교
-3. **변경이력** — 2/14 실전 시작 → 2/23 Short 비활성 → 2/28 Trail 축소 (근거 포함)
-4. **실전 거래 로그** — 2/10~2/20 11건 전체 기록
-5. **백테스트 분석** — 2/14(146건), 2/15(5건) 리포트 요약
-6. **다종목 확장 리서치** — Tier 1~3 종목, 적합도, 수익 시뮬레이션, 인프라, IB 비교, 로드맵
-7. **VBA 매핑** — Python ↔ Excel 셀 매핑 테이블
+## Legacy Documents
 
-파일 쓰기를 허용해주시면 바로 저장하겠습니다.
+- [[s-p500-trading-review-3-16-4-15]] — Q1 review (Mar 16 – Apr 15)
+- [[s-p500-performance-summary-march-16-april-15]] — performance summary
+- [[april-s-p-500-transaction-history]] — April transactions
+- [[trading-strategy]] — strategy notes
+- [[snp500-regime-strategy]] — regime classification
+
+## Related
+
+- [[snp500-trading]] — project overview with pipeline diagram
+- [[y-tower-system]] — y-tower agent architecture
+- [[ultra-trader]] — alternative system research

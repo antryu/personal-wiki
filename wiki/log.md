@@ -1182,3 +1182,12 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-19] ingest | S&P 500 Transaction Records
 - Source: bot, Category: finance, Raw: raw/ingest/finance/2026-04-19-s-p-500-transaction-records.md
+
+## [2026-04-20] lint | automated
+- Broken links: 7, Orphans: 418, Oversized: 6, Placeholders: 77, Total: 494
+## [2026-04-20] compile | snp500-trading-system
+- Created `wiki/trading/snp500/` with structured folders (trades, daily, monthly, strategies)
+- Migrated 25 events (8 complete trades) from Discord `#snp500-trading` history
+- Updated `projects/snp500-trading.md` with live pipeline diagram and current performance
+- Updated `finance/trading/trading-index.md` to reference new structure
+- y-bot listener + PM2 cron (08:00 KST) fully automate future trades
