@@ -1290,3 +1290,81 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-21] ingest | # heygen-com/hyperframes
 - Source: bot, Category: reference, Raw: raw/ingest/reference/2026-04-21-heygen-com-hyperframes.md
+
+## [2026-04-21] trending | microsoft/ai-agents-for-beginners
+- Source: GitHub Trending (Jupyter Notebook), ⭐ 57,576, Category: tech
+
+## [2026-04-21] trending | huggingface/skills
+- Source: GitHub Trending (Python), ⭐ 10,261, Category: tech
+
+## [2026-04-21] trending | MoonshotAI/kimi-cli
+- Source: GitHub Trending (Python), ⭐ 8,027, Category: tech
+
+## [2026-04-21] trending | PrefectHQ/fastmcp
+- Source: GitHub Trending (Python), ⭐ 24,733, Category: tech
+
+## [2026-04-21] trending | langfuse/langfuse
+- Source: GitHub Trending (TypeScript), ⭐ 25,291, Category: tech
+
+## [2026-04-21] trending | tailwindlabs/tailwindcss
+- Source: GitHub Trending (TypeScript), ⭐ 94,675, Category: tech
+
+## [2026-04-21] trending | siyuan-note/siyuan
+- Source: GitHub Trending (TypeScript), ⭐ 42,843, Category: tech
+
+## [2026-04-21] trending | Helicone/helicone
+- Source: GitHub Trending (TypeScript), ⭐ 5,528, Category: tech
+
+## [2026-04-21] trending | janhq/jan
+- Source: GitHub Trending (TypeScript), ⭐ 42,053, Category: tech
+
+## [2026-04-21] trending | CherryHQ/cherry-studio
+- Source: GitHub Trending (TypeScript), ⭐ 43,992, Category: tech
+
+## [2026-04-21] trending | cube-js/cube
+- Source: GitHub Trending (Rust), ⭐ 19,830, Category: tech
+
+## [2026-04-21] trending | n0-computer/iroh
+- Source: GitHub Trending (Rust), ⭐ 8,310, Category: tech
+
+## [2026-04-21] trending | cocoindex-io/cocoindex
+- Source: GitHub Trending (Rust), ⭐ 6,937, Category: tech
+
+## [2026-04-21] trending | juspay/hyperswitch
+- Source: GitHub Trending (Rust), ⭐ 42,508, Category: tech
+
+## [2026-04-21] trending | Polymarket/rs-clob-client
+- Source: GitHub Trending (Rust), ⭐ 679, Category: tech
+
+## [2026-04-21] trending | hashicorp/terraform
+- Source: GitHub Trending (Go), ⭐ 48,190, Category: tech
+
+## [2026-04-21] trending | guohuiyuan/go-music-dl
+- Source: GitHub Trending (Go), ⭐ 2,481, Category: tech
+
+## [2026-04-21] trending | e2b-dev/infra
+- Source: GitHub Trending (Go), ⭐ 1,041, Category: tech
+
+## [2026-04-21] trending | kubernetes-sigs/gateway-api
+- Source: GitHub Trending (Go), ⭐ 2,791, Category: tech
+
+## [2026-04-21] trending | qax-os/excelize
+- Source: GitHub Trending (Go), ⭐ 20,493, Category: tech
+
+## [2026-04-21] trending | Ed1s0nZ/CyberStrikeAI
+- Source: GitHub Trending (Go), ⭐ 3,412, Category: tech
+
+## [2026-04-21] trending | looplj/axonhub
+- Source: GitHub Trending (Go), ⭐ 3,230, Category: tech
+
+## [2026-04-21] trending | kagent-dev/kagent
+- Source: GitHub Trending (Go), ⭐ 2,608, Category: tech
+
+## [2026-04-21] trending | redis/go-redis
+- Source: GitHub Trending (Go), ⭐ 22,051, Category: tech
+
+## [2026-04-21] trending | Meeep1/EeveeSpotifyRevivedPublic
+- Source: GitHub Trending (Swift), ⭐ 557, Category: tech
+
+## [2026-04-21] trending | yuzeguitarist/Deck
+- Source: GitHub Trending (Swift), ⭐ 1,067, Category: tech
