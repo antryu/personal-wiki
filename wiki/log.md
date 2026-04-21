@@ -1287,3 +1287,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-21] ingest | https://a16z.com/podcast/andrew-huberman
 - Source: bot, Category: reference, Raw: raw/ingest/reference/2026-04-21-https-a16z-com-podcast-andrew-huberman.md
+
+## [2026-04-21] ingest | # heygen-com/hyperframes
+- Source: bot, Category: reference, Raw: raw/ingest/reference/2026-04-21-heygen-com-hyperframes.md
