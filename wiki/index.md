@@ -89,6 +89,7 @@
 - [[tech/trending/github-trending]]
 
 ## Recently Added
+- [[insights/huberman-peptides-sleep-tech-a16z]] — Huberman a16z: Read→Write wearables, GLP-1, cortisol frontier (VITA 전략 반영점)
 - [[research/self-improving-ai-agent]]
 - [[insights/karpathy-inspired-code-guidelines]]
 - [[infra/harbor-container-registry]]
