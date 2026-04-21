@@ -1281,3 +1281,9 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-20] trending | quoid/userscripts
 - Source: GitHub Trending (Swift), ⭐ 4,450, Category: tech
+
+## [2026-04-21] lint | automated
+- Broken links: 14, Orphans: 448, Oversized: 6, Placeholders: 77, Total: 524
+
+## [2026-04-21] ingest | https://a16z.com/podcast/andrew-huberman
+- Source: bot, Category: reference, Raw: raw/ingest/reference/2026-04-21-https-a16z-com-podcast-andrew-huberman.md
