@@ -1368,3 +1368,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-21] trending | yuzeguitarist/Deck
 - Source: GitHub Trending (Swift), ⭐ 1,067, Category: tech
+
+## [2026-04-22] lint | automated
+- Broken links: 17, Orphans: 449, Oversized: 6, Placeholders: 77, Total: 526
