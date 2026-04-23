@@ -89,6 +89,8 @@
 - [[tech/trending/github-trending]]
 
 ## Recently Added
+- [[projects/vital-ring-platform-transition-v2]] — 바이탈링 v2 전략 (Huberman 반영: Read→Write, GLP-1 채널, Personalized Cocktail) (2026-04-23)
+- [[projects/vital-ring-platform-transition-v1]] — 바이탈링 v1 원본 전략 (신선윤 BridgeLab, 11채널 + GD 에디션) (2026-04-21)
 - [[business/tower/y-tower-agent-capabilities]] — Y-Tower 30-agent roster, 7 modes, template library, shared vs routed (2026-04-22)
 - [[insights/huberman-peptides-sleep-tech-a16z]] — Huberman a16z: Read→Write wearables, GLP-1, cortisol frontier (VITA 전략 반영점)
 - [[research/self-improving-ai-agent]]

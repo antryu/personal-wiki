@@ -1410,3 +1410,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-22] trending | lima-vm/lima
 - Source: GitHub Trending (Go), ⭐ 20,847, Category: tech
+
+## [2026-04-23] lint | automated
+- Broken links: 17, Orphans: 450, Oversized: 7, Placeholders: 76, Total: 528
