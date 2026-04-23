@@ -252,3 +252,20 @@ fatal: could not read Username for 'https://github.com': Device not configured
 [2026-04-23 01:00:01] === Compile done ===
 [2026-04-23 01:00:01] === Compile done ===
 ✅ Built /Users/andrew/PRJs/personal-wiki/index.html (61,707 bytes, 4 tabs)
+[2026-04-24 01:00:00] === Compile started (mode: --daily) ===
+[2026-04-24 01:00:00] === Compile started (mode: --daily) ===
+[2026-04-24 01:00:01] Ollama OK (qwen2.5:72b)
+[2026-04-24 01:00:01] Ollama OK (qwen2.5:72b)
+[main 07435a1] auto: wiki compile 2026-04-24
+ 5 files changed, 460 insertions(+)
+ create mode 100644 wiki/finance/trading/smart-money-concepts-library.md
+ create mode 100644 wiki/projects/vital-ring-platform-transition-v1.md
+ create mode 100644 wiki/projects/vital-ring-platform-transition-v2.md
+fatal: could not read Username for 'https://github.com': Device not configured
+[2026-04-24 01:00:01] git push failed
+[2026-04-24 01:00:01] git push failed
+[2026-04-24 01:00:01] Git pushed
+[2026-04-24 01:00:01] Git pushed
+[2026-04-24 01:00:01] === Compile done ===
+[2026-04-24 01:00:01] === Compile done ===
+✅ Built /Users/andrew/PRJs/personal-wiki/index.html (61,707 bytes, 4 tabs)
