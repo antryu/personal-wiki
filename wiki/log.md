@@ -1413,3 +1413,93 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-23] lint | automated
 - Broken links: 17, Orphans: 450, Oversized: 7, Placeholders: 76, Total: 528
+
+## [2026-04-23] trending | huggingface/ml-intern
+- Source: GitHub Trending (Python), ⭐ 3,050, Category: tech
+
+## [2026-04-23] trending | Anil-matcha/Open-Generative-AI
+- Source: GitHub Trending (JavaScript), ⭐ 6,839, Category: tech
+
+## [2026-04-23] trending | PowerShell/PowerShell
+- Source: GitHub Trending (C#), ⭐ 52,754, Category: tech
+
+## [2026-04-23] trending | cline/cline
+- Source: GitHub Trending (TypeScript), ⭐ 60,787, Category: tech
+
+## [2026-04-23] trending | microsoft/onnxruntime
+- Source: GitHub Trending (C++), ⭐ 20,137, Category: tech
+
+## [2026-04-23] trending | chiphuyen/aie-book
+- Source: GitHub Trending (Jupyter Notebook), ⭐ 15,149, Category: tech
+
+## [2026-04-23] trending | crewAIInc/crewAI
+- Source: GitHub Trending (Python), ⭐ 49,705, Category: tech
+
+## [2026-04-23] trending | onyx-dot-app/onyx
+- Source: GitHub Trending (Python), ⭐ 28,253, Category: tech
+
+## [2026-04-23] trending | PostHog/posthog
+- Source: GitHub Trending (Python), ⭐ 32,803, Category: tech
+
+## [2026-04-23] trending | funstory-ai/BabelDOC
+- Source: GitHub Trending (Python), ⭐ 8,302, Category: tech
+
+## [2026-04-23] trending | hiroi-sora/Umi-OCR
+- Source: GitHub Trending (Python), ⭐ 43,586, Category: tech
+
+## [2026-04-23] trending | microsoft/presidio
+- Source: GitHub Trending (Python), ⭐ 7,734, Category: tech
+
+## [2026-04-23] trending | phodal/routa
+- Source: GitHub Trending (TypeScript), ⭐ 771, Category: tech
+
+## [2026-04-23] trending | lfnovo/open-notebook
+- Source: GitHub Trending (TypeScript), ⭐ 22,615, Category: tech
+
+## [2026-04-23] trending | vercel-labs/agent-browser
+- Source: GitHub Trending (Rust), ⭐ 30,353, Category: tech
+
+## [2026-04-23] trending | emanuele-em/proxelar
+- Source: GitHub Trending (Rust), ⭐ 901, Category: tech
+
+## [2026-04-23] trending | web-infra-dev/rspack
+- Source: GitHub Trending (Rust), ⭐ 12,632, Category: tech
+
+## [2026-04-23] trending | cloud-hypervisor/cloud-hypervisor
+- Source: GitHub Trending (Rust), ⭐ 5,547, Category: tech
+
+## [2026-04-23] trending | fleetdm/fleet
+- Source: GitHub Trending (Go), ⭐ 6,282, Category: tech
+
+## [2026-04-23] trending | argoproj/argo-cd
+- Source: GitHub Trending (Go), ⭐ 22,697, Category: tech
+
+## [2026-04-23] trending | google/osv-scanner
+- Source: GitHub Trending (Go), ⭐ 9,136, Category: tech
+
+## [2026-04-23] trending | gin-gonic/gin
+- Source: GitHub Trending (Go), ⭐ 88,359, Category: tech
+
+## [2026-04-23] trending | henrygd/beszel
+- Source: GitHub Trending (Go), ⭐ 21,262, Category: tech
+
+## [2026-04-23] trending | crowdsecurity/crowdsec
+- Source: GitHub Trending (Go), ⭐ 13,154, Category: tech
+
+## [2026-04-23] trending | containers/podman
+- Source: GitHub Trending (Go), ⭐ 31,485, Category: tech
+
+## [2026-04-23] trending | krau/SaveAny-Bot
+- Source: GitHub Trending (Go), ⭐ 2,236, Category: tech
+
+## [2026-04-23] trending | kubernetes-sigs/agent-sandbox
+- Source: GitHub Trending (Go), ⭐ 1,902, Category: tech
+
+## [2026-04-23] trending | coredns/coredns
+- Source: GitHub Trending (Go), ⭐ 14,009, Category: tech
+
+## [2026-04-23] trending | swiftlang/swift-syntax
+- Source: GitHub Trending (Swift), ⭐ 3,629, Category: tech
+
+## [2026-04-23] trending | AzureAD/microsoft-authentication-library
+- Source: GitHub Trending (Swift), ⭐ 334, Category: tech
