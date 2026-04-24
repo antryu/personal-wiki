@@ -300,3 +300,18 @@ The following paths are ignored by one of your .gitignore files:
 raw/claude-code
 hint: Use -f if you really want to add them.
 hint: Disable this message with "git config set advice.addIgnoredFile false"
+[Sat Apr 25 00:30:00 KST 2026] Backing up Claude Code sessions...
+  ✅ -/3268690a-41e6-44ce-8353-84c608f23303.jsonl
+  ✅ -Users-andrew-y-tower-test/b6f4d3bc-a458-4f4d-bf72-cfcd3b8fc9a6.jsonl
+  ✅ subagents/agent-aaafdb292561009ca.jsonl
+  ✅ subagents/agent-a936bca3f09ff65db.jsonl
+  ✅ subagents/agent-a69c913eace501e6f.jsonl
+  ✅ subagents/agent-a679ac4126cdf6719.jsonl
+  ✅ subagents/agent-a66467d22310e5ac4.jsonl
+  ✅ subagents/agent-ad3fde9a06640932a.jsonl
+  ✅ subagents/agent-a47468b36d6e80a26.jsonl
+  ✅ -Users-andrew-PRJs/2bed58cd-f6a9-457c-9841-3e685aa3ba5a.jsonl
+The following paths are ignored by one of your .gitignore files:
+raw/claude-code
+hint: Use -f if you really want to add them.
+hint: Disable this message with "git config set advice.addIgnoredFile false"
