@@ -1503,3 +1503,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-23] trending | AzureAD/microsoft-authentication-library
 - Source: GitHub Trending (Swift), ⭐ 334, Category: tech
+
+## [2026-04-24] lint | automated
+- Broken links: 18, Orphans: 451, Oversized: 8, Placeholders: 76, Total: 531
