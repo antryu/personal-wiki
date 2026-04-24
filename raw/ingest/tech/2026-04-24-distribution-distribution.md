@@ -1,0 +1,67 @@
+<!-- GitHub Trending: Go | 10,372 stars | +1 today -->
+
+# distribution/distribution
+
+> The toolkit to pack, ship, store, and deliver container content
+
+## Repository Info
+- **URL**: https://github.com/distribution/distribution
+- **Stars**: 10,372
+- **Forks**: 2,739
+- **Language**: Go
+- **License**: Apache License 2.0
+- **Created**: 2014-12-22
+- **Updated**: 2026-04-24
+- **Topics**: cncf, containers, distribution, oci, oci-specification, registry
+- **Open Issues**: 489
+
+## README (excerpt)
+<p align="center">
+<img style="align: center; padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="238px" height="238px" src="./distribution-logo.svg" />
+</p>
+
+[![Build Status](https://github.com/distribution/distribution/workflows/build/badge.svg?branch=main&event=push)](https://github.com/distribution/distribution/actions/workflows/build.yml?query=workflow%3Abuild)
+[![GoDoc](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/distribution/distribution)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
+[![codecov](https://codecov.io/gh/distribution/distribution/branch/main/graph/badge.svg)](https://codecov.io/gh/distribution/distribution)
+[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B162%2Fgithub.com%2Fdistribution%2Fdistribution.svg?type=shield)](https://app.fossa.com/projects/custom%2B162%2Fgithub.com%2Fdistribution%2Fdistribution?ref=badge_shield)
+[![OCI Conformance](https://github.com/distribution/distribution/workflows/conformance/badge.svg)](https://github.com/distribution/distribution/actions?query=workflow%3Aconformance)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/distribution/distribution/badge)](https://securityscorecards.dev/viewer/?uri=github.com/distribution/distribution)
+
+The toolset to pack, ship, store, and deliver content.
+
+This repository's main product is the Open Source Registry implementation
+for storing and distributing container images and other content using the
+[OCI Distribution Specification](https://github.com/opencontainers/distribution-spec).
+The goal of this project is to provide a simple, secure, and scalable base
+for building a large scale registry solution or running a simple private registry.
+It is a core library for many registry operators including Docker Hub, GitHub Container Registry,
+GitLab Container Registry and DigitalOcean Container Registry, as well as the CNCF Harbor
+Project, and VMware Harbor Registry.
+
+This repository contains the following components:
+
+|**Component**       |Description                                                                                                                                                                                         |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **registry**       | An implementation of the [OCI Distribution Specification](https://github.com/opencontainers/distribution-spec).                                                                                                 |
+| **libraries**      | A rich set of libraries for interacting with distribution components. Please see [godoc](https://pkg.go.dev/github.com/distribution/distribution) for details. **Note**: The interfaces for these libraries are **unstable**. |
+| **documentation**  | Full documentation is available at [https://distribution.github.io/distribution](https://distribution.github.io/distribution/).
+
+### How does this integrate with Docker, containerd, and other OCI client?
+
+Clients implement against the OCI specification and communicate with the
+registry using HTTP. This project contains a client implementation which
+is currently in use by Docker, however, it is deprecated for the
+[implementation in containerd](https://github.com/containerd/containerd/tree/master/remotes/docker)
+and will not support new features.
+
+### What are the long term goals of the Distribution project?
+
+The _Distribution_ project has the further long term goal of providing a
+secure tool chain for distributing content. The specifications, APIs and tools
+should be as useful with Docker as they are without.
+
+Our goal is to design a professional grade and extensible content distribution
+system that allow users to:
+
+* Enjoy an 
