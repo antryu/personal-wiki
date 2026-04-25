@@ -1575,3 +1575,87 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-25] lint | automated
 - Broken links: 18, Orphans: 451, Oversized: 8, Placeholders: 76, Total: 531
+
+## [2026-04-25] trending | RooCodeInc/Roo-Code
+- Source: GitHub Trending (TypeScript), ⭐ 23,490, Category: tech
+
+## [2026-04-25] trending | Universal-Commerce-Protocol/ucp
+- Source: GitHub Trending (Python), ⭐ 2,770, Category: tech
+
+## [2026-04-25] trending | ComposioHQ/awesome-codex-skills
+- Source: GitHub Trending (Python), ⭐ 1,428, Category: tech
+
+## [2026-04-25] trending | HunxByts/GhostTrack
+- Source: GitHub Trending (Python), ⭐ 8,769, Category: tech
+
+## [2026-04-25] trending | tile-ai/tilelang
+- Source: GitHub Trending (Python), ⭐ 5,748, Category: tech
+
+## [2026-04-25] trending | roboflow/rf-detr
+- Source: GitHub Trending (Python), ⭐ 6,570, Category: tech
+
+## [2026-04-25] trending | MemoriLabs/Memori
+- Source: GitHub Trending (Python), ⭐ 13,850, Category: tech
+
+## [2026-04-25] trending | deepseek-ai/DeepSeek-V3
+- Source: GitHub Trending (Python), ⭐ 102,879, Category: tech
+
+## [2026-04-25] trending | facebookresearch/detectron2
+- Source: GitHub Trending (Python), ⭐ 34,407, Category: tech
+
+## [2026-04-25] trending | zilliztech/memsearch
+- Source: GitHub Trending (Python), ⭐ 1,402, Category: tech
+
+## [2026-04-25] trending | ruvnet/ruflo
+- Source: GitHub Trending (TypeScript), ⭐ 33,337, Category: tech
+
+## [2026-04-25] trending | open-telemetry/opentelemetry-demo
+- Source: GitHub Trending (TypeScript), ⭐ 3,039, Category: tech
+
+## [2026-04-25] trending | Kilo-Org/kilocode
+- Source: GitHub Trending (TypeScript), ⭐ 18,571, Category: tech
+
+## [2026-04-25] trending | alvinunreal/oh-my-opencode-slim
+- Source: GitHub Trending (TypeScript), ⭐ 3,455, Category: tech
+
+## [2026-04-25] trending | tinyhumansai/openhuman
+- Source: GitHub Trending (Rust), ⭐ 186, Category: tech
+
+## [2026-04-25] trending | kenforthewin/atomic
+- Source: GitHub Trending (Rust), ⭐ 1,301, Category: tech
+
+## [2026-04-25] trending | GitoxideLabs/gitoxide
+- Source: GitHub Trending (Rust), ⭐ 11,218, Category: tech
+
+## [2026-04-25] trending | esp-rs/esp-hal
+- Source: GitHub Trending (Rust), ⭐ 1,862, Category: tech
+
+## [2026-04-25] trending | etcd-io/etcd
+- Source: GitHub Trending (Go), ⭐ 51,638, Category: tech
+
+## [2026-04-25] trending | gastownhall/gascity
+- Source: GitHub Trending (Go), ⭐ 408, Category: tech
+
+## [2026-04-25] trending | everywall/ladder
+- Source: GitHub Trending (Go), ⭐ 6,436, Category: tech
+
+## [2026-04-25] trending | cli/cli
+- Source: GitHub Trending (Go), ⭐ 44,051, Category: tech
+
+## [2026-04-25] trending | kgateway-dev/kgateway
+- Source: GitHub Trending (Go), ⭐ 5,468, Category: tech
+
+## [2026-04-25] trending | quic-go/quic-go
+- Source: GitHub Trending (Go), ⭐ 11,552, Category: tech
+
+## [2026-04-25] trending | krillinai/KrillinAI
+- Source: GitHub Trending (Go), ⭐ 9,903, Category: tech
+
+## [2026-04-25] trending | hashicorp/consul
+- Source: GitHub Trending (Go), ⭐ 29,860, Category: tech
+
+## [2026-04-25] trending | shadowsocks/ShadowsocksX-NG
+- Source: GitHub Trending (Swift), ⭐ 32,889, Category: tech
+
+## [2026-04-25] trending | rime/squirrel
+- Source: GitHub Trending (Swift), ⭐ 5,903, Category: tech
