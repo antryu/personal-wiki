@@ -1572,3 +1572,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-24] trending | go-delve/delve
 - Source: GitHub Trending (Go), ⭐ 24,697, Category: tech
+
+## [2026-04-25] lint | automated
+- Broken links: 18, Orphans: 451, Oversized: 8, Placeholders: 76, Total: 531
