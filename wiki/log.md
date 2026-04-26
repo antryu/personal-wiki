@@ -1659,3 +1659,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-25] trending | rime/squirrel
 - Source: GitHub Trending (Swift), ⭐ 5,903, Category: tech
+
+## [2026-04-26] lint | automated
+- Broken links: 18, Orphans: 451, Oversized: 8, Placeholders: 76, Total: 531
