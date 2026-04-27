@@ -1719,3 +1719,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-26] trending | LiveContainer/LiveContainer
 - Source: GitHub Trending (Swift), ⭐ 7,881, Category: tech
+
+## [2026-04-27] lint | automated
+- Broken links: 18, Orphans: 451, Oversized: 8, Placeholders: 76, Total: 531
