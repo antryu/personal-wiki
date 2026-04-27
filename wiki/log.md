@@ -1722,3 +1722,42 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-27] lint | automated
 - Broken links: 18, Orphans: 451, Oversized: 8, Placeholders: 76, Total: 531
+
+## [2026-04-27] trending | penpot/penpot
+- Source: GitHub Trending (Clojure), ⭐ 46,543, Category: tech
+
+## [2026-04-27] trending | microsoft/VibeVoice
+- Source: GitHub Trending (Python), ⭐ 42,979, Category: tech
+
+## [2026-04-27] trending | TauricResearch/TradingAgents
+- Source: GitHub Trending (Python), ⭐ 53,678, Category: tech
+
+## [2026-04-27] trending | sherlock-project/sherlock
+- Source: GitHub Trending (Python), ⭐ 82,534, Category: tech
+
+## [2026-04-27] trending | nikopueringer/CorridorKey
+- Source: GitHub Trending (Python), ⭐ 11,773, Category: tech
+
+## [2026-04-27] trending | openai/openai-cs-agents-demo
+- Source: GitHub Trending (Python), ⭐ 6,284, Category: tech
+
+## [2026-04-27] trending | facebookresearch/ai4animationpy
+- Source: GitHub Trending (Python), ⭐ 1,571, Category: tech
+
+## [2026-04-27] trending | iptv-org/iptv
+- Source: GitHub Trending (TypeScript), ⭐ 115,540, Category: tech
+
+## [2026-04-27] trending | fynnfluegge/agtx
+- Source: GitHub Trending (Rust), ⭐ 971, Category: tech
+
+## [2026-04-27] trending | sigoden/dufs
+- Source: GitHub Trending (Rust), ⭐ 10,026, Category: tech
+
+## [2026-04-27] trending | knadh/listmonk
+- Source: GitHub Trending (Go), ⭐ 19,785, Category: tech
+
+## [2026-04-27] trending | bjdgyc/anylink
+- Source: GitHub Trending (Go), ⭐ 2,250, Category: tech
+
+## [2026-04-27] trending | LoopKit/Loop
+- Source: GitHub Trending (Swift), ⭐ 1,673, Category: tech
