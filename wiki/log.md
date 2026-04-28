@@ -1764,3 +1764,63 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-28] lint | automated
 - Broken links: 18, Orphans: 451, Oversized: 8, Placeholders: 76, Total: 531
+
+## [2026-04-28] trending | fspecii/ace-step-ui
+- Source: GitHub Trending (JavaScript), ⭐ 1,621, Category: tech
+
+## [2026-04-28] trending | hsliuping/TradingAgents-CN
+- Source: GitHub Trending (Python), ⭐ 24,994, Category: tech
+
+## [2026-04-28] trending | keephq/keep
+- Source: GitHub Trending (Python), ⭐ 11,747, Category: tech
+
+## [2026-04-28] trending | NVIDIA/personaplex
+- Source: GitHub Trending (Python), ⭐ 9,688, Category: tech
+
+## [2026-04-28] trending | xiaoY233/Chat2API
+- Source: GitHub Trending (TypeScript), ⭐ 436, Category: tech
+
+## [2026-04-28] trending | tldraw/tldraw
+- Source: GitHub Trending (TypeScript), ⭐ 46,661, Category: tech
+
+## [2026-04-28] trending | novuhq/novu
+- Source: GitHub Trending (TypeScript), ⭐ 38,891, Category: tech
+
+## [2026-04-28] trending | musistudio/claude-code-router
+- Source: GitHub Trending (TypeScript), ⭐ 33,171, Category: tech
+
+## [2026-04-28] trending | mui/base-ui
+- Source: GitHub Trending (TypeScript), ⭐ 9,447, Category: tech
+
+## [2026-04-28] trending | bytebot-ai/bytebot
+- Source: GitHub Trending (TypeScript), ⭐ 10,961, Category: tech
+
+## [2026-04-28] trending | delibae/claude-prism
+- Source: GitHub Trending (TypeScript), ⭐ 1,290, Category: tech
+
+## [2026-04-28] trending | kata-containers/kata-containers
+- Source: GitHub Trending (Rust), ⭐ 7,820, Category: tech
+
+## [2026-04-28] trending | rust-lang/rust-analyzer
+- Source: GitHub Trending (Rust), ⭐ 16,341, Category: tech
+
+## [2026-04-28] trending | SaladDay/cc-switch-cli
+- Source: GitHub Trending (Rust), ⭐ 2,209, Category: tech
+
+## [2026-04-28] trending | memvid/memvid
+- Source: GitHub Trending (Rust), ⭐ 15,270, Category: tech
+
+## [2026-04-28] trending | opencloud-eu/opencloud
+- Source: GitHub Trending (Go), ⭐ 5,346, Category: tech
+
+## [2026-04-28] trending | charmbracelet/crush
+- Source: GitHub Trending (Go), ⭐ 23,609, Category: tech
+
+## [2026-04-28] trending | chenhg5/cc-connect
+- Source: GitHub Trending (Go), ⭐ 6,599, Category: tech
+
+## [2026-04-28] trending | volcano-sh/volcano
+- Source: GitHub Trending (Go), ⭐ 5,509, Category: tech
+
+## [2026-04-28] trending | LiYanan2004/MarkdownView
+- Source: GitHub Trending (Swift), ⭐ 653, Category: tech
