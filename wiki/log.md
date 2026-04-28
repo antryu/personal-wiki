@@ -1761,3 +1761,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-27] trending | LoopKit/Loop
 - Source: GitHub Trending (Swift), ⭐ 1,673, Category: tech
+
+## [2026-04-28] lint | automated
+- Broken links: 18, Orphans: 451, Oversized: 8, Placeholders: 76, Total: 531
