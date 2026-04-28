@@ -325,3 +325,18 @@ fatal: could not read Username for 'https://github.com': Device not configured
 [2026-04-28 01:00:01] === Compile done ===
 [2026-04-28 01:00:01] === Compile done ===
 ✅ Built /Users/andrew/PRJs/personal-wiki/index.html (61,707 bytes, 4 tabs)
+[2026-04-29 01:00:00] === Compile started (mode: --daily) ===
+[2026-04-29 01:00:00] === Compile started (mode: --daily) ===
+[2026-04-29 01:00:00] Ollama OK (qwen2.5:72b)
+[2026-04-29 01:00:00] Ollama OK (qwen2.5:72b)
+[main 57aea7c] auto: wiki compile 2026-04-29
+ 2 files changed, 137 insertions(+)
+ create mode 100644 wiki/business/y-tower-storage-architecture.md
+fatal: could not read Username for 'https://github.com': Device not configured
+[2026-04-29 01:00:00] git push failed
+[2026-04-29 01:00:00] git push failed
+[2026-04-29 01:00:00] Git pushed
+[2026-04-29 01:00:00] Git pushed
+[2026-04-29 01:00:00] === Compile done ===
+[2026-04-29 01:00:00] === Compile done ===
+✅ Built /Users/andrew/PRJs/personal-wiki/index.html (61,707 bytes, 4 tabs)
