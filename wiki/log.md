@@ -1824,3 +1824,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-28] trending | LiYanan2004/MarkdownView
 - Source: GitHub Trending (Swift), ⭐ 653, Category: tech
+
+## [2026-04-29] lint | automated
+- Broken links: 18, Orphans: 452, Oversized: 8, Placeholders: 76, Total: 532
