@@ -1827,3 +1827,81 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-29] lint | automated
 - Broken links: 18, Orphans: 452, Oversized: 8, Placeholders: 76, Total: 532
+
+## [2026-04-29] trending | warpdotdev/warp
+- Source: GitHub Trending (Rust), ⭐ 43,202, Category: tech
+
+## [2026-04-29] trending | 1jehuang/jcode
+- Source: GitHub Trending (Rust), ⭐ 1,303, Category: tech
+
+## [2026-04-29] trending | iv-org/invidious
+- Source: GitHub Trending (Crystal), ⭐ 19,388, Category: tech
+
+## [2026-04-29] trending | gorhill/uBlock
+- Source: GitHub Trending (JavaScript), ⭐ 64,004, Category: tech
+
+## [2026-04-29] trending | microsoft/PowerToys
+- Source: GitHub Trending (C#), ⭐ 132,353, Category: tech
+
+## [2026-04-29] trending | neuphonic/neutts
+- Source: GitHub Trending (Python), ⭐ 5,736, Category: tech
+
+## [2026-04-29] trending | KellerJordan/modded-nanogpt
+- Source: GitHub Trending (Python), ⭐ 5,171, Category: tech
+
+## [2026-04-29] trending | shaxiu/XianyuAutoAgent
+- Source: GitHub Trending (Python), ⭐ 7,309, Category: tech
+
+## [2026-04-29] trending | p-e-w/heretic
+- Source: GitHub Trending (Python), ⭐ 20,206, Category: tech
+
+## [2026-04-29] trending | microsoft/playwright-mcp
+- Source: GitHub Trending (TypeScript), ⭐ 31,789, Category: tech
+
+## [2026-04-29] trending | getumbrel/umbrel
+- Source: GitHub Trending (TypeScript), ⭐ 11,101, Category: tech
+
+## [2026-04-29] trending | ExplosiveCoderflome/AI-Novel-Writing-Ass
+- Source: GitHub Trending (TypeScript), ⭐ 987, Category: tech
+
+## [2026-04-29] trending | plait-board/drawnix
+- Source: GitHub Trending (TypeScript), ⭐ 13,723, Category: tech
+
+## [2026-04-29] trending | iii-hq/iii
+- Source: GitHub Trending (Rust), ⭐ 15,427, Category: tech
+
+## [2026-04-29] trending | agentgateway/agentgateway
+- Source: GitHub Trending (Rust), ⭐ 2,543, Category: tech
+
+## [2026-04-29] trending | datadog-labs/pup
+- Source: GitHub Trending (Rust), ⭐ 708, Category: tech
+
+## [2026-04-29] trending | risingwavelabs/risingwave
+- Source: GitHub Trending (Rust), ⭐ 8,962, Category: tech
+
+## [2026-04-29] trending | quickwit-oss/tantivy
+- Source: GitHub Trending (Rust), ⭐ 15,101, Category: tech
+
+## [2026-04-29] trending | seaweedfs/seaweedfs
+- Source: GitHub Trending (Go), ⭐ 31,948, Category: tech
+
+## [2026-04-29] trending | meshery/meshery
+- Source: GitHub Trending (Go), ⭐ 10,164, Category: tech
+
+## [2026-04-29] trending | dagger/dagger
+- Source: GitHub Trending (Go), ⭐ 15,742, Category: tech
+
+## [2026-04-29] trending | Agent-Field/agentfield
+- Source: GitHub Trending (Go), ⭐ 1,558, Category: tech
+
+## [2026-04-29] trending | k0sproject/k0s
+- Source: GitHub Trending (Go), ⭐ 6,001, Category: tech
+
+## [2026-04-29] trending | minio/minio
+- Source: GitHub Trending (Go), ⭐ 60,826, Category: tech
+
+## [2026-04-29] trending | dwarvesf/hidden
+- Source: GitHub Trending (Swift), ⭐ 13,841, Category: tech
+
+## [2026-04-29] trending | gonzalezreal/swift-markdown-ui
+- Source: GitHub Trending (Swift), ⭐ 3,815, Category: tech
