@@ -396,3 +396,64 @@ The following paths are ignored by one of your .gitignore files:
 raw/claude-code
 hint: Use -f if you really want to add them.
 hint: Disable this message with "git config set advice.addIgnoredFile false"
+[Fri May  1 00:30:00 KST 2026] Backing up Claude Code sessions...
+  ✅ -Users-andrew-PRJs-hydrogen-law/d6ee7424-4589-4ac0-8755-7b04f32ba829.jsonl
+  ✅ -/6c58954f-1591-4b50-9700-829bbc564130.jsonl
+  ✅ -Users-andrew-PRJs-GovRFP/513462c8-c135-43ed-93cc-abe318422dae.jsonl
+  ✅ -Users-andrew-y-tower-test/79eedaf2-82e4-4933-87c9-46d4cf247bc0.jsonl
+  ✅ -Users-andrew-y-tower-test/101aa942-c1ba-4090-9500-4fddaad89439.jsonl
+  ✅ subagents/agent-acb63914773a4462f.jsonl
+  ✅ subagents/agent-a7538da7b5ee8ad09.jsonl
+  ✅ subagents/agent-ad67ef3b77bcde3ef.jsonl
+  ✅ subagents/agent-a741d664c2c9a72ba.jsonl
+  ✅ subagents/agent-a485fb6f34d707fc6.jsonl
+  ✅ subagents/agent-a50a425b1c43d2dc0.jsonl
+  ✅ subagents/agent-a004437b6b56a83b6.jsonl
+  ✅ subagents/agent-af5fce157d05bf9b1.jsonl
+  ✅ subagents/agent-a2f4d70ad5faea340.jsonl
+  ✅ subagents/agent-af8af82866e1ceb74.jsonl
+  ✅ subagents/agent-ac524226f9495570d.jsonl
+  ✅ subagents/agent-a9ed93ccdad6c171b.jsonl
+  ✅ subagents/agent-a0997b69856b3791e.jsonl
+  ✅ subagents/agent-a08dbb5496e10712e.jsonl
+  ✅ subagents/agent-aca626a0447ffa2f6.jsonl
+  ✅ subagents/agent-ae2644d27d9de19d8.jsonl
+  ✅ subagents/agent-a46ebead1c1338385.jsonl
+  ✅ subagents/agent-a49a60119bcebcf2e.jsonl
+  ✅ subagents/agent-aa4b127034e263e71.jsonl
+  ✅ subagents/agent-a320827384f5525fe.jsonl
+  ✅ subagents/agent-aa1c904fbcab83d73.jsonl
+  ✅ subagents/agent-a619a781b80eafdeb.jsonl
+  ✅ subagents/agent-adabf10cc2540988d.jsonl
+  ✅ subagents/agent-ae6c2502c627c2a75.jsonl
+  ✅ subagents/agent-a2f86183d13646e39.jsonl
+  ✅ subagents/agent-a3a84d004daadd7ad.jsonl
+  ✅ subagents/agent-a51744336322f026e.jsonl
+  ✅ subagents/agent-a89b09dce511a4542.jsonl
+  ✅ subagents/agent-ab88600894c909b34.jsonl
+  ✅ subagents/agent-a84ee7a6049755d89.jsonl
+  ✅ subagents/agent-aa354a9b8ceb1617a.jsonl
+  ✅ subagents/agent-a1da6a06b9ad00eb5.jsonl
+  ✅ subagents/agent-a17b12741c198e8b0.jsonl
+  ✅ subagents/agent-ae1064f321d8cf413.jsonl
+  ✅ subagents/agent-a607f7cf5216eb2f4.jsonl
+  ✅ subagents/agent-a8effb28e1df430fe.jsonl
+  ✅ subagents/agent-a52cd10852c88534e.jsonl
+  ✅ subagents/agent-a36af772bb096dfca.jsonl
+  ✅ subagents/agent-a8b1e6dfa0af73e9b.jsonl
+  ✅ subagents/agent-a3747a979ff69fb15.jsonl
+  ✅ subagents/agent-ac0d2f20567341771.jsonl
+  ✅ subagents/agent-ace76d056ea9ee9e9.jsonl
+  ✅ subagents/agent-ad37560955c65dda8.jsonl
+  ✅ subagents/agent-ad31f1e9056de001b.jsonl
+  ✅ subagents/agent-a51397573227f4616.jsonl
+  ✅ subagents/agent-a5fc5c874ea0db60b.jsonl
+  ✅ subagents/agent-a87069fbba89bd0ff.jsonl
+  ✅ subagents/agent-a77cb2eefdb121cc9.jsonl
+  ✅ subagents/agent-a31472a65ce075ae9.jsonl
+  ✅ subagents/agent-a7856ccc9fee5698f.jsonl
+  ✅ -Users-andrew-PRJs/2bed58cd-f6a9-457c-9841-3e685aa3ba5a.jsonl
+The following paths are ignored by one of your .gitignore files:
+raw/claude-code
+hint: Use -f if you really want to add them.
+hint: Disable this message with "git config set advice.addIgnoredFile false"

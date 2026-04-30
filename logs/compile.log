@@ -354,3 +354,7 @@ fatal: could not read Username for 'https://github.com': Device not configured
 [2026-04-30 01:00:01] === Compile done ===
 [2026-04-30 01:00:01] === Compile done ===
 ✅ Built /Users/andrew/PRJs/personal-wiki/index.html (61,707 bytes, 4 tabs)
+[2026-05-01 01:00:00] === Compile started (mode: --daily) ===
+[2026-05-01 01:00:00] === Compile started (mode: --daily) ===
+[2026-05-01 01:00:00] ❌ Ollama not running or qwen2.5:72b not available
+[2026-05-01 01:00:00] ❌ Ollama not running or qwen2.5:72b not available

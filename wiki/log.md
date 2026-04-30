@@ -1905,3 +1905,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-29] trending | gonzalezreal/swift-markdown-ui
 - Source: GitHub Trending (Swift), ⭐ 3,815, Category: tech
+
+## [2026-04-30] lint | automated
+- Broken links: 18, Orphans: 452, Oversized: 8, Placeholders: 76, Total: 532
