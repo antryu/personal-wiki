@@ -1908,3 +1908,48 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-30] lint | automated
 - Broken links: 18, Orphans: 452, Oversized: 8, Placeholders: 76, Total: 532
+
+## [2026-04-30] trending | ghostty-org/ghostty
+- Source: GitHub Trending (Zig), ⭐ 52,794, Category: tech
+
+## [2026-04-30] trending | ForrestKnight/open-source-cs
+- Source: GitHub Trending (all), ⭐ 22,353, Category: tech
+
+## [2026-04-30] trending | browserbase/skills
+- Source: GitHub Trending (JavaScript), ⭐ 802, Category: tech
+
+## [2026-04-30] trending | iOfficeAI/AionUi
+- Source: GitHub Trending (TypeScript), ⭐ 23,163, Category: tech
+
+## [2026-04-30] trending | codexu/note-gen
+- Source: GitHub Trending (TypeScript), ⭐ 11,655, Category: tech
+
+## [2026-04-30] trending | chaitin/MonkeyCode
+- Source: GitHub Trending (TypeScript), ⭐ 2,648, Category: tech
+
+## [2026-04-30] trending | microsoft/edit
+- Source: GitHub Trending (Rust), ⭐ 13,995, Category: tech
+
+## [2026-04-30] trending | slint-ui/slint
+- Source: GitHub Trending (Rust), ⭐ 22,426, Category: tech
+
+## [2026-04-30] trending | wezterm/wezterm
+- Source: GitHub Trending (Rust), ⭐ 25,847, Category: tech
+
+## [2026-04-30] trending | Tencent/WeKnora
+- Source: GitHub Trending (Go), ⭐ 14,119, Category: tech
+
+## [2026-04-30] trending | caddyserver/caddy
+- Source: GitHub Trending (Go), ⭐ 71,972, Category: tech
+
+## [2026-04-30] trending | projectdiscovery/nuclei
+- Source: GitHub Trending (Go), ⭐ 28,164, Category: tech
+
+## [2026-04-30] trending | containerd/containerd
+- Source: GitHub Trending (Go), ⭐ 20,652, Category: tech
+
+## [2026-04-30] trending | hashicorp/terraform-mcp-server
+- Source: GitHub Trending (Go), ⭐ 1,349, Category: tech
+
+## [2026-04-30] trending | harflabs/SwiftVLC
+- Source: GitHub Trending (Swift), ⭐ 401, Category: tech
