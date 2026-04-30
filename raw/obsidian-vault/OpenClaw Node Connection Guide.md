@@ -268,8 +268,8 @@ f62f687f58b4258464600432371dce7c4ea457eb51178bd6
 ```
 
 ### Discord/Telegram Tokens
-- Discord: `REDACTED_DISCORD_TOKEN`
-- Telegram: `REDACTED_TELEGRAM`
+- Discord: `MTQ3NTI1ODY4MjYzMDczMzkyNQ.GHC5Ei.6Hywbzokk5UbthLAeph3mqh1FAexmuFxcL_zjs`
+- Telegram: `8286091866:AAH_IT5bYmQdVt1e9GdVsfKiVYJXeOptAU8`
 - Guild: 1308306893105664050
 
 ## Tags

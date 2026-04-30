@@ -39,8 +39,8 @@ Every solo founder runs a Fortune 500-level operation with AI agents.
 ### 6. No Consensus, Just Counsel (합의 아닌 자문)
 - LLM 에이전트 간 투표/합의는 구조적으로 실패한다 (비잔틴 장군 문제)
 - 에이전트는 각자 독립 분석 → 회의에서 논의 → Skepty가 리스크 검증
-- Counsely가 종합 정리 + 추천안 작성 → 회장이 최종 판단
-- "5:3으로 A안 채택" (X) → "A/B안 + 리스크, 회장님 판단" (O)
+- Counsely가 종합 정리 + 추천안 작성 → 의장이 최종 판단
+- "5:3으로 A안 채택" (X) → "A/B안 + 리스크, 의장님 판단" (O)
 - 30 agents, zero consensus — by design
 
 ## Business Structure
@@ -50,7 +50,7 @@ _y Holdings (지주회사)
 ├── _y Builder    — AI Company Framework (제품)
 ├── _y SaaS       — Product Portfolio (MyBidWise, Mindful, CutFlow)
 ├── _y Media      — Content & Marketing
-└── _y Capital    — Investment & Trading (S&P500)
+└── _y Trading    — Investment & Trading (S&P500)
 ```
 
 ## What We Do
@@ -84,7 +84,7 @@ _y Holdings (지주회사)
 - Stage: Pre-revenue, building operational proof
 
 ## Decision Principles
-1. 회장(Andrew)의 결재 없이 외부 발신 불가
+1. 의장(Andrew)의 결재 없이 외부 발신 불가
 2. 부서 간 협업은 회의를 통해 — 직접 지시 금지
 3. 모든 중요 결정은 기록 (DB + 보고서)
 4. 리스크는 Skepty가 항상 검토
