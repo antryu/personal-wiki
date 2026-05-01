@@ -1956,3 +1956,63 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-01] lint | automated
 - Broken links: 18, Orphans: 452, Oversized: 8, Placeholders: 76, Total: 532
+
+## [2026-05-01] trending | simstudioai/sim
+- Source: GitHub Trending (TypeScript), ⭐ 28,119, Category: tech
+
+## [2026-05-01] trending | Flowseal/zapret-discord-youtube
+- Source: GitHub Trending (Batchfile), ⭐ 26,955, Category: tech
+
+## [2026-05-01] trending | Lightricks/LTX-2
+- Source: GitHub Trending (Python), ⭐ 6,250, Category: tech
+
+## [2026-05-01] trending | the-momentum/open-wearables
+- Source: GitHub Trending (Python), ⭐ 1,508, Category: tech
+
+## [2026-05-01] trending | Tencent/AngelSlim
+- Source: GitHub Trending (Python), ⭐ 753, Category: tech
+
+## [2026-05-01] trending | microsoft/TRELLIS
+- Source: GitHub Trending (Python), ⭐ 12,404, Category: tech
+
+## [2026-05-01] trending | 777genius/claude_agent_teams_ui
+- Source: GitHub Trending (TypeScript), ⭐ 801, Category: tech
+
+## [2026-05-01] trending | remix-run/remix
+- Source: GitHub Trending (TypeScript), ⭐ 32,737, Category: tech
+
+## [2026-05-01] trending | bradygaster/squad
+- Source: GitHub Trending (TypeScript), ⭐ 2,451, Category: tech
+
+## [2026-05-01] trending | TibixDev/winboat
+- Source: GitHub Trending (TypeScript), ⭐ 20,563, Category: tech
+
+## [2026-05-01] trending | restatedev/restate
+- Source: GitHub Trending (Rust), ⭐ 3,807, Category: tech
+
+## [2026-05-01] trending | quickwit-oss/quickwit
+- Source: GitHub Trending (Rust), ⭐ 11,138, Category: tech
+
+## [2026-05-01] trending | go-task/task
+- Source: GitHub Trending (Go), ⭐ 15,435, Category: tech
+
+## [2026-05-01] trending | flyteorg/flyte
+- Source: GitHub Trending (Go), ⭐ 6,976, Category: tech
+
+## [2026-05-01] trending | hashicorp/terraform-provider-aws
+- Source: GitHub Trending (Go), ⭐ 10,859, Category: tech
+
+## [2026-05-01] trending | ethereum-optimism/optimism
+- Source: GitHub Trending (Go), ⭐ 6,421, Category: tech
+
+## [2026-05-01] trending | kserve/kserve
+- Source: GitHub Trending (Go), ⭐ 5,407, Category: tech
+
+## [2026-05-01] trending | juicedata/juicefs
+- Source: GitHub Trending (Go), ⭐ 13,530, Category: tech
+
+## [2026-05-01] trending | Shopify/toxiproxy
+- Source: GitHub Trending (Go), ⭐ 12,003, Category: tech
+
+## [2026-05-01] trending | apple/swift-temporal-sdk
+- Source: GitHub Trending (Swift), ⭐ 282, Category: tech
