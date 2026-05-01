@@ -8,10 +8,10 @@
 
 | Country | Stage | Confidence | Signature Traits | Reason |
 |---|---|---|---|---|
-| US | 3-4 | med | high debt; moderate inequality; declining education quality | High debt, moderate inequality, and weakening education suggest excess with early signs of decline. |
-| China | 3-4 | med | rising debt; moderate inequality; expanding trade | High trade share, moderate debt, and rising inequality suggest excess with early signs of overextension. |
-| Korea | 2-3 | med | moderate debt; high productivity; rising inequality | Strong education and trade, but rising Gini and debt hint at excess. |
-| Japan | 3-4 | med | high debt; moderate innovation; stable internal order | High debt, moderate tech, stable institutions suggest late Stage 3 or early Stage 4. |
+| US | unknown | low |  | Parse error — manual review needed |
+| China | unknown | low |  | Parse error — manual review needed |
+| Korea | unknown | low |  | Parse error — manual review needed |
+| Japan | unknown | low |  | Parse error — manual review needed |
 
 ## Notes
 - Stage 1=New Order, 2=Peace+Prosperity, 3=Excess, 4=Top, 5=Decline, 6=War/Reset
