@@ -1953,3 +1953,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-04-30] trending | harflabs/SwiftVLC
 - Source: GitHub Trending (Swift), ⭐ 401, Category: tech
+
+## [2026-05-01] lint | automated
+- Broken links: 18, Orphans: 452, Oversized: 8, Placeholders: 76, Total: 532

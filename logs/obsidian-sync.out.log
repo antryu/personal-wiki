@@ -1,0 +1,45 @@
+References/Reports/news-asset-matrix-2026-04-30.md
+References/Reports/predictions-2026-04-30.md
+
+sent 833632 bytes  received 890 bytes  15145589 bytes/sec
+total size is 4366848  speedup is 5.23
+[main 9e41e36] auto: obsidian vault sync 2026-05-01 (papers=12 tools=27)
+ 36 files changed, 10429 insertions(+)
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-05-01.md
+ create mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-30-ggui-ai-ggui.md
+ create mode 100644 raw/obsidian-vault/References/Equity/Methodology/2026-04-30-welcome-am-kim-deok-ki-quant-process.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/andrew-portfolio-mapping.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/big-cycle-stages.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/debt-cycles.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/index.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-04-30-snapshot.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-04-30-stage-summary.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/world-order-17-measures.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Liquidity/2026-04-30-coindesk-jpmorgan-hires-former-goldman-sachs-exec-for-kinex.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Rates/2026-04-30-bloomberg-divided-fed-likely-to-continue-blackrocks-rosenber.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Rates/2026-04-30-bloomberg-gold-holds-three-day-decline-as-hawkish-fed-flags.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Rates/2026-04-30-bloomberg-treasuries-slump-as-fed-dissents-spur-wagers-on-20.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Rates/2026-04-30-bloomberg-treasury-yields-climb-as-fed-split-amid-war-risks.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Rates/2026-04-30-coindesk-jack-mallers-twenty-one-capital-surges-after-major.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Rates/2026-04-30-coindesk-us-senator-holding-cards-on-clarity-acts-next-move.md
+ create mode 100644 raw/obsidian-vault/References/News/2026-04-30-bloomberg-divided-fed-likely-to-continue-blackrocks-rosenber.md
+ create mode 100644 raw/obsidian-vault/References/News/2026-04-30-bloomberg-gold-holds-three-day-decline-as-hawkish-fed-flags.md
+ create mode 100644 raw/obsidian-vault/References/News/2026-04-30-bloomberg-oil-extends-rally-as-hormuz-stays-shut-with-blocka.md
+ create mode 100644 raw/obsidian-vault/References/News/2026-04-30-bloomberg-treasuries-slump-as-fed-dissents-spur-wagers-on-20.md
+ create mode 100644 raw/obsidian-vault/References/News/2026-04-30-bloomberg-treasury-yields-climb-as-fed-split-amid-war-risks.md
+ create mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-bitcoins-widely-tracked-coinbase-premium-turns-neg.md
+ create mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-eric-trump-says-bitcoin-in-its-greatest-period-eve.md
+ create mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-hyperliquid-is-preparing-to-take-on-polymarket-wit.md
+ create mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-jack-mallers-twenty-one-capital-surges-after-major.md
+ create mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-jpmorgan-hires-former-goldman-sachs-exec-for-kinex.md
+ create mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-the-protocol-mythos-forces-crypto-industry-to-reth.md
+ create mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-the-tokenization-of-everything-is-no-longer-a-theo.md
+ create mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-us-senator-holding-cards-on-clarity-acts-next-move.md
+ create mode 100644 raw/obsidian-vault/References/News/2026-04-30-yahoo-finance-uae-exits-opec-and-opec-seeking-output-flexibility.md
+ create mode 100644 raw/obsidian-vault/References/Reports/codex-ytower-reframe-eval-2026-04-30.md
+ create mode 100644 raw/obsidian-vault/References/Reports/dalio-insight-2026-04-30.md
+ create mode 100644 raw/obsidian-vault/References/Reports/news-asset-matrix-2026-04-30.md
+ create mode 100644 raw/obsidian-vault/References/Reports/predictions-2026-04-30.md
+To github.com:antryu/personal-wiki.git
+   a3c7d03..9e41e36  main -> main
+[Fri May  1 06:30:07 KST 2026] Obsidian synced (papers=12 tools=27)
