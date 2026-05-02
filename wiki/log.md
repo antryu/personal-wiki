@@ -2016,3 +2016,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-01] trending | apple/swift-temporal-sdk
 - Source: GitHub Trending (Swift), ⭐ 282, Category: tech
+
+## [2026-05-02] lint | automated
+- Broken links: 18, Orphans: 452, Oversized: 8, Placeholders: 76, Total: 532

@@ -43,3 +43,15 @@ total size is 4366848  speedup is 5.23
 To github.com:antryu/personal-wiki.git
    a3c7d03..9e41e36  main -> main
 [Fri May  1 06:30:07 KST 2026] Obsidian synced (papers=12 tools=27)
+References/Reports/
+References/Reports/news-asset-matrix-2026-05-01.md
+
+sent 157825 bytes  received 148 bytes  4375983 bytes/sec
+total size is 4452627  speedup is 28.19
+[main effc923] auto: obsidian vault sync 2026-05-02 (papers=12 tools=27)
+ 5 files changed, 1366 insertions(+), 12 deletions(-)
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset/portfolio/2026-05-01-snapshot.md
+ create mode 100644 raw/obsidian-vault/References/Reports/news-asset-matrix-2026-05-01.md
+To github.com:antryu/personal-wiki.git
+   c32cff1..effc923  main -> main
+[Sat May  2 06:30:08 KST 2026] Obsidian synced (papers=12 tools=27)
