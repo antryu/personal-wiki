@@ -162,6 +162,23 @@ GitHub:     antryu/personal-wiki
 스케줄링:   launchd (slet wake 가능) + crontab (sleep 시 X)
 ```
 
+## 사용 중인 LLM 모델 (m4max 로컬)
+
+| 역할 | 모델 | 상태 |
+|---|---|---|
+| 텍스트 (Primary) | qwen3:32b | 항상 hot, 한국어 강함 |
+| 코딩 | qwen2.5-coder:32b | on-demand |
+| 추론 | deepseek-r1:70b | on-demand, 깊은 추론 |
+| 영어 reasoning | llama3.3:70b | on-demand |
+| 한국어 특화 | exaone3.5:latest | on-demand, LG 모델 |
+| **vision/OCR** | **gemma3:27b** | **on-demand, 이미지 분석** |
+| 백업·기타 | qwen3:latest, qwen2.5:14b, qwen2.5:72b, gpt-oss:20b | on-demand |
+
+**엔진**: llama-server (llama.cpp), 포트 8080 main  
+**llama-swap**: 작업별 모델 자동 선택. 메모리 절약 (15분 idle 시 unload).  
+**이전**: Ollama (port 11434, 2026-05-02 폐기)  
+**vision 활성화**: gemma3:27b GGUF 내장 projector (`--mmproj-auto`), 2026-05-01 복원  
+
 ---
 
-마지막 갱신: 2026-05-03 (위키 자동 업데이트 시스템 fix 완료)
+마지막 갱신: 2026-05-01 (Gemma 3 vision OCR 복원)

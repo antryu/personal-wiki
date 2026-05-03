@@ -10,7 +10,8 @@
  * Env:
  *   TELEGRAM_TOKEN   — Telegram bot token
  *   DISCORD_TOKEN    — Discord bot token
- *   OLLAMA_URL       — Ollama API (default: http://127.0.0.1:11434)
+ *   LLM_URL          — llama-server API (default: http://127.0.0.1:8080)
+ *   VISION_LLM_URL   — vision-capable llama-server for OCR (default: http://127.0.0.1:8082)
  *   WIKI_DIR         — personal-wiki root (default: ~/PRJs/personal-wiki)
  */
 
@@ -23,7 +24,8 @@ const TELEGRAM_TOKEN = process.env.TELEGRAM_TOKEN || "REDACTED_TELEGRAM";
 const DISCORD_TOKEN = process.env.DISCORD_TOKEN || "REDACTED_DISCORD_TOKEN";
 const DISCORD_GUILD_ID = "1308306893105664050";
 const DISCORD_INGEST_CHANNEL = "1492060544172163102"; // #wiki-ingest — auto-process all messages
-const OLLAMA_URL = process.env.OLLAMA_URL || "http://127.0.0.1:11434";
+const LLM_URL = process.env.LLM_URL || "http://127.0.0.1:8080";
+const VISION_LLM_URL = process.env.VISION_LLM_URL || "http://127.0.0.1:8082"; // gemma3:27b with --mmproj-auto
 const WIKI_ROOT = process.env.WIKI_DIR || join(process.env.HOME || "", "PRJs/personal-wiki");
 const RAW_DIR = join(WIKI_ROOT, "raw");
 const WIKI_DIR = join(WIKI_ROOT, "wiki");
@@ -31,7 +33,7 @@ const LOG_FILE = join(WIKI_DIR, "log.md");
 
 const CATEGORIES = ["business", "insights", "research", "finance", "tech", "projects", "infra", "daily", "people", "reference"];
 
-// Processing queue — serialize all Ollama calls to avoid model-swapping contention
+// Processing queue — serialize all LLM calls to avoid model-swapping contention
 const taskQueue: Array<() => Promise<void>> = [];
 let processing = false;
 
@@ -116,30 +118,44 @@ ${readme || "(no README)"}`;
 
 // ==================== OCR ====================
 
+const OCR_VISION_MODEL = "gemma3:27b"; // vision model with embedded mmproj
+
 async function ocrImage(imageBuffer: Buffer): Promise<string> {
   const base64 = imageBuffer.toString("base64");
-  console.log(`[OCR] Starting gemma4:31b, image size: ${imageBuffer.length} bytes`);
+  console.log(`[OCR] Starting ${OCR_VISION_MODEL} (vision), image size: ${imageBuffer.length} bytes`);
 
-  const res = await fetch(`${OLLAMA_URL}/api/chat`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      model: "gemma4:31b",
-      messages: [{
-        role: "user",
-        content: "Extract ALL text from this image. Output extracted text only, no descriptions. Keep Korean as Korean.",
-        images: [base64],
-      }],
-      stream: false,
-    }),
-  });
+  try {
+    const res = await fetch(`${VISION_LLM_URL}/v1/chat/completions`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        model: OCR_VISION_MODEL,
+        messages: [{
+          role: "user",
+          content: [
+            { type: "text", text: "Extract ALL text from this image. Output extracted text only, no descriptions. Keep Korean as Korean." },
+            { type: "image_url", image_url: { url: `data:image/jpeg;base64,${base64}` } },
+          ],
+        }],
+        stream: false,
+      }),
+    });
 
-  if (!res.ok) throw new Error(`OCR failed: ${res.status}`);
-  const data = await res.json();
-  let text = data.message?.content || "";
-  text = text.replace(/<think>[\s\S]*?<\/think>/g, "").trim();
-  console.log(`[OCR] Done, extracted ${text.length} chars`);
-  return text;
+    if (res.ok) {
+      const data = await res.json();
+      let text = data.choices?.[0]?.message?.content || "";
+      text = text.replace(/<think>[\s\S]*?<\/think>/g, "").trim();
+      console.log(`[OCR] Done, extracted ${text.length} chars`);
+      return text;
+    }
+    console.warn(`[OCR] ${OCR_VISION_MODEL} failed (${res.status}), falling back to text-only mode`);
+  } catch (e) {
+    console.warn(`[OCR] ${OCR_VISION_MODEL} error: ${e}, falling back to text-only mode`);
+  }
+
+  // Fallback: vision unavailable — return placeholder so downstream classify still works
+  console.warn("[OCR] 비전 모델 사용 불가 — 텍스트 추출 건너뜀");
+  return "";
 }
 
 // ==================== Classify ====================
@@ -157,7 +173,7 @@ async function classify(content: string): Promise<{ category: string; title: str
   console.log("[Classify] Starting qwen3:32b...");
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
-      const res = await fetch(`${OLLAMA_URL}/api/chat`, {
+      const res = await fetch(`${LLM_URL}/v1/chat/completions`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -175,7 +191,7 @@ async function classify(content: string): Promise<{ category: string; title: str
         continue;
       }
       const data = await res.json();
-      const raw = data.message?.content || "";
+      const raw = data.choices?.[0]?.message?.content || "";
       console.log(`[Classify] Raw (${raw.length} chars): ${raw.slice(0, 300)}`);
 
       // Try clean parse first
@@ -249,7 +265,7 @@ async function compileToWiki(content: string, category: string, title: string, r
     // Check if we should update an existing article
     let targetArticle = "";
     if (existingArticles.length > 0) {
-      const checkRes = await fetch(`${OLLAMA_URL}/api/chat`, {
+      const checkRes = await fetch(`${LLM_URL}/v1/chat/completions`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -263,7 +279,7 @@ async function compileToWiki(content: string, category: string, title: string, r
       });
       if (checkRes.ok) {
         const checkData = await checkRes.json();
-        let checkText = checkData.message?.content || "";
+        let checkText = checkData.checks?.[0]?.message?.content ?? checkData.choices?.[0]?.message?.content ?? "";
         checkText = checkText.replace(/<think>[\s\S]*?<\/think>/g, "").replace(/```json?\n?/g, "").replace(/```/g, "").trim();
         try {
           const decision = JSON.parse(checkText);
@@ -279,7 +295,7 @@ async function compileToWiki(content: string, category: string, title: string, r
       console.log(`[Compile] Updated: wiki/${category}/${targetArticle}`);
       return join(wikiDir, targetArticle);
     } else {
-      const compileRes = await fetch(`${OLLAMA_URL}/api/chat`, {
+      const compileRes = await fetch(`${LLM_URL}/v1/chat/completions`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -296,7 +312,7 @@ async function compileToWiki(content: string, category: string, title: string, r
         return null;
       }
       const compileData = await compileRes.json();
-      let article = compileData.message?.content || "";
+      let article = compileData.choices?.[0]?.message?.content || "";
       article = article.replace(/<think>[\s\S]*?<\/think>/g, "").trim();
       const filename = slugify(title) + ".md";
       writeFileSync(join(wikiDir, filename), article);
@@ -689,7 +705,7 @@ async function main() {
   console.log("Wiki Ingest Bot");
   console.log("===============");
   console.log(`Wiki: ${WIKI_ROOT}`);
-  console.log(`Ollama: ${OLLAMA_URL}`);
+  console.log(`llama-server: ${LLM_URL}`);
   console.log("");
 
   // Ensure directories
