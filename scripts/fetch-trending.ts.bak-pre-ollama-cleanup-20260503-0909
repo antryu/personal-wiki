@@ -20,7 +20,7 @@ import { join } from "path";
 import { execSync } from "child_process";
 
 // Config
-const LLM_URL = process.env.LLM_URL || "http://127.0.0.1:8080";
+const OLLAMA_URL = process.env.OLLAMA_URL || "http://127.0.0.1:11434";
 const WIKI_ROOT = process.env.WIKI_DIR || join(process.env.HOME || "", "PRJs/personal-wiki");
 const RAW_DIR = join(WIKI_ROOT, "raw");
 const WIKI_DIR = join(WIKI_ROOT, "wiki");
@@ -193,12 +193,12 @@ ${readme || "(no README)"}`;
   }
 }
 
-// Classify using llama-server
+// Classify using Ollama
 async function classify(content: string): Promise<{ category: string; title: string }> {
   const categories = ["business", "insights", "research", "finance", "tech", "projects", "infra", "daily", "people", "reference"];
 
   try {
-    const res = await fetch(`${LLM_URL}/v1/chat/completions`, {
+    const res = await fetch(`${OLLAMA_URL}/api/chat`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
@@ -213,7 +213,7 @@ async function classify(content: string): Promise<{ category: string; title: str
 
     if (res.ok) {
       const data = await res.json();
-      let text = (data.choices?.[0]?.message?.content || "")
+      let text = (data.message?.content || "")
         .replace(/<think>[\s\S]*?<\/think>/g, "")
         .replace(/```json?\n?/g, "")
         .replace(/```/g, "")
@@ -240,7 +240,7 @@ async function compileToWiki(content: string, category: string, title: string, r
     const wikiDir = join(WIKI_DIR, category);
     mkdirSync(wikiDir, { recursive: true });
 
-    const res = await fetch(`${LLM_URL}/v1/chat/completions`, {
+    const res = await fetch(`${OLLAMA_URL}/api/chat`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
@@ -255,7 +255,7 @@ async function compileToWiki(content: string, category: string, title: string, r
 
     if (!res.ok) return null;
     const data = await res.json();
-    let article = (data.choices?.[0]?.message?.content || "").replace(/<think>[\s\S]*?<\/think>/g, "").trim();
+    let article = (data.message?.content || "").replace(/<think>[\s\S]*?<\/think>/g, "").trim();
     const filename = slugify(title) + ".md";
     writeFileSync(join(wikiDir, filename), article);
     console.log(`[Compile] Created: wiki/${category}/${filename}`);

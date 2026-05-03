@@ -366,3 +366,16 @@ fatal: could not read Username for 'https://github.com': Device not configured
 [2026-05-03 01:00:00] === Compile started (mode: --daily) ===
 [2026-05-03 01:00:00] ❌ Ollama not running or qwen2.5:72b not available
 [2026-05-03 01:00:00] ❌ Ollama not running or qwen2.5:72b not available
+[2026-05-04 01:00:01] === Compile started (mode: --daily) ===
+[2026-05-04 01:00:01] === Compile started (mode: --daily) ===
+[2026-05-04 01:00:01] llama-server OK (qwen3:32b)
+[2026-05-04 01:00:01] llama-server OK (qwen3:32b)
+[main b5adfc8] auto: wiki compile 2026-05-04
+ 1 file changed, 3 insertions(+)
+To github.com:antryu/personal-wiki.git
+   dfe9b30..b5adfc8  main -> main
+[2026-05-04 01:00:05] Git pushed
+[2026-05-04 01:00:05] Git pushed
+[2026-05-04 01:00:05] === Compile done ===
+[2026-05-04 01:00:05] === Compile done ===
+✅ Built /Users/andrew/PRJs/personal-wiki/index.html (61,707 bytes, 4 tabs)

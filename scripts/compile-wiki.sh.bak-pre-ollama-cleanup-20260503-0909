@@ -1,13 +1,13 @@
 #!/bin/bash
-# Compile raw Discord data → wiki summaries using local llama-server
-# Run on M4 (where llama-server runs)
+# Compile raw Discord data → wiki summaries using local Ollama
+# Run on M4 (where Ollama runs)
 # Usage: ./scripts/compile-wiki.sh [--full | --daily]
 
 set -e
 cd "$(dirname "$0")/.."
 
-MODEL="qwen3:32b"
-LLM_URL="http://localhost:8080/v1/chat/completions"
+MODEL="qwen2.5:72b"
+OLLAMA="http://localhost:11434/api/generate"
 RAW_DIR="raw/discord"
 WIKI_DIR="wiki"
 ANALYSIS_DIR="analysis"
@@ -17,18 +17,17 @@ mkdir -p logs "$WIKI_DIR" "$ANALYSIS_DIR"
 
 log() { echo "[$(date '+%Y-%m-%d %H:%M:%S')] $1" | tee -a "$LOG_FILE"; }
 
-llm_ask() {
+ollama_ask() {
   local prompt_file=$(mktemp)
   echo "$1" > "$prompt_file"
   local result
   result=$(python3 -c "
 import json, sys, urllib.request
 prompt = open('$prompt_file').read()
-data = json.dumps({'model':'$MODEL','messages':[{'role':'user','content':prompt}],'max_tokens':4096,'temperature':0.3,'stream':False}).encode()
-req = urllib.request.Request('$LLM_URL', data=data, headers={'Content-Type':'application/json'})
+data = json.dumps({'model':'$MODEL','prompt':prompt,'stream':False,'options':{'num_predict':4096,'temperature':0.3}}).encode()
+req = urllib.request.Request('$OLLAMA', data=data, headers={'Content-Type':'application/json'})
 resp = urllib.request.urlopen(req, timeout=300)
-d = json.loads(resp.read())
-print(d['choices'][0]['message']['content'])
+print(json.loads(resp.read()).get('response','ERROR'))
 " 2>/dev/null)
   rm -f "$prompt_file"
   echo "$result"
@@ -76,7 +75,7 @@ $content
 마크다운 형식으로 작성하세요. 제목은 '#$channel 위키'로 시작하세요."
 
   local result
-  result=$(llm_ask "$prompt")
+  result=$(ollama_ask "$prompt")
 
   if [ "$result" != "ERROR" ] && [ -n "$result" ]; then
     local outfile="$WIKI_DIR/channels/$channel.md"
@@ -118,7 +117,7 @@ $summaries
 마크다운 형식, 한국어로 작성하세요. 제목은 '# 주간 리포트 $week'으로 시작하세요."
 
   local result
-  result=$(llm_ask "$prompt")
+  result=$(ollama_ask "$prompt")
 
   if [ "$result" != "ERROR" ] && [ -n "$result" ]; then
     echo "$result" > "$ANALYSIS_DIR/weekly-$week.md"
@@ -132,12 +131,12 @@ $summaries
 MODE="${1:---daily}"
 log "=== Compile started (mode: $MODE) ==="
 
-# Check llama-server
-if ! curl -s --max-time 5 "http://localhost:8080/v1/models" > /dev/null 2>&1; then
-  log "❌ llama-server not running on :8080"
+# Check Ollama
+if ! curl -s "$OLLAMA" -d '{"model":"'$MODEL'","prompt":"hi","stream":false,"options":{"num_predict":1}}' > /dev/null 2>&1; then
+  log "❌ Ollama not running or $MODEL not available"
   exit 1
 fi
-log "llama-server OK ($MODEL)"
+log "Ollama OK ($MODEL)"
 
 CHANNELS=$(ls "$RAW_DIR" 2>/dev/null)
 

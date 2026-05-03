@@ -42,21 +42,15 @@ const CHANNEL_MAP: Record<string, string> = {
 };
 
 function callClaude(prompt: string): string {
-  // Call llama-server (OpenAI-compatible) directly
+  // Use Claude Code CLI — inherits OAuth auth automatically
   const tmpFile = join(PROJECT_ROOT, ".tmp-prompt.txt");
   writeFileSync(tmpFile, prompt);
   try {
+    const env = { ...process.env };
+    delete env.CLAUDECODE;
     const result = execSync(
-      `python3 -c "
-import json, urllib.request
-prompt = open('${tmpFile}').read()
-data = json.dumps({'model':'qwen3:32b','messages':[{'role':'user','content':prompt}],'max_tokens':4096,'temperature':0.3,'stream':False}).encode()
-req = urllib.request.Request('http://localhost:8080/v1/chat/completions', data=data, headers={'Content-Type':'application/json'})
-resp = urllib.request.urlopen(req, timeout=600)
-d = json.loads(resp.read())
-print(d['choices'][0]['message']['content'])
-"`,
-      { encoding: "utf-8", maxBuffer: 50 * 1024 * 1024, timeout: 600000 }
+      `ollama run qwen3:latest "$(cat ${tmpFile})"`,
+      { encoding: "utf-8", maxBuffer: 50 * 1024 * 1024, timeout: 600000, env }
     );
     return result;
   } finally {

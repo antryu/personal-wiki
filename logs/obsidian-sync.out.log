@@ -55,3 +55,484 @@ total size is 4452627  speedup is 28.19
 To github.com:antryu/personal-wiki.git
    c32cff1..effc923  main -> main
 [Sat May  2 06:30:08 KST 2026] Obsidian synced (papers=12 tools=27)
+Projects/y-Holdings/claude-sessions/daily/
+Projects/y-Holdings/claude-sessions/daily/2026-05-03.md
+
+sent 22495 bytes  received 72 bytes  661788 bytes/sec
+total size is 21934  speedup is 0.97
+[main f6c6270] auto: obsidian vault sync 2026-05-03 (papers=0 tools=0)
+ 471 files changed, 310 insertions(+), 77240 deletions(-)
+ delete mode 100644 raw/obsidian-vault/2026-02-21-monetization-roadmap.md
+ delete mode 100644 "raw/obsidian-vault/2026-03-02-\353\260\251\355\226\245\354\204\261-\354\240\220\352\262\200.md"
+ delete mode 100644 raw/obsidian-vault/AI-COMPANY-v2.md
+ delete mode 100644 raw/obsidian-vault/AI-COMPANY-v3.1.md
+ delete mode 100644 raw/obsidian-vault/AI-COMPANY-v3.md
+ delete mode 100644 raw/obsidian-vault/AI-COMPANY.md
+ delete mode 100644 raw/obsidian-vault/Clippings/2026-02-21-knowledge-dump-10.md
+ delete mode 100644 raw/obsidian-vault/Clippings/2026-02-21-knowledge-dump-11.md
+ delete mode 100644 raw/obsidian-vault/Clippings/2026-02-21-knowledge-dump-12.md
+ delete mode 100644 raw/obsidian-vault/Clippings/2026-02-21-knowledge-dump-13.md
+ delete mode 100644 raw/obsidian-vault/Clippings/2026-02-21-knowledge-dump-14.md
+ delete mode 100644 raw/obsidian-vault/Clippings/2026-02-21-knowledge-dump-2.md
+ delete mode 100644 raw/obsidian-vault/Clippings/2026-02-21-knowledge-dump-3.md
+ delete mode 100644 raw/obsidian-vault/Clippings/2026-02-21-knowledge-dump-4.md
+ delete mode 100644 raw/obsidian-vault/Clippings/2026-02-21-knowledge-dump-5.md
+ delete mode 100644 raw/obsidian-vault/Clippings/2026-02-21-knowledge-dump-6.md
+ delete mode 100644 raw/obsidian-vault/Clippings/2026-02-21-knowledge-dump-7.md
+ delete mode 100644 raw/obsidian-vault/Clippings/2026-02-21-knowledge-dump-8.md
+ delete mode 100644 raw/obsidian-vault/Clippings/2026-02-21-knowledge-dump-9.md
+ delete mode 100644 raw/obsidian-vault/Clippings/2026-02-21-knowledge-dump.md
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-ai-predictions/AI \352\264\200\353\240\250 \354\230\210\354\270\241 \354\235\264\354\212\210.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-ai-predictions/Ai \354\261\204\353\204\220.md"
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-ai-predictions/Hugging Face.md
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-ai-predictions/Yann.md
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/(BM) AI \353\241\234 \354\261\205\354\223\260\352\270\260.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/(BM) AI \354\227\220\354\235\264\354\240\204\355\212\270 \354\204\234\353\271\204\354\212\244(\354\204\270\353\254\264 \354\240\210\354\204\270, \353\252\205\354\203\201).md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/(BM) Clara Verse \355\225\231\354\212\265 (\355\214\214\354\235\274\353\237\277 \355\205\214\354\212\244\355\212\270).md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/(BM) S&P500 \354\236\220\353\217\231\355\231\224.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/(BM) \352\264\200\354\204\270\354\232\260\355\232\214 \354\234\240\355\206\265.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/(BM) \354\230\201\354\227\255\353\263\204 \354\275\224\353\224\251 \354\235\270\355\204\260\355\216\230\354\235\264\354\212\244 \354\232\251\354\235\264\355\225\230\352\262\214 \354\240\234\354\225\210.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/(BM) \355\201\254\353\246\275\355\206\240 \353\247\244\353\247\244 \354\236\220\353\217\231\355\231\224.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/(Biz) BitChat - \354\261\204\355\214\205\354\225\261 \353\271\204\355\212\270\354\275\224\354\235\270\354\206\241\352\270\210.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/Biz \353\251\224\353\252\250\353\246\254\352\270\260\353\212\245.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/PRD \354\240\234\354\236\221\353\217\204\354\231\200\354\243\274\353\212\224 \354\202\254\354\235\264\355\212\270 - Gummysearch.md"
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-biz/Untitled.md
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-biz/[MVP - Acquired].md
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/[MVP] AI \352\260\225\354\235\230.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/[MVP] \353\204\244\354\235\264\353\262\204 \355\206\241\355\206\241.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/[MVP] \354\235\230\354\202\254-\355\231\230\354\236\220 \353\214\200\355\231\224.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/[MVP] \354\273\244\355\224\274 AS \354\227\205\354\262\264 Finder.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/\352\260\234\354\232\224.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/\352\263\265\352\265\254 \342\206\222 \355\203\200\353\266\204\354\225\274(\354\235\214\354\213\235\354\241\260\353\246\254 \353\223\261) \353\263\200\355\230\225\353\220\234 \354\240\201\354\232\251 (\355\216\270\353\246\254\354\204\261\354\246\235\353\214\200 \353\223\261).md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/\353\241\234\354\273\254 LLM(BitNet \353\223\261) \355\231\234\354\232\251\355\225\234 \354\213\244\354\213\234\352\260\204 \352\261\260\353\236\230.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/\353\262\210\354\227\255\352\270\260 - Bitnet - MCP - \354\230\250\353\224\224\353\260\224\354\235\264\354\212\244.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/\353\266\204\354\225\274\353\263\204 \353\213\210\354\271\230\353\247\210\352\262\237 \354\260\276\354\225\204\354\243\274\353\212\224 \354\204\234\353\271\204\354\212\244.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/\354\235\270\354\262\264 \354\213\240\355\230\270\353\260\233\354\225\204\354\204\234 \354\271\230\353\243\214\355\225\264\354\243\274\353\212\224 ai \354\213\234\354\212\244\355\205\234.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/\355\225\265\354\213\254\355\202\244\354\233\214\353\223\234\353\247\220\355\225\230\353\251\264 \355\212\270\354\234\204\355\204\260\352\270\200\354\215\250\354\243\274\352\270\260.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-biz/\355\227\210\352\271\205\355\216\230\354\235\264\354\212\244_SO-101.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/'AI \354\226\265\353\247\214\354\236\245\354\236\220'\352\260\200 \353\260\235\355\236\214 \354\202\254\354\227\205 \354\204\261\352\263\265\354\235\230 4\352\260\200\354\247\200 \354\227\255\354\204\244\354\240\201\354\235\270 \353\271\204\353\260\200.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/1 \354\203\201\355\203\234 \354\247\204\353\213\250 (10 23).md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/2 4\352\260\200\354\247\200 \354\230\201\354\227\255 \355\217\211\352\260\200.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/3 \354\234\204\354\271\230 \353\260\217 \355\225\265\354\213\254\353\254\270\354\240\234\354\247\204\353\213\250.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/4 \352\266\214\352\263\240\354\202\254\355\225\255.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/5 \353\246\254\354\212\244\355\201\254\353\214\200\354\235\221.md"
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-insight-contents/500.md
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/6 \353\202\230\353\247\214\354\235\230 \352\260\225\354\240\220\355\231\234\354\232\251\353\262\225.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/7 \354\204\261\352\263\265\354\227\254\353\266\200\355\214\220\353\213\250 \354\235\270\354\236\220 \353\260\217 \354\265\234\354\242\205\354\241\260\354\226\270.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/AI \355\224\204\353\241\234\354\240\235\355\212\270\352\260\200 \354\244\204\354\244\204\354\235\264 \354\242\214\354\264\210\355\225\230\353\212\224 \353\260\260\352\262\275\354\227\220\353\212\224 \353\215\260\354\235\264\355\204\260 \353\254\270\354\240\234\352\260\200 \354\236\210\353\213\244 \355\217\254\354\266\230\354\227\220 \353\224\260\353\245\264\353\251\264 \352\270\260\354\227\205 AI \353\217\204\354\236\205.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/AI\354\231\200 \354\226\270\354\226\264\354\235\230 \355\225\234\352\263\204.md"
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-insight-contents/Claude Skills.md
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/GTM \354\240\204\353\236\265.md"
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-insight-contents/Gemini 3 0 prompt.md
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/Manus - AI \354\227\220\354\235\264\354\240\204\355\212\270\353\245\274 \354\234\204\355\225\234 \354\273\250\355\205\215\354\212\244\355\212\270 \354\227\224\354\247\200\353\213\210\354\226\264\353\247\201 Manus \352\265\254\354\266\225\354\227\220\354\204\234 \354\226\273\354\235\200 \352\265\220\355\233\210.md"
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-insight-contents/Myself.md
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-insight-contents/PF & Sharpe Ratio.md
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-insight-contents/README.md
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-insight-contents/RFP for AI.md
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-insight-contents/Solutions.md
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-insight-contents/WISH - 5 GENIUS WAYS TO MAKE $ WITH AI.md
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/WISH - \353\262\240\354\235\264\354\247\225\354\235\230 '\354\212\210\355\215\274 \352\260\234\353\257\270' 1\354\235\270 \352\270\260\354\227\205\352\260\200.md"
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-insight-contents/[Human3 0].md
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/[\352\270\260\352\262\200\354\246\235 \354\213\234\354\236\245 \353\214\200\354\262\264] 7M 1,800\353\247\214\354\233\220 \354\210\230\354\235\265.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/[\354\213\240\352\267\234\354\213\234\354\236\245\354\247\204\354\236\205] 10\354\226\265\352\267\234\353\252\250 \354\212\244\355\203\200\355\212\270\354\227\205\353\247\214\353\223\244\352\270\260.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/\352\262\200\354\246\235 \354\273\244\353\256\244\353\213\210\355\213\260.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/\352\270\200\353\241\234\353\262\214 \353\237\260\354\271\255 - Product hunt.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/\353\236\204\355\224\204 - Ralph.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/\353\241\234\354\247\201\353\263\200\352\262\275 \355\236\210\354\212\244\355\206\240\353\246\254.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/\354\230\244\355\224\210\355\201\264\353\241\234 + \355\224\204\353\241\254\355\224\204\355\214\205.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/\354\240\225\353\266\200\354\247\200\354\233\220\354\213\234\354\212\244\355\205\234 \353\246\254\354\212\244\355\212\270.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/\355\201\264\353\241\234\353\223\234\354\275\224\353\223\234 \354\204\270\355\214\205.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-insight-contents/\355\201\264\354\275\224 \354\213\234\354\236\221\354\213\234 \355\224\204\353\241\254\355\224\204\355\212\270.md"
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support.md
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/API (\354\241\260\353\213\254\354\262\255).md"
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/APIs.md
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/DB.md
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/Github \353\260\260\355\217\254.md"
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/Phase1.md
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/Questions.md
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/SQL.md
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/[HWP].md
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/\352\263\265\352\263\240\354\204\234\353\245\230\352\265\254\354\241\260.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/\353\260\261\354\227\205.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/\354\210\230\354\240\225 \352\260\234\354\204\240.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/\354\225\204\355\202\244\355\205\215\354\262\230.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/\354\227\205\353\215\260\354\235\264\355\212\270 \354\243\274\352\270\260.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/\354\240\225\353\266\200 \354\247\200\354\233\220 \352\265\254\354\241\260.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/\354\244\221\354\206\214\353\262\244\354\262\23024 (\355\206\265\355\225\251\352\270\260\352\264\200).md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/1 Gov Support/\355\225\234\352\265\255 \352\263\265\352\263\265\354\241\260\353\213\254 \354\213\234\354\236\245\354\235\230 \354\210\250\354\235\200 \352\270\260\355\232\214 \354\206\214\352\267\234\353\252\250 \352\270\260\354\227\205\354\235\204 \354\234\204\355\225\234 \354\231\204\354\240\204\355\225\234 \352\260\200\354\235\264\353\223\234.md"
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-thairon/2 AI - Marketing.md
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-thairon/2 AI - Marketing/Marketing Tool.md
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-thairon/2 AI - Marketing/Marketing Tool/COMPARISON.md
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/2 AI - Marketing/\353\247\210\354\274\200\355\214\205.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/2 AI - Marketing/\354\235\274\354\235\274\353\246\254\353\267\260.md"
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-thairon/3 Infinite CC.md
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-thairon/3 Trading - Check.md
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/3 Trading - Check/\355\231\225\354\235\270.md"
+ delete mode 100644 raw/obsidian-vault/Clippings/notion-thairon/Thairon.md
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/[\353\213\250\352\263\204\353\263\204 Feeling].md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\353\260\224\354\235\264\353\270\214\354\275\224\353\224\251\354\210\234\354\204\234.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\212\244\353\240\210\353\223\234 \353\247\244\353\247\244.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244/Claude Code Swarm.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244/Etc.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244/Git & Github.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244/Must - Macrohard.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244/md \355\214\214\354\235\274 \354\260\270\354\241\260\353\260\251\354\213\235.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244/\355\201\264\353\241\234\353\223\234 \354\275\224\353\223\234 \355\231\234\354\232\251\355\225\234 \355\222\200\354\212\244\355\203\235 \352\265\254\354\266\225 [1\354\260\250].md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244/\355\201\264\353\241\234\353\223\234 \354\275\224\353\223\234 \355\231\234\354\232\251\355\225\234 \355\222\200\354\212\244\355\203\235 \352\265\254\354\266\225 [1\354\260\250]/CC TO DIGITAL OCEAN.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244/\355\201\264\353\241\234\353\223\234 \354\275\224\353\223\234 \355\231\234\354\232\251\355\225\234 \355\222\200\354\212\244\355\203\235 \352\265\254\354\266\225 [1\354\260\250]/DB (Supabase).md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244/\355\201\264\353\241\234\353\223\234 \354\275\224\353\223\234 \355\231\234\354\232\251\355\225\234 \355\222\200\354\212\244\355\203\235 \352\265\254\354\266\225 [1\354\260\250]/Vercel \353\260\260\355\217\254.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244/\355\201\264\353\241\234\353\223\234 \354\275\224\353\223\234 \355\231\234\354\232\251\355\225\234 \355\222\200\354\212\244\355\203\235 \352\265\254\354\266\225 [1\354\260\250]/localhost & vercel.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244/\355\201\264\353\241\234\353\223\234 \354\275\224\353\223\234 \355\231\234\354\232\251\355\225\234 \355\222\200\354\212\244\355\203\235 \352\265\254\354\266\225 [1\354\260\250]/\354\204\234\353\262\204\352\265\254\354\266\225.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244/\355\201\264\353\241\234\353\223\234 \354\275\224\353\223\234 \355\231\234\354\232\251\355\225\234 \355\222\200\354\212\244\355\203\235 \352\265\254\354\266\225 [1\354\260\250]/\354\204\234\353\262\204\352\265\254\354\266\225/FastAPI \352\260\234\354\232\224.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244/\355\201\264\353\241\234\353\223\234 \354\275\224\353\223\234 \355\231\234\354\232\251\355\225\234 \355\222\200\354\212\244\355\203\235 \352\265\254\354\266\225 [1\354\260\250]/\354\210\230\354\240\225.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\354\240\220\352\262\200 \355\225\255\353\252\251\353\223\244/\355\201\264\353\241\234\353\223\234 \354\275\224\353\223\234 \355\231\234\354\232\251\355\225\234 \355\222\200\354\212\244\355\203\235 \352\265\254\354\266\225 [1\354\260\250]/\354\233\271\354\225\261 \354\203\235\354\204\261 \355\233\204 \354\204\234\353\262\204\354\227\220 \354\230\254\353\246\254\352\270\260.md"
+ delete mode 100644 "raw/obsidian-vault/Clippings/notion-thairon/\355\201\264\353\241\234\353\223\234\354\275\224\353\223\234\354\235\230 \353\252\250\353\223\240\352\262\203.md"
+ delete mode 100644 raw/obsidian-vault/Clippings/previous-knowledge-dump.md
+ delete mode 100644 "raw/obsidian-vault/MyBidWise SEO \354\240\204\353\236\265.md"
+ delete mode 100644 raw/obsidian-vault/OpenClaw Node Connection Guide.md
+ delete mode 100644 raw/obsidian-vault/Projects/Babylon/Babylon-Business-List.md
+ delete mode 100644 raw/obsidian-vault/Projects/Babylon/Babylon-Reports.md
+ delete mode 100644 raw/obsidian-vault/Projects/Babylon/README.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/2026-04-03-pm-skills-Integration-Master.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/AEO-Strategy.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/AI-Agent-Platform-Comparison.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/Agent-Skill-Awareness-Guide.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset/portfolio/2026-04-29-snapshot.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset/portfolio/2026-05-01-snapshot.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset/portfolio/README.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset/portfolio/_template-snapshot.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/COMPANY-DNA.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/DECISION-ENGINE.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/DECISION-INTELLIGENCE.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/EPARE-Claude-Code-Integration.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/GEO-Strategy.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/Harness-100-Workflow-System.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/SEO-AEO-GEO-Integration.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/Skill-Auto-Loading-Guide.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/Vita/2026-04-29-competitor-platform-analysis.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/MOC.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-04-25.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-04-26.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-04-27.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-04-28.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-04-29.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-04-30.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-05-01.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-05-03.md
+ delete mode 100644 "raw/obsidian-vault/Projects/y-Holdings/claude-sessions/notes/2026-04-25-claude-sessions-\354\236\220\353\217\231-\354\240\200\354\236\245-\354\213\234\354\212\244\355\205\234.md"
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/governance/2026-04-29-jeongbanhap-process-spec.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/launch-plan.md
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/legal/MOC.md
+ delete mode 100644 "raw/obsidian-vault/Projects/y-Holdings/legal/cache/2026-04-25-135042-prec-\352\263\204\354\225\275-\355\225\264\354\240\234.md"
+ delete mode 100644 raw/obsidian-vault/Projects/y-Holdings/y-Tower-System-Architecture.md
+ delete mode 100644 "raw/obsidian-vault/Projects/y-Holdings/\353\252\260\355\212\270\353\266\201-\354\235\270\354\202\254\354\235\264\355\212\270.md"
+ delete mode 100644 "raw/obsidian-vault/Projects/y-Holdings/\353\263\221\353\262\225\354\204\234-\354\240\204\353\236\265-\355\224\204\353\240\210\354\236\204\354\233\214\355\201\254.md"
+ delete mode 100644 "raw/obsidian-vault/Projects/y-Holdings/\354\213\240\354\202\254\354\227\205/2026-04-28-MCD-PlayAuto-SmartPD-\353\214\200\354\262\264.md"
+ delete mode 100644 "raw/obsidian-vault/Projects/y-Holdings/\354\213\240\354\202\254\354\227\205/README.md"
+ delete mode 100644 "raw/obsidian-vault/Projects/y-Holdings/\354\232\264\354\230\201\353\260\251\354\213\235-Operating-System.md"
+ delete mode 100644 raw/obsidian-vault/References/AI-Companies/2026-03-21-polsia-competitor-analysis.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Companies/2026-03-23-atoms-travis-kalanick.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Companies/2026-03-31-Claude-Code-Leak-Analysis.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Companies/2026-04-01-Claude-Code-Feature-Flags.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Companies/2026-04-01-Claude-Code-Source-Verification.md
+ delete mode 100644 raw/obsidian-vault/References/AI-News/2026-03-18-ai-dog-cancer-vaccine.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Optimization/2026-03-31-TurboQuant-PyTorch.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Papers/2026-01-18_Agentic-Reasoning-for-LLMs.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Papers/2026-03-24-LeWorldModel-JEPA.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Papers/2026-03-28-Agentic-AI-Intelligence-Explosion.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Papers/Chronos-Temporal-Memory-2026.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Papers/MM-CondChain-2026-03.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Papers/README.md
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/00-AI\353\236\200-\353\254\264\354\227\207\354\235\270\352\260\200.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/01-\355\206\240\355\201\260\354\235\264\353\236\200.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/02-\354\236\204\353\262\240\353\224\251.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/03-RNN-\352\270\260\354\264\210.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/04-CNN-\352\270\260\354\264\210.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/05-\354\205\200\355\224\204\354\226\264\355\205\220\354\205\230.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/06-\355\212\270\353\236\234\354\212\244\355\217\254\353\250\270\353\236\200.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/07-GPT\353\236\200.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/08-GPT3-\354\235\264\352\262\214-\354\231\234-\353\214\200\353\213\250\355\225\264.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/09-RAG-\352\262\200\354\203\211\354\234\274\353\241\234-\353\230\221\353\230\221\355\225\264\354\247\200\352\270\260.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/10-\353\251\200\355\213\260\355\227\244\353\223\234\354\226\264\355\205\220\354\205\230.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/11-\355\212\270\353\236\234\354\212\244\355\217\254\353\250\270\353\270\224\353\241\235.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/12-\355\225\231\354\212\265\352\263\274\354\240\225-\352\270\260\354\264\210.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/13-\355\205\215\354\212\244\355\212\270\354\203\235\354\204\261-\354\233\220\353\246\254.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage1-\354\236\205\353\254\270/14-\354\271\264\355\214\214\354\213\234-GPT-from-scratch-\354\230\201\354\203\201\352\260\200\354\235\264\353\223\234.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/01-VGG.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/02-ResNet.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/03-LSTM-Effectiveness.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/04-Seq2Seq.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/05-Attention-NMT.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/06-Vision-Transformer.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/07-Pointer-Networks.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/08-GPipe.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/09-Scaling-Laws.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/10-DeepSpeech2.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/11-Vision-Language.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/12-Lost-in-Middle.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/13-Emergent-Abilities.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/14-\354\271\264\355\214\214\354\213\234-minGPT.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/15-\354\271\264\355\214\214\354\213\234-nanoGPT.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/16-JEPA-\352\260\234\353\205\220.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage2-\354\244\221\352\270\211/17-I-JEPA.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/01-Recurrent-Dropout.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/02-Dilated-Conv.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/03-FCN.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/04-RNN-Power.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/05-Expressive-Power.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/06-Hyperparameter.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/07-Large-Batch.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/08-Neural-Turing.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/09-Relational-RNN.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/10-VAE.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/11-CapsuleNet.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/12-\354\240\204\354\262\264\354\275\224\353\223\234\353\246\254\353\267\260.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/13-\354\213\244\354\212\265\352\260\200\354\235\264\353\223\234.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/14-\354\271\264\355\214\214\354\213\234-nanochat.md"
+ delete mode 100644 "raw/obsidian-vault/References/AI-Papers/Stage3-\354\213\254\355\231\224/15-V-JEPA.md"
+ delete mode 100644 raw/obsidian-vault/References/AI-Papers/Steerling-Interpretable-Causal-Diffusion-LM.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-01-Claw-Code-Harness-Analysis.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-01-Claw-Dev-Analysis.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-03-PM-OS-Analysis.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-03-pm-skills-Analysis.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-16-Best-of-Both-for-Y-Tower.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-16-Hermes-vs-OpenClaw.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-16-Y-Tower-Product-Evaluation.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-25-google-agents-cli.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-27-MiMo-V25-ASR.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-27-agentic-stack.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-27-hackingtool.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-28-atlas-gic.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-29-alphavantage-mcp.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-29-remotion-dev.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-29-tradingagents.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-29-tvscreener.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-30-Drakkar-Software-octobot.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-30-GammaLabTechnologies-harmonist.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-30-HKUDS-deepcode.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-30-agentscope-ai-agentscope.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-30-cognizant-ai-lab-neuro-san-studio.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-30-cognizant-ai-lab-neuro-san.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-30-freqtrade-freqtrade.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-30-ggui-ai-ggui.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-30-lsdefine-genericagent.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/2026-04-30-marketcalls-openalgo.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Tools/agency-agents-reference.md
+ delete mode 100644 raw/obsidian-vault/References/AI-Trends/China-AI-Agent-Consumer-Wave-2026-03.md
+ delete mode 100644 raw/obsidian-vault/References/Agent-Skills/Agent-Skills-Landscape.md
+ delete mode 100644 raw/obsidian-vault/References/Babylon/a16z-insights.md
+ delete mode 100644 raw/obsidian-vault/References/Babylon/korea-signals.md
+ delete mode 100644 raw/obsidian-vault/References/Babylon/lennys-insights.md
+ delete mode 100644 raw/obsidian-vault/References/Babylon/linkedin-signals.md
+ delete mode 100644 raw/obsidian-vault/References/Babylon/reddit-hn-signals.md
+ delete mode 100644 raw/obsidian-vault/References/Babylon/stanford-hai-insights.md
+ delete mode 100644 raw/obsidian-vault/References/Babylon/x-social-signals.md
+ delete mode 100644 raw/obsidian-vault/References/Babylon/yc-insights.md
+ delete mode 100644 raw/obsidian-vault/References/Business-Insights/3D-Dashboard-References.md
+ delete mode 100644 "raw/obsidian-vault/References/Business-Insights/Abel-Ko-\355\206\240\354\212\244-AI\354\202\254\354\235\274\353\241\234.md"
+ delete mode 100644 "raw/obsidian-vault/References/Business-Insights/\353\241\234\354\235\264\353\246\254-Cluely-BZCF-\354\235\270\355\204\260\353\267\260.md"
+ delete mode 100644 raw/obsidian-vault/References/Claude-Native-Law-Firm.md
+ delete mode 100644 raw/obsidian-vault/References/Communication/MIT-Patrick-Winston-How-to-Speak.md
+ delete mode 100644 raw/obsidian-vault/References/Equity/Methodology/2026-04-30-welcome-am-kim-deok-ki-quant-process.md
+ delete mode 100644 raw/obsidian-vault/References/GitHub-Trending/2026-03-11.md
+ delete mode 100644 raw/obsidian-vault/References/GitHub-Trending/2026-03-14.md
+ delete mode 100644 raw/obsidian-vault/References/GitHub-Trending/2026-03-16.md
+ delete mode 100644 raw/obsidian-vault/References/GitHub-Trending/2026-03-19.md
+ delete mode 100644 raw/obsidian-vault/References/GitHub-Trending/2026-03-23.md
+ delete mode 100644 raw/obsidian-vault/References/GitHub-Trending/2026-03-26.md
+ delete mode 100644 raw/obsidian-vault/References/GitHub-Trending/2026-03-30.md
+ delete mode 100644 raw/obsidian-vault/References/GitHub-Trending/2026-04-02.md
+ delete mode 100644 raw/obsidian-vault/References/Lenny-Newsletter-2026-02.md
+ delete mode 100644 raw/obsidian-vault/References/Macro/Dalio/andrew-portfolio-mapping.md
+ delete mode 100644 raw/obsidian-vault/References/Macro/Dalio/big-cycle-stages.md
+ delete mode 100644 raw/obsidian-vault/References/Macro/Dalio/debt-cycles.md
+ delete mode 100644 raw/obsidian-vault/References/Macro/Dalio/index.md
+ delete mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-04-30-snapshot.md
+ delete mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-04-30-stage-summary.md
+ delete mode 100644 raw/obsidian-vault/References/Macro/Dalio/world-order-17-measures.md
+ delete mode 100644 raw/obsidian-vault/References/Macro/Liquidity/2026-04-30-coindesk-jpmorgan-hires-former-goldman-sachs-exec-for-kinex.md
+ delete mode 100644 raw/obsidian-vault/References/Macro/Rates/2026-04-30-bloomberg-divided-fed-likely-to-continue-blackrocks-rosenber.md
+ delete mode 100644 raw/obsidian-vault/References/Macro/Rates/2026-04-30-bloomberg-gold-holds-three-day-decline-as-hawkish-fed-flags.md
+ delete mode 100644 raw/obsidian-vault/References/Macro/Rates/2026-04-30-bloomberg-treasuries-slump-as-fed-dissents-spur-wagers-on-20.md
+ delete mode 100644 raw/obsidian-vault/References/Macro/Rates/2026-04-30-bloomberg-treasury-yields-climb-as-fed-split-amid-war-risks.md
+ delete mode 100644 raw/obsidian-vault/References/Macro/Rates/2026-04-30-coindesk-jack-mallers-twenty-one-capital-surges-after-major.md
+ delete mode 100644 raw/obsidian-vault/References/Macro/Rates/2026-04-30-coindesk-us-senator-holding-cards-on-clarity-acts-next-move.md
+ delete mode 100644 raw/obsidian-vault/References/News/2026-04-30-bloomberg-divided-fed-likely-to-continue-blackrocks-rosenber.md
+ delete mode 100644 raw/obsidian-vault/References/News/2026-04-30-bloomberg-gold-holds-three-day-decline-as-hawkish-fed-flags.md
+ delete mode 100644 raw/obsidian-vault/References/News/2026-04-30-bloomberg-oil-extends-rally-as-hormuz-stays-shut-with-blocka.md
+ delete mode 100644 raw/obsidian-vault/References/News/2026-04-30-bloomberg-treasuries-slump-as-fed-dissents-spur-wagers-on-20.md
+ delete mode 100644 raw/obsidian-vault/References/News/2026-04-30-bloomberg-treasury-yields-climb-as-fed-split-amid-war-risks.md
+ delete mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-bitcoins-widely-tracked-coinbase-premium-turns-neg.md
+ delete mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-eric-trump-says-bitcoin-in-its-greatest-period-eve.md
+ delete mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-hyperliquid-is-preparing-to-take-on-polymarket-wit.md
+ delete mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-jack-mallers-twenty-one-capital-surges-after-major.md
+ delete mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-jpmorgan-hires-former-goldman-sachs-exec-for-kinex.md
+ delete mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-the-protocol-mythos-forces-crypto-industry-to-reth.md
+ delete mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-the-tokenization-of-everything-is-no-longer-a-theo.md
+ delete mode 100644 raw/obsidian-vault/References/News/2026-04-30-coindesk-us-senator-holding-cards-on-clarity-acts-next-move.md
+ delete mode 100644 raw/obsidian-vault/References/News/2026-04-30-yahoo-finance-uae-exits-opec-and-opec-seeking-output-flexibility.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2015-11-10_The Memo Risk Revisited Again.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2016-01-14_The Memo On the Couch.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2016-05-26_The Memo Economic Reality.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2016-08-17_The Memo Political Reality.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2017-01-10_The Memo Expert Opinion.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2017-07-26_The Memo There They Go Again... Again.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2018-06-18_The Memo Investing Without People.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2019-06-26_The Memo This Time It's Different.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2020-01-13_The Memo You Bet!.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2020-10-13_Coming into Focus.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2020-10-19_Coming into Focus (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2020-11-30_The Rewind - The Route to Performance.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2020-12-21_The Rewind - bubble.com.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-01-11_Something of Value.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-01-14_Something of Value (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-02-24_The Rewind - You Can't Predict. You Can Prepare..md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-03-04_2020 in Review.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-03-19_2020 in Review (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-04-29_The Rewind - Dare to Be Great.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-05-05_The Rewind - Dare to Be Great II.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-06-24_The Rewind - It Is What It Is.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-07-29_Thinking About Macro.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-07-30_Thinking About Macro (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-08-26_The Rewind - Us and Them.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-09-30_The Rewind - On the Couch.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-10-07_The Rewind - What Does the Market Know.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-11-23_The Winds of Change.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-11-30_The Winds of Change (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2021-12-20_The Rewind - Uncertainty.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-01-13_Selling Out (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-01-13_Selling Out.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-01-21_Behind the Memo - Selling Out.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-02-24_The Rewind - It's All a Big Mistake.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-03-23_The Pendulum in International Affairs (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-03-23_The Pendulum in International Affairs.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-03-31_Behind the Memo - The Pendulum in International Affairs.md
+ delete mode 100644 "raw/obsidian-vault/References/Oaktree-Insights/2022-04-28_The Rewind \342\200\223 Lines in the Sand.md"
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-05-26_Bull Market Rhymes (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-05-26_Bull Market Rhymes.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-06-02_Behind The Memo - Bull Market Rhymes.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-06-16_The Rewind - Something of Value.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-06-23_Conversation at Panmure House.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-07-26_I Beg to Differ (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-07-26_I Beg to Differ.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-08-04_Behind the Memo - I Beg to Differ.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-09-08_The Illusion of Knowledge (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-09-08_The Illusion of Knowledge.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-09-13_Behind the Memo - The Illusion of Knowledge.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-10-13_The Rewind - Global Financial Crisis.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-11-22_What Really Matters (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-11-22_What Really Matters.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-12-06_Behind the Memo - What Really Matters.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-12-13_Sea Change (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2022-12-13_Sea Change.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2023-01-05_Behind the Memo - Sea Change.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2023-02-02_The Rewind - Ditto.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2023-03-07_The Rewind - Calling the Market.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2023-04-17_Lessons from Silicon Valley Bank (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2023-04-17_Lessons from Silicon Valley Bank.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2023-07-10_Taking the Temperature (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2023-07-10_Taking the Temperature.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2023-09-12_Fewer Losers, or More Winners (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2023-09-12_Fewer Losers, or More Winners.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2023-09-20_Behind the Memo - Fewer Losers, or More Winners.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2023-10-11_Further Thoughts on Sea Change (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2023-10-11_Further Thoughts on Sea Change.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-01-09_Easy Money (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-01-09_Easy Money.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-02-08_Behind the Memo - Easy Money with Howard Marks and Edward Chancellor.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-03-21_The Archive You Bet!.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-04-17_The Indispensability of Risk (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-04-17_The Indispensability of Risk.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-05-08_The Impact of Debt (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-05-08_The Impact of Debt.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-07-17_The Folly of Certainty (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-07-17_The Folly of Certainty.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-07-23_Behind the Memo - The Indispensability of Risk with Howard Marks, Bruce Karsh, and Maurice Ashley.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-08-22_Mr. Market Miscalculates (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-08-22_Mr. Market Miscalculates.md
+ delete mode 100644 "raw/obsidian-vault/References/Oaktree-Insights/2024-08-27_Behind the Memo \342\200\223 The Impact of Debt with Howard Marks and Morgan Housel.md"
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-09-19_Shall We Repeal the Laws of Economics (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-09-19_Shall We Repeal the Laws of Economics.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-10-22_Ruminating on Asset Allocation (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2024-10-22_Ruminating on Asset Allocation.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-01-07_On Bubble Watch (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-01-07_On Bubble Watch.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-02-27_Behind the Memo - On Bubble Watch.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-03-06_Gimme Credit (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-03-06_Gimme Credit.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-04-09_Nobody Knows (Yet Again) (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-04-09_Nobody Knows (Yet Again).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-06-18_More on Repealing the Laws of Economics (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-06-18_More on Repealing the Laws of Economics.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-08-14_The Calculus of Value (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-08-14_The Calculus of Value.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-10-12_35 Years of Memos.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-10-12_Celebrating 35 Years of Memos with Howard Marks.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-10-12_The Best of . . ..md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-10-28_A Look Under the Hood (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-10-28_A Look Under the Hood.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-11-06_Cockroaches in the Coal Mine (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-11-06_Cockroaches in the Coal Mine.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-12-09_Is It a Bubble (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2025-12-09_Is It a Bubble.md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2026-02-26_AI Hurtles Ahead (Audio).md
+ delete mode 100644 raw/obsidian-vault/References/Oaktree-Insights/2026-02-26_AI Hurtles Ahead.md
+ delete mode 100644 raw/obsidian-vault/References/Papers/2026-04-30-2303.11366-reflexion-language-agents-with-verbal-reinforcement-learning.md
+ delete mode 100644 raw/obsidian-vault/References/Papers/2026-04-30-2410.16237-ibgp-imperfect-byzantine-generals-problem-for-zero-shot-robu.md
+ delete mode 100644 raw/obsidian-vault/References/Papers/2026-04-30-2502.17967-agent-trading-arena-a-study-on-numerical-understanding-in-ll.md
+ delete mode 100644 raw/obsidian-vault/References/Papers/2026-04-30-2507.21017-mirage-bench-llm-agent-is-hallucinating-and-where-to-find-th.md
+ delete mode 100644 raw/obsidian-vault/References/Papers/2026-04-30-2508.00554-contesttrade-a-multi-agent-trading-system-based-on-internal.md
+ delete mode 100644 raw/obsidian-vault/References/Papers/2026-04-30-2508.09815-extending-the-owasp-multi-agentic-system-threat-modeling-gui.md
+ delete mode 100644 raw/obsidian-vault/References/Papers/2026-04-30-2508.17565-tradinggroup-a-multi-agent-trading-system-with-self-reflecti.md
+ delete mode 100644 raw/obsidian-vault/References/Papers/2026-04-30-2509.18970-llm-based-agents-suffer-from-hallucinations-a-survey-of-taxo.md
+ delete mode 100644 raw/obsidian-vault/References/Papers/2026-04-30-2510.21147-hierarchical-ai-multi-agent-fundamental-investing-evidence-f.md
+ delete mode 100644 raw/obsidian-vault/References/Papers/2026-04-30-2512.11933-the-agentic-regulator-risks-for-ai-in-finance-and-a-proposed.md
+ delete mode 100644 raw/obsidian-vault/References/Papers/2026-04-30-2603.02615-think-but-dont-overthink-reproducing-recursive-language-mode.md
+ delete mode 100644 raw/obsidian-vault/References/Papers/2026-04-30-2603.15653-recursive-language-models-meet-uncertainty-the-surprising-ef.md
+ delete mode 100644 raw/obsidian-vault/References/Reports/codex-ytower-reframe-eval-2026-04-30.md
+ delete mode 100644 raw/obsidian-vault/References/Reports/dalio-insight-2026-04-30.md
+ delete mode 100644 raw/obsidian-vault/References/Reports/news-asset-matrix-2026-04-30.md
+ delete mode 100644 raw/obsidian-vault/References/Reports/news-asset-matrix-2026-05-01.md
+ delete mode 100644 raw/obsidian-vault/References/Reports/predictions-2026-04-30.md
+ delete mode 100644 raw/obsidian-vault/References/Security/README.md
+ delete mode 100644 raw/obsidian-vault/References/Security/andrew-asset-inventory.md
+ delete mode 100644 raw/obsidian-vault/References/Security/attack-categories.md
+ delete mode 100644 raw/obsidian-vault/References/Security/audit-log.md
+ delete mode 100644 raw/obsidian-vault/References/Startup/2026-03-31-YC-W26-Trends.md
+ delete mode 100644 raw/obsidian-vault/References/Strategy/Eastern-Western-Strategy-Books.md
+ delete mode 100644 raw/obsidian-vault/References/UI-Design/Component-Gallery-Cheatsheet.md
+ delete mode 100644 raw/obsidian-vault/References/World-Models/GVP-WM.md
+ delete mode 100644 raw/obsidian-vault/SIMULATOR-DESIGN.md
+ delete mode 100644 raw/obsidian-vault/Style Guide.md
+ delete mode 100644 raw/obsidian-vault/Templates/Clipping.md
+ delete mode 100644 raw/obsidian-vault/Templates/Daily.md
+ delete mode 100644 raw/obsidian-vault/Templates/Project.md
+ delete mode 100644 raw/obsidian-vault/Templates/Reference.md
+ delete mode 100644 raw/obsidian-vault/Trading/2026-Q1-Trading-Summary.md
+ delete mode 100644 "raw/obsidian-vault/Trading/V21_\352\261\260\353\236\230\353\241\234\354\247\201.md"
+ delete mode 100644 raw/obsidian-vault/Trading/smart-money-concepts-library.md
+ delete mode 100644 raw/obsidian-vault/Trading/versions/README.md
+ delete mode 100644 raw/obsidian-vault/Trading/versions/V21_breakdown.md
+ delete mode 100644 raw/obsidian-vault/Trading/versions/V22_breakdown.md
+ delete mode 100644 raw/obsidian-vault/Trading/versions/V23_breakdown.md
+ delete mode 100644 raw/obsidian-vault/Trading/versions/V24_breakdown.md
+ delete mode 100644 "raw/obsidian-vault/Trading/\352\261\260\353\236\230\353\241\234\354\247\201_\354\203\201\354\204\270.md"
+ delete mode 100644 "raw/obsidian-vault/Trading/\353\213\244\354\242\205\353\252\251\355\231\225\354\236\245_\353\246\254\354\204\234\354\271\230.md"
+ delete mode 100644 "raw/obsidian-vault/Trading/\353\263\200\352\262\275\354\235\264\353\240\245.md"
+ delete mode 100644 "raw/obsidian-vault/Trading/\353\266\204\354\204\235\353\246\254\355\217\254\355\212\270/2026-02-14.md"
+ delete mode 100644 "raw/obsidian-vault/Trading/\353\266\204\354\204\235\353\246\254\355\217\254\355\212\270/2026-02-15.md"
+ delete mode 100644 "raw/obsidian-vault/Trading/\353\266\204\354\204\235\353\246\254\355\217\254\355\212\270/2026-02-15_review.md"
+ delete mode 100644 "raw/obsidian-vault/Trading/\353\266\204\354\204\235\353\246\254\355\217\254\355\212\270/2026-03-19_SL\353\257\270\354\236\221\353\217\231\353\266\204\354\204\235.md"
+ delete mode 100644 "raw/obsidian-vault/Trading/\353\266\204\354\204\235\353\246\254\355\217\254\355\212\270/2026-03-19_\354\247\204\354\236\205\355\225\204\355\204\260_\354\213\234\353\256\254\353\240\210\354\235\264\354\205\230.md"
+ delete mode 100644 "raw/obsidian-vault/Trading/\353\266\204\354\204\235\353\246\254\355\217\254\355\212\270/2026-03-23_WorldModel_\353\266\204\354\204\235.md"
+ delete mode 100644 "raw/obsidian-vault/Trading/\353\266\204\354\204\235\353\246\254\355\217\254\355\212\270/2026-03-23_autoresearch_BB\355\217\255\355\225\204\355\204\260.md"
+ delete mode 100644 "raw/obsidian-vault/Trading/\353\266\204\354\204\235\353\246\254\355\217\254\355\212\270/2026-03-25_V22_JEPA\353\263\200\355\231\230_\353\271\204\352\265\220.md"
+ delete mode 100644 "raw/obsidian-vault/Trading/\353\266\204\354\204\235\353\246\254\355\217\254\355\212\270/2026-04-20_V23_AB_Short_Comparison.md"
+ delete mode 100644 "raw/obsidian-vault/Trading/\354\243\274\352\260\204\353\246\254\353\267\260/2026-W15.md"
+ delete mode 100644 "raw/obsidian-vault/Trading/\354\243\274\352\260\204\353\246\254\353\267\260/2026-W16.md"
+ delete mode 100644 "raw/obsidian-vault/Trading/\355\230\204\354\236\254\355\214\214\353\235\274\353\257\270\355\204\260.md"
+ delete mode 100644 raw/obsidian-vault/inbox/2026-03-05-po-shen-loh-ai-era.md
+To github.com:antryu/personal-wiki.git
+   14c7364..f6c6270  main -> main
+[Sun May  3 06:38:13 KST 2026] Obsidian synced (papers=0 tools=0)

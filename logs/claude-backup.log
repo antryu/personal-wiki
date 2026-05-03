@@ -466,3 +466,44 @@ The following paths are ignored by one of your .gitignore files:
 raw/claude-code
 hint: Use -f if you really want to add them.
 hint: Disable this message with "git config set advice.addIgnoredFile false"
+[Mon May  4 00:30:00 KST 2026] Backing up Claude Code sessions...
+  ✅ -/0d820c05-711b-4a69-871a-14444bfb61d5.jsonl
+  ✅ -/da29fefd-0d9d-4c91-80d5-2bbec1ab00df.jsonl
+  ✅ -Users-andrew-PRJs-GovRFP/513462c8-c135-43ed-93cc-abe318422dae.jsonl
+  ✅ -Users-andrew-y-tower-test/101aa942-c1ba-4090-9500-4fddaad89439.jsonl
+  ✅ subagents/agent-a689d3785cb114705.jsonl
+  ✅ subagents/agent-aa0777cc4e0684654.jsonl
+  ✅ subagents/agent-a89df38cd297fbff1.jsonl
+  ✅ subagents/agent-a5d9b92df3f579242.jsonl
+  ✅ subagents/agent-a43e6af1d699b10a2.jsonl
+  ✅ subagents/agent-a074bc844f84b81a3.jsonl
+  ✅ subagents/agent-a620ee1e62347549e.jsonl
+  ✅ subagents/agent-a329cfa07d51c5560.jsonl
+  ✅ subagents/agent-a8718742c3e0c8b4a.jsonl
+  ✅ subagents/agent-a553f38cb69901d61.jsonl
+  ✅ subagents/agent-a83fd756b0499ba09.jsonl
+  ✅ subagents/agent-aa3617c4ea06d7a65.jsonl
+  ✅ subagents/agent-ab9b9975b723076eb.jsonl
+  ✅ subagents/agent-a8870dbd3e7e9224a.jsonl
+  ✅ subagents/agent-aa493bc211e91f1ba.jsonl
+  ✅ subagents/agent-abb0fcd91fb594c05.jsonl
+  ✅ subagents/agent-acbc86f4447267d4e.jsonl
+  ✅ subagents/agent-a8713060e4905586a.jsonl
+  ✅ subagents/agent-a7bd6d5b42e7fbcfc.jsonl
+  ✅ subagents/agent-ad5a51dd6342e13d8.jsonl
+  ✅ subagents/agent-a294b4fe16c57a669.jsonl
+  ✅ subagents/agent-a7a1a632f071365c8.jsonl
+  ✅ subagents/agent-a55b7974f344fb7c3.jsonl
+  ✅ subagents/agent-a0be9f725abcb47be.jsonl
+  ✅ subagents/agent-a35fb12b0e6e1a4b9.jsonl
+  ✅ subagents/agent-a150cbfa05009e79c.jsonl
+  ✅ subagents/agent-a8ab04a98af183c58.jsonl
+  ✅ subagents/agent-a06f795bfe02fbe40.jsonl
+  ✅ subagents/agent-aaf3c6b433df29c86.jsonl
+  ✅ subagents/agent-aff46c9018163338b.jsonl
+  ✅ -Users-andrew-PRJs/2bed58cd-f6a9-457c-9841-3e685aa3ba5a.jsonl
+  ✅ -Users-andrew-y-company-oss/1bb1019e-4df0-4ad2-8e35-f44cfba92b40.jsonl
+The following paths are ignored by one of your .gitignore files:
+raw/claude-code
+hint: Use -f if you really want to add them.
+hint: Disable this message with "git config set advice.addIgnoredFile false"
