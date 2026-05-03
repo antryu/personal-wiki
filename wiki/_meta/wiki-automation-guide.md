@@ -17,7 +17,10 @@ audience: 중·고등학생도 이해할 수 있는 수준
   📝 Obsidian 에 메모
   💬 텔레그램 / 디스코드 봇에 사진·메시지
   💭 Claude AI 와 대화
-  ⭐ GitHub 트렌딩 자료
+
+자동으로 모이는 자료 (cron):
+  ⭐ GitHub 트렌딩 자료 (매일 07:00)
+  📚 arXiv 논문 + AI 도구 (M1 매일 06:00)
 
       │
       │ 새벽에 자동으로...
@@ -109,12 +112,16 @@ M1 = *백업 보장* (의장 컴 슬립 시에도 백업)
 ## 자료가 어디서 오는가
 
 ```
-의장 → 4 가지 input source:
+의장 → 5 가지 input source:
 
-1. Obsidian 메모     (~/Documents/Obsidian Vault/)
-2. 텔레그램·디스코드   (봇이 받음)
-3. Claude Code      (Andrew AI 대화)
-4. GitHub 트렌딩      (자동 크롤)
+1. Obsidian 메모        (~/Documents/Obsidian Vault/)
+2. 텔레그램·디스코드      (봇이 받음, 24/7)
+3. Claude Code          (Andrew AI 대화 자동 백업)
+4. GitHub 트렌딩         (매일 07:00 자동 크롤, 인기 repo 30개)
+5. arXiv 논문 + AI 도구  (M1 research_archive 매일 06:00)
+                        → 의장 관심 keyword 기반
+                        → AI (qwen3:32b) 관련도 채점
+                        → Obsidian References/Papers + References/AI-Tools 에 markdown 자동 저장
 ```
 
 ## 자료가 어디로 가는가
