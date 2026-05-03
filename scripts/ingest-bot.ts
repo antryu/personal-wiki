@@ -153,9 +153,22 @@ async function ocrImage(imageBuffer: Buffer): Promise<string> {
     console.warn(`[OCR] ${OCR_VISION_MODEL} error: ${e}, falling back to text-only mode`);
   }
 
-  // Fallback: vision unavailable — return placeholder so downstream classify still works
-  console.warn("[OCR] 비전 모델 사용 불가 — 텍스트 추출 건너뜀");
-  return "";
+  // Fallback: Tesseract OCR (Korean + English)
+  console.warn("[OCR] 비전 모델 사용 불가 — Tesseract 폴백 시도");
+  try {
+    const tmpImg = `/tmp/ingest-ocr-${Date.now()}.jpg`;
+    writeFileSync(tmpImg, imageBuffer);
+    const result = execSync(
+      `/opt/homebrew/bin/tesseract ${tmpImg} stdout -l kor+eng --psm 3 2>/dev/null`,
+      { timeout: 30000 }
+    ).toString().trim();
+    try { require("fs").unlinkSync(tmpImg); } catch {}
+    console.log(`[OCR] Tesseract fallback: ${result.length} chars`);
+    return result;
+  } catch (e) {
+    console.error(`[OCR] Tesseract fallback also failed: ${e}`);
+    return "";
+  }
 }
 
 // ==================== Classify ====================
