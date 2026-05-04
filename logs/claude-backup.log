@@ -507,3 +507,24 @@ The following paths are ignored by one of your .gitignore files:
 raw/claude-code
 hint: Use -f if you really want to add them.
 hint: Disable this message with "git config set advice.addIgnoredFile false"
+[Tue May  5 00:30:00 KST 2026] Backing up Claude Code sessions...
+  ✅ -Users-andrew-PRJs-Guda/b62ee991-154f-43ac-a078-f3a75371354b.jsonl
+  ✅ -/a7668658-b25c-44d1-b9fe-20d8142b9d6c.jsonl
+  ✅ -Users-andrew-y-tower-test/101aa942-c1ba-4090-9500-4fddaad89439.jsonl
+  ✅ subagents/agent-ae839ac5c9baa35df.jsonl
+  ✅ subagents/agent-a646095cc9c6a8497.jsonl
+  ✅ subagents/agent-a6532d65aab01cfd1.jsonl
+  ✅ subagents/agent-a57817bf504188341.jsonl
+  ✅ subagents/agent-a9c2f159258804557.jsonl
+  ✅ subagents/agent-a7efa256318424a13.jsonl
+  ✅ subagents/agent-a97c8e22180438958.jsonl
+  ✅ subagents/agent-aecc97180bf74071e.jsonl
+  ✅ subagents/agent-aa65a6d14cc246276.jsonl
+  ✅ subagents/agent-a476177c2ee09551a.jsonl
+  ✅ subagents/agent-abac7469cd58eb753.jsonl
+  ✅ -Users-andrew-PRJs/2bed58cd-f6a9-457c-9841-3e685aa3ba5a.jsonl
+  ✅ subagents/agent-ad1ba0fc3ce435587.jsonl
+The following paths are ignored by one of your .gitignore files:
+raw/claude-code
+hint: Use -f if you really want to add them.
+hint: Disable this message with "git config set advice.addIgnoredFile false"

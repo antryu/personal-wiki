@@ -536,3 +536,18 @@ total size is 21934  speedup is 0.97
 To github.com:antryu/personal-wiki.git
    14c7364..f6c6270  main -> main
 [Sun May  3 06:38:13 KST 2026] Obsidian synced (papers=0 tools=0)
+Trading/\#354\#243\#274\#352\#260\#204\#353\#246\#254\#353\#267\#260/
+Trading/\#354\#243\#274\#352\#260\#204\#353\#246\#254\#353\#267\#260/2026-W17.md
+
+sent 186507 bytes  received 224 bytes  30611639 bytes/sec
+total size is 184869  speedup is 0.99
+[main 85605c0] auto: obsidian vault sync 2026-05-04 (papers=0 tools=0)
+ 6 files changed, 2791 insertions(+)
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-05-04.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/y-Tower/gemma-vision-ocr-2026-05-03.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-05-02-snapshot.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-05-02-stage-summary.md
+ create mode 100644 "raw/obsidian-vault/Trading/\354\243\274\352\260\204\353\246\254\353\267\260/2026-W17.md"
+To github.com:antryu/personal-wiki.git
+   573bfbb..85605c0  main -> main
+[Mon May  4 06:39:24 KST 2026] Obsidian synced (papers=0 tools=0)
