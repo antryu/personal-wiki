@@ -2022,3 +2022,66 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-03] lint | automated
 - Broken links: 18, Orphans: 452, Oversized: 8, Placeholders: 76, Total: 532
+
+## [2026-05-04] trending | DeepSeek Terminal Coding Agent
+- Source: GitHub Trending (Rust), ⭐ 3,822, Category: tech
+
+## [2026-05-04] trending | qBittorrent BitTorrent Client
+- Source: GitHub Trending (C++), ⭐ 37,022, Category: tech
+
+## [2026-05-04] trending | Dexter: Autonomous Financial Research Agent
+- Source: GitHub Trending (TypeScript), ⭐ 23,131, Category: finance
+
+## [2026-05-04] trending | Jellyfin Media System Backend
+- Source: GitHub Trending (C#), ⭐ 51,129, Category: tech
+
+## [2026-05-04] trending | Open Source DocuSeal
+- Source: GitHub Trending (Ruby), ⭐ 13,175, Category: tech
+
+## [2026-05-04] trending | Rapid-MLX: Fast Local AI Engine for Apple Silicon
+- Source: GitHub Trending (Python), ⭐ 1,049, Category: tech
+
+## [2026-05-04] trending | Ouroboros: Agent OS for Specification-First AI Coding
+- Source: GitHub Trending (Python), ⭐ 3,255, Category: tech
+
+## [2026-05-04] trending | PraisonAI: AI Agent Framework
+- Source: GitHub Trending (Python), ⭐ 7,045, Category: tech
+
+## [2026-05-04] trending | AG2 Agent Framework for AI Development
+- Source: GitHub Trending (Python), ⭐ 4,501, Category: tech
+
+## [2026-05-04] trending | Open-source Meeting Transcription API
+- Source: GitHub Trending (TypeScript), ⭐ 1,975, Category: tech
+
+## [2026-05-04] trending | Skills Manager for AI Coding Tools
+- Source: GitHub Trending (Rust), ⭐ 1,074, Category: tech
+
+## [2026-05-04] trending | Bevy Game Engine
+- Source: GitHub Trending (Rust), ⭐ 45,902, Category: projects
+
+## [2026-05-04] trending | Rustlings: Rust Exercises for Beginners
+- Source: GitHub Trending (Rust), ⭐ 62,699, Category: projects
+
+## [2026-05-04] trending | Rust-based POSIX-compatible Shell
+- Source: GitHub Trending (Rust), ⭐ 1,639, Category: tech
+
+## [2026-05-04] trending | CNCF Jaeger: Distributed Tracing Platform
+- Source: GitHub Trending (Go), ⭐ 22,756, Category: tech
+
+## [2026-05-04] trending | Kopia: Cross-Platform Backup Tool
+- Source: GitHub Trending (Go), ⭐ 13,146, Category: tech
+
+## [2026-05-04] trending | Incus - System Container and VM Manager
+- Source: GitHub Trending (Go), ⭐ 5,304, Category: tech
+
+## [2026-05-04] trending | Matcha: Terminal Email Client
+- Source: GitHub Trending (Go), ⭐ 538, Category: tech
+
+## [2026-05-04] trending | Telegram iOS Source Code
+- Source: GitHub Trending (Swift), ⭐ 8,481, Category: tech
+
+## [2026-05-04] trending | Kaset: Native macOS YouTube Music App
+- Source: GitHub Trending (Swift), ⭐ 1,027, Category: tech
+
+## [2026-05-04] trending | Home Assistant for Apple Platforms
+- Source: GitHub Trending (Swift), ⭐ 2,181, Category: tech
