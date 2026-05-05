@@ -2085,3 +2085,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-04] trending | Home Assistant for Apple Platforms
 - Source: GitHub Trending (Swift), ⭐ 2,181, Category: tech
+
+## [2026-05-05] lint | automated
+- Broken links: 18, Orphans: 473, Oversized: 8, Placeholders: 76, Total: 554
