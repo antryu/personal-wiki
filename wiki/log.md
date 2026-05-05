@@ -2088,3 +2088,60 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-05] lint | automated
 - Broken links: 18, Orphans: 473, Oversized: 8, Placeholders: 76, Total: 554
+
+## [2026-05-05] trending | Coding Interview University
+- Source: GitHub Trending (all), ⭐ 345,743, Category: tech
+
+## [2026-05-05] trending | TabPFN: Foundation Model for Tabular Data
+- Source: GitHub Trending (Python), ⭐ 6,343, Category: tech
+
+## [2026-05-05] trending | CCXT Cryptocurrency Trading Library
+- Source: GitHub Trending (Python), ⭐ 42,270, Category: tech
+
+## [2026-05-05] trending | Free LLM API Resources
+- Source: GitHub Trending (Python), ⭐ 20,119, Category: tech
+
+## [2026-05-05] trending | CloakBrowser: Stealth Chromium for Bot Detection Evasion
+- Source: GitHub Trending (Python), ⭐ 1,605, Category: tech
+
+## [2026-05-05] trending | BunkerWeb - Open-source Web Application Firewall
+- Source: GitHub Trending (Python), ⭐ 10,431, Category: tech
+
+## [2026-05-05] trending | Capacitor: Cross-Platform App Development Framework
+- Source: GitHub Trending (TypeScript), ⭐ 15,591, Category: tech
+
+## [2026-05-05] trending | OpenUI - Open Standard for Generative UI
+- Source: GitHub Trending (TypeScript), ⭐ 4,281, Category: tech
+
+## [2026-05-05] trending | AI Command Line Interface for Generating Media
+- Source: GitHub Trending (TypeScript), ⭐ 346, Category: tech
+
+## [2026-05-05] trending | Candle: Minimalist ML Framework for Rust
+- Source: GitHub Trending (Rust), ⭐ 20,179, Category: tech
+
+## [2026-05-05] trending | Zola Static Site Generator
+- Source: GitHub Trending (Rust), ⭐ 17,009, Category: tech
+
+## [2026-05-05] trending | TensorZero: Open-Source LLMOps Platform
+- Source: GitHub Trending (Rust), ⭐ 11,318, Category: tech
+
+## [2026-05-05] trending | Warpgate: Transparent Bastion Proxy
+- Source: GitHub Trending (Rust), ⭐ 6,929, Category: infra
+
+## [2026-05-05] trending | Gentle-AI Ecosystem for AI Coding Agents
+- Source: GitHub Trending (Go), ⭐ 2,644, Category: tech
+
+## [2026-05-05] trending | Gotenberg: Document to PDF Conversion API
+- Source: GitHub Trending (Go), ⭐ 11,960, Category: tech
+
+## [2026-05-05] trending | Go Ethereum Implementation
+- Source: GitHub Trending (Go), ⭐ 51,018, Category: tech
+
+## [2026-05-05] trending | AWS SDK for Go v2
+- Source: GitHub Trending (Go), ⭐ 3,541, Category: tech
+
+## [2026-05-05] trending | Google Cloud Go Client Libraries
+- Source: GitHub Trending (Go), ⭐ 4,447, Category: tech
+
+## [2026-05-05] trending | SnapKit - Swift Auto Layout DSL
+- Source: GitHub Trending (Swift), ⭐ 20,335, Category: tech

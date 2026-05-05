@@ -1,0 +1,97 @@
+<!-- GitHub Trending: Go | 2,644 stars | +30 today -->
+
+# Gentleman-Programming/gentle-ai
+
+> No description
+
+## Repository Info
+- **URL**: https://github.com/Gentleman-Programming/gentle-ai
+- **Stars**: 2,645
+- **Forks**: 328
+- **Language**: Go
+- **License**: MIT License
+- **Created**: 2026-02-27
+- **Updated**: 2026-05-05
+- **Topics**: N/A
+- **Open Issues**: 154
+
+## README (excerpt)
+<div align="center">
+
+<img width="3276" height="1280" alt="Gentle-AI neon rose banner" src="docs/assets/brand/gentle-ai-banner.png" />
+
+<h1>Gentle-AI</h1>
+
+<p><strong>Gentle-AI — Ecosystem, Frameworks, Workflows for AI coding agents.</strong></p>
+
+<p>
+<a href="https://github.com/Gentleman-Programming/gentle-ai/releases"><img src="https://img.shields.io/github/v/release/Gentleman-Programming/gentle-ai" alt="Release"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+<img src="https://img.shields.io/badge/Go-1.24+-00ADD8?logo=go&logoColor=white" alt="Go 1.24+">
+<img src="https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey" alt="Platform">
+</p>
+
+</div>
+
+---
+
+## What It Does
+
+Gentle-AI is NOT an AI agent installer. Most agents are easy to install. It is an **ecosystem configurator** -- it takes whatever AI coding agent(s) you use and supercharges them with persistent memory, Spec-Driven Development workflows, curated coding skills, MCP servers, an AI provider switcher, a teaching-oriented persona with security-first permissions, and per-phase model assignment so each SDD step can run on a different model.
+
+**Before**: "I installed Claude Code / OpenCode / Cursor, but it's just a chatbot that writes code."
+
+**After**: Your agent now has memory, skills, workflow, MCP tools, and a persona that actually teaches you.
+
+### 12 Supported Agents
+
+| Agent | Delegation Model | Key Feature |
+|-------|:---:|---|
+| **Claude Code** | Full (Task tool) | Sub-agents, output styles |
+| **OpenCode** | Full (multi-mode overlay) | Per-phase model routing |
+| **Kilo Code** | Full (multi-mode overlay) | OpenCode-compatible config in `~/.config/kilo` |
+| **Gemini CLI** | Full (experimental) | Custom agents in `~/.gemini/agents/` |
+| **Cursor** | Full (native subagents) | 10 SDD agents in `~/.cursor/agents/` |
+| **VS Code Copilot** | Full (runSubagent) | Parallel execution |
+| **Codex** | Solo-agent | CLI-native, TOML config |
+| **Windsurf** | Solo-agent | Plan Mode, Code Mode, native workflows |
+| **Antigravity** | Solo-agent + Mission Control | Built-in Browser/Terminal sub-agents |
+| **Kimi Code** | Full (native custom agents) | Modular prompt templates in `~/.kimi` |
+| **Kiro IDE** | Full (native subagents) | Native `~/.kiro/agents/` + steering orchestration |
+| **Qwen Code** | Full (native sub-agents) | Slash commands, `~/.qwen/commands/`, `auto_edit` mode |
+
+> **Note**: This project supersedes [Agent Teams Lite](https://github.com/Gentleman-Programming/agent-teams-lite) (now archived). Everything ATL provided is included here with better installation, automatic updates, and persistent memory.
+
+---
+
+## Quick Start
+
+### macOS / Linux
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/scripts/install.sh | bash
+```
+
+### Windows
+
+```powershell
+scoop bucket add gentleman https://github.com/Gentleman-Programming/scoop-bucket
+scoop install gentle-ai
+```
+
+Or via PowerShell script: `irm https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/scripts/install.ps1 | iex`
+
+### After install: project-level setup
+
+Once your agents are configured, open your AI agent in a project and run these two commands to register the project context:
+
+| Command | What it does | When to re-run |
+|---------|-------------|----------------|
+| `/sdd-init` | Detects stack, testing capabilities, activates Strict TDD Mode if available | When your project adds/removes test frameworks, or first time in a new project |
+| `skill-registry` | Scans installed skills and project conventions, builds the registry | After installing/removing skills, or first time in a new project |
+
+These are **not required** for basic usage. The SDD orchestrator runs `/sdd-init` automatically if it detects no context. But if something changed in your project (new test runner, new dependencies), re-running them manually ensures the agents have up-to-date context.
+
+---
+
+## I
