@@ -2145,3 +2145,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-05] trending | SnapKit - Swift Auto Layout DSL
 - Source: GitHub Trending (Swift), ⭐ 20,335, Category: tech
+
+## [2026-05-06] lint | automated
+- Broken links: 18, Orphans: 492, Oversized: 8, Placeholders: 76, Total: 573
