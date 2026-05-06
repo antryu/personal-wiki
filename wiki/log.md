@@ -2148,3 +2148,45 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-06] lint | automated
 - Broken links: 18, Orphans: 492, Oversized: 8, Placeholders: 76, Total: 573
+
+## [2026-05-06] trending | Agent Skills for AI Coding
+- Source: GitHub Trending (Shell), ⭐ 30,270, Category: tech
+
+## [2026-05-06] trending | Ladybird Browser
+- Source: GitHub Trending (C++), ⭐ 62,954, Category: tech
+
+## [2026-05-06] trending | Claude Financial Services Tools
+- Source: GitHub Trending (Python), ⭐ 9,015, Category: finance
+
+## [2026-05-06] trending | PyTorch: Python-based Deep Learning Framework
+- Source: GitHub Trending (Python), ⭐ 99,693, Category: tech
+
+## [2026-05-06] trending | Pocket TTS: Lightweight CPU-Friendly Text-to-Speech
+- Source: GitHub Trending (Python), ⭐ 4,224, Category: tech
+
+## [2026-05-06] trending | NestJS Framework
+- Source: GitHub Trending (TypeScript), ⭐ 75,405, Category: tech
+
+## [2026-05-06] trending | Payload: Open-source Fullstack Next.js Framework
+- Source: GitHub Trending (TypeScript), ⭐ 42,224, Category: tech
+
+## [2026-05-06] trending | MCP Reference Servers
+- Source: GitHub Trending (TypeScript), ⭐ 85,153, Category: tech
+
+## [2026-05-06] trending | TypeScript Language Repository
+- Source: GitHub Trending (TypeScript), ⭐ 108,766, Category: tech
+
+## [2026-05-06] trending | Google Workspace CLI Tool
+- Source: GitHub Trending (Rust), ⭐ 25,837, Category: tech
+
+## [2026-05-06] trending | Turso Database
+- Source: GitHub Trending (Rust), ⭐ 18,595, Category: tech
+
+## [2026-05-06] trending | RuVector: Self-Learning Vector AI System
+- Source: GitHub Trending (Rust), ⭐ 3,970, Category: tech
+
+## [2026-05-06] trending | xiaohongshu-mcp
+- Source: GitHub Trending (Go), ⭐ 13,314, Category: tech
+
+## [2026-05-06] trending | gVisor: Application Kernel for Containers
+- Source: GitHub Trending (Go), ⭐ 18,251, Category: tech
