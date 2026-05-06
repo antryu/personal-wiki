@@ -539,3 +539,92 @@ The following paths are ignored by one of your .gitignore files:
 raw/claude-code
 hint: Use -f if you really want to add them.
 hint: Disable this message with "git config set advice.addIgnoredFile false"
+[Thu May  7 00:30:00 KST 2026] Backing up Claude Code sessions...
+  ✅ -/af0b6604-4ca0-4d2c-8c45-69bc6b5ad922.jsonl
+  ✅ -private-tmp-xlsm-inspect/9041ad76-1d9f-45f8-a9a2-4b0dc4374586.jsonl
+  ✅ -Users-andrew-y-tower-test/101aa942-c1ba-4090-9500-4fddaad89439.jsonl
+  ✅ subagents/agent-a8d56fc9cbf557d5b.jsonl
+  ✅ subagents/agent-a8ff0a278ad8cdaaf.jsonl
+  ✅ subagents/agent-ad494f64b3052c58a.jsonl
+  ✅ subagents/agent-a341713cab4720a9a.jsonl
+  ✅ subagents/agent-a99f7175f7f018763.jsonl
+  ✅ subagents/agent-ad60508301c77392f.jsonl
+  ✅ subagents/agent-a3f885ecd1fb49dfd.jsonl
+  ✅ subagents/agent-af2218c1ccdcfee2c.jsonl
+  ✅ subagents/agent-acc86aede15cc488b.jsonl
+  ✅ subagents/agent-ae37d2809df7bc8db.jsonl
+  ✅ subagents/agent-ac47406b7b5a8013d.jsonl
+  ✅ subagents/agent-a1dfb44a193a03ca5.jsonl
+  ✅ subagents/agent-a1a5c1a553b244f53.jsonl
+  ✅ subagents/agent-a4bd5cb72aa5550d9.jsonl
+  ✅ subagents/agent-aa37329c5ea9ed553.jsonl
+  ✅ subagents/agent-a8c92143a22ec5c2a.jsonl
+  ✅ subagents/agent-a6c01bcec100e94d8.jsonl
+  ✅ subagents/agent-aa7a4eb303db1006f.jsonl
+  ✅ subagents/agent-a4eadbfaca5c66a6b.jsonl
+  ✅ subagents/agent-a2f1d869f160fdcf8.jsonl
+  ✅ subagents/agent-a9c9039a573562a0a.jsonl
+  ✅ subagents/agent-aa6d02725e0651407.jsonl
+  ✅ subagents/agent-a03c984423837af03.jsonl
+  ✅ subagents/agent-a260b97c5a507addb.jsonl
+  ✅ subagents/agent-a50aba9f9c4320848.jsonl
+  ✅ subagents/agent-a0598579b24b2b455.jsonl
+  ✅ subagents/agent-aa56ca0c4eee46875.jsonl
+  ✅ subagents/agent-a504e0e1fa4888ff7.jsonl
+  ✅ subagents/agent-a0d8a0811056cdadb.jsonl
+  ✅ subagents/agent-a3c882ff7eef00eb8.jsonl
+  ✅ subagents/agent-aad457be943f7e38b.jsonl
+  ✅ subagents/agent-a221fce0687815d5f.jsonl
+  ✅ subagents/agent-a197bc75afbb24cff.jsonl
+  ✅ -Users-andrew-PRJs/2bed58cd-f6a9-457c-9841-3e685aa3ba5a.jsonl
+  ✅ -Users-andrew-y-company-oss/e5b34d32-7b41-4365-8675-8a432e1f5783.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/f86ab95c-0f8c-4929-88e8-ff6b1637d54c.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/d0ea9802-3fdd-4da3-8e29-7af1a979a6da.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/5fc93c30-dcf5-4ec7-900e-0ac6fe2b2873.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/97edbed0-b61c-4fa9-834d-00b7966f2bd6.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/bc9ba60e-3520-4522-a2a1-1bd7c086518c.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/c38bb72f-2784-4e0f-a7b3-0be01b771cd3.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/92e194f7-d894-472f-a213-8029f2d548c2.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/b5508457-7b94-4e1c-96ab-802ce5b9c2db.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/10466172-d2f9-424a-83d2-c84ffdd3db10.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/688b1683-21df-4a40-a378-f4cccedf601a.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/ec0c0fd3-e899-4150-a451-a63222013e8b.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/5dc3634d-a555-4a37-bcd1-4f07cc2c0f58.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/5540b685-21c6-4152-b417-63a8fdccef26.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/122b7b9a-c182-4261-8cac-da7043ebde8e.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/7875c27f-c2d4-4d1e-a7f7-9554ea07c240.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/1a26502d-3976-4a9d-94fa-43e4825888b5.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/ce9852af-7a87-4b89-a6b8-81bf282b2c6d.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/33029081-bd72-43d4-9203-98cb12f607d3.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/91cfe428-9ab5-492f-a9a8-5c70cfeca54c.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/cd4b5d9a-b8ec-4067-856c-cb018e5b354d.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/703d6b88-1777-406f-b2bf-5aa4c246eb0f.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/07d324a0-5a52-4d38-9dca-d27164b00358.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/53ae70e8-4a37-44e9-9479-a29496acc883.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/2f61f058-a3e1-44bb-8c87-6e471e8ffdb3.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/40790922-3c64-4300-860a-fe724f81046f.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/e685f78b-e657-43d7-864f-d3c3b0f2b76d.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/6ef4bd9d-d8a6-4b7c-9c1b-2ac45da9a92e.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/ee8d81d5-1ee3-482c-b092-230ef0cab7a3.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/19cf9c3a-d4d1-4889-ad25-70936f2712fd.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/1ca7074b-fef5-4fe1-8448-64b20b7bf10d.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/7889e4bf-0c02-465b-81cc-fafabf924fab.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/fa8bcfe2-e850-4ab0-9c51-daf85e5f69cf.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/b47b2859-8a0c-4387-b14e-3b24bf191e79.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/059a7427-69f0-4ea9-9c33-59f0b3e286c9.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/431b29ad-d2e1-47b2-a306-6b01bc9d395a.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/8ea3fe6d-98e9-4345-b45f-4474939c7897.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/766a36ae-3832-42d4-a3fa-68f2e0b6359b.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/6caad62b-6373-421e-838a-37610627c834.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/cb3d629c-e7b4-4e63-bad7-62e394c6da33.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/20858148-b7d2-417f-83e5-40588c5a8e22.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/aad72cb1-6589-44c3-812c-b2778e26aca4.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/8f72d0f1-8b73-471a-b439-daa3ae5b0d34.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/2ddd5b4b-d1fd-4626-a18c-39882e8b74a0.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/a2a3808b-6d1c-43e7-818c-f9184483a89d.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/a9d3c864-3af2-42df-8fa0-b42ce24fe21e.jsonl
+  ✅ -Users-andrew-PRJs-kolaw/94cbe0a1-e95c-413c-bbc3-aa28594971e3.jsonl
+The following paths are ignored by one of your .gitignore files:
+raw/claude-code
+hint: Use -f if you really want to add them.
+hint: Disable this message with "git config set advice.addIgnoredFile false"

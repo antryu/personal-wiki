@@ -401,3 +401,16 @@ To github.com:antryu/personal-wiki.git
 [2026-05-06 01:00:05] === Compile done ===
 [2026-05-06 01:00:05] === Compile done ===
 ✅ Built /Users/andrew/PRJs/personal-wiki/index.html (61,707 bytes, 4 tabs)
+[2026-05-07 01:00:00] === Compile started (mode: --daily) ===
+[2026-05-07 01:00:00] === Compile started (mode: --daily) ===
+[2026-05-07 01:00:00] llama-server OK (qwen3:32b)
+[2026-05-07 01:00:00] llama-server OK (qwen3:32b)
+[main 1c205c7] auto: wiki compile 2026-05-07
+ 1 file changed, 3 insertions(+)
+To github.com:antryu/personal-wiki.git
+   4593ca9..1c205c7  main -> main
+[2026-05-07 01:00:04] Git pushed
+[2026-05-07 01:00:04] Git pushed
+[2026-05-07 01:00:04] === Compile done ===
+[2026-05-07 01:00:04] === Compile done ===
+✅ Built /Users/andrew/PRJs/personal-wiki/index.html (61,707 bytes, 4 tabs)

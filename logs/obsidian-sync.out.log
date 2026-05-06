@@ -564,3 +564,50 @@ total size is 473647  speedup is 1.57
 To github.com:antryu/personal-wiki.git
    51cd4bf..e26918a  main -> main
 [Tue May  5 06:30:09 KST 2026] Obsidian synced (papers=0 tools=0)
+References/Macro/Dalio/snapshots/2026-05-04-snapshot.md
+References/Macro/Dalio/snapshots/2026-05-04-stage-summary.md
+
+sent 424509 bytes  received 898 bytes  19249185 bytes/sec
+total size is 799566  speedup is 1.88
+[main 950a045] auto: obsidian vault sync 2026-05-06 (papers=0 tools=0)
+ 38 files changed, 7593 insertions(+)
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/README.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/cleanup-plan-2026-05-02.md
+ create mode 100644 "raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/personal-moat-\316\261-build-2026-05-02.md"
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/phase-b3-build-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/portfolio/2026-04-29-snapshot.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/portfolio/2026-05-01-snapshot.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/portfolio/2026-05-02-snapshot.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/portfolio/README.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/portfolio/_template-snapshot.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/quanty-pevkelly-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/quanty-visual-widget-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis-full-coverage-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/README.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/_template-thesis.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/agq-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/bitx-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/btc-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/coin-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/eth-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/ethu-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/ionq-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/kodex_kr_reits-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/kodex_leverage-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/nutrien-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/nvdx-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/oih-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/pharmsville-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/pltu-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/rgti-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/sil-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/tiger_reits-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/ugl-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/xle-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/thesis/xrp-2026-05-02.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-05-06.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-05-04-snapshot.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-05-04-stage-summary.md
+To github.com:antryu/personal-wiki.git
+   5704bc6..950a045  main -> main
+[Wed May  6 06:30:07 KST 2026] Obsidian synced (papers=0 tools=0)
