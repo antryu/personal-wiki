@@ -611,3 +611,16 @@ total size is 799566  speedup is 1.88
 To github.com:antryu/personal-wiki.git
    5704bc6..950a045  main -> main
 [Wed May  6 06:30:07 KST 2026] Obsidian synced (papers=0 tools=0)
+References/Macro/Dalio/snapshots/2026-05-05-snapshot.md
+References/Macro/Dalio/snapshots/2026-05-05-stage-summary.md
+
+sent 242666 bytes  received 120 bytes  16078543 bytes/sec
+total size is 1030167  speedup is 4.24
+[main fae1e42] auto: obsidian vault sync 2026-05-07 (papers=0 tools=0)
+ 4 files changed, 4408 insertions(+)
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-05-07.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-05-05-snapshot.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-05-05-stage-summary.md
+To github.com:antryu/personal-wiki.git
+   2805d81..fae1e42  main -> main
+[Thu May  7 06:30:08 KST 2026] Obsidian synced (papers=0 tools=0)
