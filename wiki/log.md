@@ -2193,3 +2193,60 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-07] lint | automated
 - Broken links: 18, Orphans: 506, Oversized: 8, Placeholders: 76, Total: 587
+
+## [2026-05-07] trending | 9Router - Free AI Router & Token Saver
+- Source: GitHub Trending (JavaScript), ⭐ 4,456, Category: tech
+
+## [2026-05-07] trending | OpenReel Video - Browser-Based Video Editor
+- Source: GitHub Trending (TypeScript), ⭐ 1,619, Category: tech
+
+## [2026-05-07] trending | FreeMoCap: Open-Source Motion Capture for Research
+- Source: GitHub Trending (Python), ⭐ 8,068, Category: research
+
+## [2026-05-07] trending | Open-LLM-VTuber
+- Source: GitHub Trending (Python), ⭐ 7,545, Category: tech
+
+## [2026-05-07] trending | Spec Kit - Toolkit for Spec-Driven Development
+- Source: GitHub Trending (Python), ⭐ 93,143, Category: tech
+
+## [2026-05-07] trending | OpenAI Plugins Repository
+- Source: GitHub Trending (Python), ⭐ 1,024, Category: tech
+
+## [2026-05-07] trending | AI-Driven Development Life Cycle Workflows
+- Source: GitHub Trending (Python), ⭐ 1,579, Category: tech
+
+## [2026-05-07] trending | WeClone: AI Digital Avatar from Chat History
+- Source: GitHub Trending (Python), ⭐ 17,822, Category: tech
+
+## [2026-05-07] trending | Dify - Agentic Workflow Platform
+- Source: GitHub Trending (TypeScript), ⭐ 140,503, Category: tech
+
+## [2026-05-07] trending | Learn Claude Code Agent Harness
+- Source: GitHub Trending (TypeScript), ⭐ 58,810, Category: tech
+
+## [2026-05-07] trending | FastGPT: AI Agent Platform for Knowledge-Based Systems
+- Source: GitHub Trending (TypeScript), ⭐ 27,928, Category: tech
+
+## [2026-05-07] trending | Apache Superset: Data Visualization Platform
+- Source: GitHub Trending (TypeScript), ⭐ 72,730, Category: tech
+
+## [2026-05-07] trending | MCP Apps Protocol
+- Source: GitHub Trending (TypeScript), ⭐ 2,202, Category: tech
+
+## [2026-05-07] trending | Wasmtime - A Lightweight WebAssembly Runtime
+- Source: GitHub Trending (Rust), ⭐ 17,966, Category: tech
+
+## [2026-05-07] trending | Antigravity Account Manager
+- Source: GitHub Trending (Rust), ⭐ 28,901, Category: tech
+
+## [2026-05-07] trending | Pup CLI: AI Agent Companion for Datadog
+- Source: GitHub Trending (Rust), ⭐ 748, Category: tech
+
+## [2026-05-07] trending | Solana Payment Layer for CLI Tools
+- Source: GitHub Trending (Rust), ⭐ 1,636, Category: tech
+
+## [2026-05-07] trending | PicoClaw: Ultra-Efficient AI Assistant in Go
+- Source: GitHub Trending (Go), ⭐ 28,842, Category: tech
+
+## [2026-05-07] trending | Cross-platform filesystem notifications in Go
+- Source: GitHub Trending (Go), ⭐ 10,656, Category: tech
