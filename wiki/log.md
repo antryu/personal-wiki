@@ -2190,3 +2190,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-06] trending | gVisor: Application Kernel for Containers
 - Source: GitHub Trending (Go), ⭐ 18,251, Category: tech
+
+## [2026-05-07] lint | automated
+- Broken links: 18, Orphans: 506, Oversized: 8, Placeholders: 76, Total: 587
