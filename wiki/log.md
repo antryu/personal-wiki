@@ -2250,3 +2250,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-07] trending | Cross-platform filesystem notifications in Go
 - Source: GitHub Trending (Go), ⭐ 10,656, Category: tech
+
+## [2026-05-08] lint | automated
+- Broken links: 18, Orphans: 525, Oversized: 8, Placeholders: 76, Total: 606
