@@ -2253,3 +2253,51 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-08] lint | automated
 - Broken links: 18, Orphans: 525, Oversized: 8, Placeholders: 76, Total: 606
+
+## [2026-05-08] trending | AI-Trader: Fully Automated Trading Platform
+- Source: GitHub Trending (Python), ⭐ 14,559, Category: finance
+
+## [2026-05-08] trending | Flutter Agent Skills
+- Source: GitHub Trending (Dart), ⭐ 1,639, Category: tech
+
+## [2026-05-08] trending | PaddleOCR: Advanced OCR & Document AI Toolkit
+- Source: GitHub Trending (Python), ⭐ 77,423, Category: tech
+
+## [2026-05-08] trending | Claude Code Plugins Directory
+- Source: GitHub Trending (Python), ⭐ 18,897, Category: tech
+
+## [2026-05-08] trending | Generative UI Framework for Dynamic UIs
+- Source: GitHub Trending (TypeScript), ⭐ 14,672, Category: tech
+
+## [2026-05-08] trending | CodeGraph: Pre-indexed Code Knowledge Graph for Claude Code
+- Source: GitHub Trending (TypeScript), ⭐ 1,088, Category: tech
+
+## [2026-05-08] trending | Pi Agent Harness Toolkit
+- Source: GitHub Trending (TypeScript), ⭐ 46,578, Category: tech
+
+## [2026-05-08] trending | CopilotKit: Frontend Stack for Agents & Generative UI
+- Source: GitHub Trending (TypeScript), ⭐ 31,100, Category: tech
+
+## [2026-05-08] trending | GitHub Copilot SDK for App Integration
+- Source: GitHub Trending (TypeScript), ⭐ 8,621, Category: tech
+
+## [2026-05-08] trending | UI-TARS-desktop: Multimodal AI Agent Stack
+- Source: GitHub Trending (TypeScript), ⭐ 30,833, Category: tech
+
+## [2026-05-08] trending | AndroidMic: Use Android as PC Microphone
+- Source: GitHub Trending (Rust), ⭐ 1,192, Category: tech
+
+## [2026-05-08] trending | Pixi - Rust-based Package Manager
+- Source: GitHub Trending (Rust), ⭐ 7,002, Category: tech
+
+## [2026-05-08] trending | Gin-Vue-Admin: AI-Powered Full-Stack Development Platform
+- Source: GitHub Trending (Go), ⭐ 24,660, Category: projects
+
+## [2026-05-08] trending | Cilium: eBPF-based Networking, Security, and Observability
+- Source: GitHub Trending (Go), ⭐ 24,305, Category: tech
+
+## [2026-05-08] trending | Telegraf - Metrics and Logs Agent
+- Source: GitHub Trending (Go), ⭐ 16,875, Category: tech
+
+## [2026-05-08] trending | Milvus Vector Database
+- Source: GitHub Trending (Go), ⭐ 44,185, Category: tech
