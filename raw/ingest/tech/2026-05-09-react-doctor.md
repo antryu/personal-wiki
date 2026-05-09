@@ -1,0 +1,130 @@
+<!-- GitHub Trending: TypeScript | 7,287 stars | +636 today -->
+
+# millionco/react-doctor
+
+> Your agent writes bad React. This catches it
+
+## Repository Info
+- **URL**: https://github.com/millionco/react-doctor
+- **Stars**: 7,287
+- **Forks**: 229
+- **Language**: TypeScript
+- **License**: MIT License
+- **Created**: 2026-02-13
+- **Updated**: 2026-05-09
+- **Topics**: agents, code-review, doctor, react, skill
+- **Open Issues**: 13
+
+## README (excerpt)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/react-doctor-readme-logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/react-doctor-readme-logo-light.svg">
+  <img alt="React Doctor" src="./assets/react-doctor-readme-logo-light.svg" width="180" height="40">
+</picture>
+
+[![version](https://img.shields.io/npm/v/react-doctor?style=flat&colorA=000000&colorB=000000)](https://npmjs.com/package/react-doctor)
+[![downloads](https://img.shields.io/npm/dt/react-doctor.svg?style=flat&colorA=000000&colorB=000000)](https://npmjs.com/package/react-doctor)
+
+Your agent writes bad React, this catches it.
+
+One command scans your codebase and outputs a **0 to 100 health score** with actionable diagnostics.
+
+Works with Next.js, Vite, and React Native.
+
+### [See it in action →](https://react.doctor)
+
+## Install
+
+Run this at your project root:
+
+```bash
+npx -y react-doctor@latest .
+```
+
+You'll get a score (75+ Great, 50 to 74 Needs work, under 50 Critical) and a list of issues across state & effects, performance, architecture, security, accessibility, and dead code. Rules toggle automatically based on your framework and React version.
+
+https://github.com/user-attachments/assets/07cc88d9-9589-44c3-aa73-5d603cb1c570
+
+## Install for your coding agent
+
+Teach your coding agent React best practices so it stops writing the bad code in the first place.
+
+```bash
+npx -y react-doctor@latest install
+```
+
+You'll be prompted to pick which detected agents to install for. Pass `--yes` to skip prompts.
+
+Works with Claude Code, Cursor, Codex, OpenCode, and 50+ other agents.
+
+## GitHub Actions
+
+```yaml
+- uses: actions/checkout@v5
+  with:
+    fetch-depth: 0 # required for --diff
+- uses: millionco/react-doctor@main
+  with:
+    diff: main
+    github-token: ${{ secrets.GITHUB_TOKEN }}
+```
+
+When `github-token` is set on `pull_request` events, findings are posted as a PR comment. The action also outputs a `score` (0 to 100) you can use in subsequent steps.
+
+## Configuration
+
+Create a `react-doctor.config.json` in your project root:
+
+```json
+{
+  "ignore": {
+    "rules": ["react/no-danger", "jsx-a11y/no-autofocus"],
+    "files": ["src/generated/**"],
+    "overrides": [
+      {
+        "files": ["components/diff/**"],
+        "rules": ["react-doctor/no-array-index-as-key"]
+      }
+    ]
+  }
+}
+```
+
+`ignore.rules` silences a rule everywhere. `ignore.files` silences every rule on matched files. `ignore.overrides` silences specific rules in specific directories. You can also use the `"reactDoctor"` key in `package.json`. CLI flags always override config values.
+
+React Doctor respects `.gitignore`, `.eslintignore`, `.oxlintignore`, `.prettierignore`, and `linguist-vendored` / `linguist-generated` annotations in `.gitattributes`. Inline `// eslint-disable*` and `// oxlint-disable*` comments are honored too.
+
+If you have a JSON oxlint or eslint config (`.oxlintrc.json` or `.eslintrc.json`), its rules get merged into the scan automatically and count toward the score. Set `adoptExistingLintConfig: false` to opt out.
+
+### Inline suppressions
+
+```tsx
+// react-doctor-disable-next-line react-doctor/no-cascading-set-state
+useEffect(() => {
+  setA(value);
+  setB(value);
+}, [value]);
+```
+
+When two rules fire on the same line, comma-separate the rule ids on a single comment. Block comments work inside JSX:
+
+<!-- prettier-ignore -->
+```tsx
+{/* react-doctor-disable-next-line react/no-danger */}
+<div dangerouslySetInnerHTML={{ __html }} />
+```
+
+For multi-line JSX, putting the comment immediately above the opening tag covers the entire attribute list (matching ESLint convention).
+
+## Lint plugin (standalone)
+
+The same rule set ships as both an oxlint plugin and an ESLint plugin, so you can wire it into whichever lint engine your project already runs.
+
+**oxlint** in `.oxlintrc.json`:
+
+```jsonc
+{
+  "jsPlugins": [{ "name": "react-doctor", "specifier": "react-doctor/oxlint-plugin" }],
+  "rules": {
+    "react-doctor/no-fetch-in-effect": "warn",
+    

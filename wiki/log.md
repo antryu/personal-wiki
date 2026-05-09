@@ -2304,3 +2304,45 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-09] lint | automated
 - Broken links: 18, Orphans: 541, Oversized: 8, Placeholders: 76, Total: 622
+
+## [2026-05-09] trending | Easy-Vibe: Modern Coding Course for Beginners
+- Source: GitHub Trending (JavaScript), ⭐ 8,481, Category: projects
+
+## [2026-05-09] trending | Oracle AI Developer Hub
+- Source: GitHub Trending (Jupyter Notebook), ⭐ 770, Category: tech
+
+## [2026-05-09] trending | ViMax: Agentic Video Generation
+- Source: GitHub Trending (Python), ⭐ 3,596, Category: tech
+
+## [2026-05-09] trending | Claude Agent SDK for Python
+- Source: GitHub Trending (Python), ⭐ 6,770, Category: tech
+
+## [2026-05-09] trending | Vellum Assistant - Personal AI Assistant
+- Source: GitHub Trending (TypeScript), ⭐ 328, Category: tech
+
+## [2026-05-09] trending | A2UI: Agent-to-User Interface
+- Source: GitHub Trending (TypeScript), ⭐ 14,604, Category: tech
+
+## [2026-05-09] trending | React Doctor
+- Source: GitHub Trending (TypeScript), ⭐ 7,287, Category: tech
+
+## [2026-05-09] trending | HelixDB: Open-source graph-vector database in Rust
+- Source: GitHub Trending (Rust), ⭐ 4,329, Category: tech
+
+## [2026-05-09] trending | WrenAI - Open Context Layer for AI Agents
+- Source: GitHub Trending (Rust), ⭐ 15,148, Category: tech
+
+## [2026-05-09] trending | Burn: Next-Gen Deep Learning Framework in Rust
+- Source: GitHub Trending (Rust), ⭐ 15,058, Category: tech
+
+## [2026-05-09] trending | Ruby Autoformatter in Rust
+- Source: GitHub Trending (Rust), ⭐ 1,183, Category: tech
+
+## [2026-05-09] trending | Modular LLM Applications in Rust
+- Source: GitHub Trending (Rust), ⭐ 7,218, Category: tech
+
+## [2026-05-09] trending | mieru - Anti-Censorship Network Proxy
+- Source: GitHub Trending (Go), ⭐ 1,823, Category: tech
+
+## [2026-05-09] trending | Supertonic - On-Device TTS
+- Source: GitHub Trending (Swift), ⭐ 2,901, Category: tech
