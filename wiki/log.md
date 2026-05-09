@@ -2301,3 +2301,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-08] trending | Milvus Vector Database
 - Source: GitHub Trending (Go), ⭐ 44,185, Category: tech
+
+## [2026-05-09] lint | automated
+- Broken links: 18, Orphans: 541, Oversized: 8, Placeholders: 76, Total: 622
