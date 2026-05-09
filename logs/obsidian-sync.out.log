@@ -639,3 +639,15 @@ total size is 1445282  speedup is 3.27
 To github.com:antryu/personal-wiki.git
    4f0ceed..12b5637  main -> main
 [Fri May  8 06:30:07 KST 2026] Obsidian synced (papers=0 tools=0)
+References/Macro/Dalio/snapshots/2026-05-07-snapshot.md
+References/Macro/Dalio/snapshots/2026-05-07-stage-summary.md
+
+sent 130188 bytes  received 92 bytes  9945038 bytes/sec
+total size is 1556216  speedup is 11.95
+[main c59b272] auto: obsidian vault sync 2026-05-09 (papers=0 tools=0)
+ 3 files changed, 2368 insertions(+)
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-05-07-snapshot.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-05-07-stage-summary.md
+To github.com:antryu/personal-wiki.git
+   33b8b4f..c59b272  main -> main
+[Sat May  9 06:30:06 KST 2026] Obsidian synced (papers=0 tools=0)
