@@ -2349,3 +2349,51 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-10] lint | automated
 - Broken links: 18, Orphans: 555, Oversized: 8, Placeholders: 76, Total: 636
+
+## [2026-05-10] trending | GLM-OCR: Multimodal OCR Model for Document Understanding
+- Source: GitHub Trending (Python), ⭐ 6,440, Category: tech
+
+## [2026-05-10] trending | SadTalker: Audio-Driven Talking Face Animation
+- Source: GitHub Trending (Python), ⭐ 13,791, Category: research
+
+## [2026-05-10] trending | AI-Powered Content Marketing Platform for OPCs
+- Source: GitHub Trending (TypeScript), ⭐ 9,961, Category: tech
+
+## [2026-05-10] trending | Huly Platform - All-in-One Project Management Framework
+- Source: GitHub Trending (TypeScript), ⭐ 25,845, Category: projects
+
+## [2026-05-10] trending | JavaScript In-Page GUI Agent
+- Source: GitHub Trending (TypeScript), ⭐ 17,715, Category: tech
+
+## [2026-05-10] trending | Crawlee - Web Scraping & Browser Automation Library
+- Source: GitHub Trending (TypeScript), ⭐ 23,195, Category: tech
+
+## [2026-05-10] trending | RustNet: Terminal Network Monitoring Tool
+- Source: GitHub Trending (Rust), ⭐ 2,715, Category: tech
+
+## [2026-05-10] trending | TrailBase: Sub-Millisecond Rust-Based Firebase Alternative
+- Source: GitHub Trending (Rust), ⭐ 5,081, Category: tech
+
+## [2026-05-10] trending | Go Toolkit for AI Agent Development
+- Source: GitHub Trending (Go), ⭐ 7,870, Category: tech
+
+## [2026-05-10] trending | Local Kubernetes Cluster Tool
+- Source: GitHub Trending (Go), ⭐ 31,782, Category: tech
+
+## [2026-05-10] trending | Waza - AI Agent Skills Evaluation Framework
+- Source: GitHub Trending (Go), ⭐ 575, Category: tech
+
+## [2026-05-10] trending | ezBookkeeping - Self-Hosted Personal Finance App
+- Source: GitHub Trending (Go), ⭐ 4,836, Category: finance
+
+## [2026-05-10] trending | HackBrowserData: Extract and Decrypt Browser Data
+- Source: GitHub Trending (Go), ⭐ 13,952, Category: tech
+
+## [2026-05-10] trending | Self-Hosted Cloud Development Environments and AI Agents
+- Source: GitHub Trending (Go), ⭐ 13,136, Category: tech
+
+## [2026-05-10] trending | Remodex: Remote Control for Codex
+- Source: GitHub Trending (Swift), ⭐ 2,953, Category: tech
+
+## [2026-05-10] trending | Speech Swift: On-device AI Speech Toolkit for Apple Silicon
+- Source: GitHub Trending (Swift), ⭐ 706, Category: tech
