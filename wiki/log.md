@@ -2346,3 +2346,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-09] trending | Supertonic - On-Device TTS
 - Source: GitHub Trending (Swift), ⭐ 2,901, Category: tech
+
+## [2026-05-10] lint | automated
+- Broken links: 18, Orphans: 555, Oversized: 8, Placeholders: 76, Total: 636
