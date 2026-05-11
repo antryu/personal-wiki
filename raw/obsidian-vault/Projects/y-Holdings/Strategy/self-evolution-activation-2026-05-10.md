@@ -1,4 +1,4 @@
-# Hermes Evolution Layers 1-3 Activation — 2026-05-10
+# 자가진화 (Self-Evolution) Layers 1-3 Activation — 2026-05-10
 
 **Status**: DONE  
 **Implementor**: Buildy (executor agent)  
@@ -102,5 +102,12 @@ Both issues affect Track C eval persistence. Auto-harness correctly fires the di
 ## Commit
 
 Branch: `feat/8law-4engine-bench`  
-Commit: `60f7eaf` — "feat: activate Hermes evolution layers 1-3 in y-Tower"  
+Commit: `60f7eaf` — "feat: activate Hermes evolution layers 1-3 in y-Tower" (renamed to 자가진화 per Chairman directive 2026-05-11)  
 4 files, 239 insertions, 15 deletions
+
+---
+
+## Naming Note
+
+파일명 및 내용이 2026-05-11 의장 결재에 따라 "Hermes" → "자가진화 (Self-Evolution)"으로 변경됨.  
+원본 파일: `hermes-evolution-activation-2026-05-10.md` (보존됨, 아카이브용)
