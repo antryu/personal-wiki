@@ -2397,3 +2397,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-10] trending | Speech Swift: On-device AI Speech Toolkit for Apple Silicon
 - Source: GitHub Trending (Swift), ⭐ 706, Category: tech
+
+## [2026-05-11] lint | automated
+- Broken links: 18, Orphans: 571, Oversized: 8, Placeholders: 76, Total: 652
