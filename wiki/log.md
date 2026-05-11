@@ -2400,3 +2400,51 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-11] lint | automated
 - Broken links: 18, Orphans: 571, Oversized: 8, Placeholders: 76, Total: 652
+
+## [2026-05-11] trending | Build a Large Language Model from Scratch
+- Source: GitHub Trending (Jupyter Notebook), ⭐ 92,930, Category: tech
+
+## [2026-05-11] trending | Kiro Gateway: Proxy API for Claude Models in AWS CodeWhisperer
+- Source: GitHub Trending (Python), ⭐ 1,318, Category: tech
+
+## [2026-05-11] trending | UI-TARS: Automated GUI Interaction with Native Agents
+- Source: GitHub Trending (Python), ⭐ 10,429, Category: research
+
+## [2026-05-11] trending | WeChat Database Decryptor
+- Source: GitHub Trending (Python), ⭐ 3,239, Category: tech
+
+## [2026-05-11] trending | ARIS: Auto-Research-in-Sleep for ML
+- Source: GitHub Trending (Python), ⭐ 8,856, Category: research
+
+## [2026-05-11] trending | 3D Map Generator with R3F
+- Source: GitHub Trending (TypeScript), ⭐ 717, Category: tech
+
+## [2026-05-11] trending | HyperFrames: HTML to Video Rendering Framework
+- Source: GitHub Trending (TypeScript), ⭐ 17,227, Category: tech
+
+## [2026-05-11] trending | OpenMAIC: Multi-Agent Interactive Classroom
+- Source: GitHub Trending (TypeScript), ⭐ 17,363, Category: tech
+
+## [2026-05-11] trending | Garry Tan's AI-Powered Productivity Stack
+- Source: GitHub Trending (TypeScript), ⭐ 93,831, Category: tech
+
+## [2026-05-11] trending | Kiro Account Manager
+- Source: GitHub Trending (Rust), ⭐ 1,532, Category: tech
+
+## [2026-05-11] trending | Rust Package Manager
+- Source: GitHub Trending (Rust), ⭐ 14,937, Category: tech
+
+## [2026-05-11] trending | Gitleaks: Secret Detection Tool
+- Source: GitHub Trending (Go), ⭐ 26,834, Category: security
+
+## [2026-05-11] trending | Chaos Mesh: Chaos Engineering for Kubernetes
+- Source: GitHub Trending (Go), ⭐ 7,686, Category: tech
+
+## [2026-05-11] trending | CCX - AI API Proxy
+- Source: GitHub Trending (Go), ⭐ 450, Category: tech
+
+## [2026-05-11] trending | Hysteria Proxy
+- Source: GitHub Trending (Go), ⭐ 19,956, Category: tech
+
+## [2026-05-11] trending | Hugo - Static Site Generator
+- Source: GitHub Trending (Go), ⭐ 88,019, Category: tech
