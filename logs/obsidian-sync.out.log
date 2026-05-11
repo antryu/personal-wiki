@@ -664,3 +664,24 @@ total size is 1567559  speedup is 88.39
 To github.com:antryu/personal-wiki.git
    df75d71..aa3e9d8  main -> main
 [Sun May 10 06:30:07 KST 2026] Obsidian synced (papers=0 tools=0)
+Trading/\#354\#243\#274\#352\#260\#204\#353\#246\#254\#353\#267\#260/
+Trading/\#354\#243\#274\#352\#260\#204\#353\#246\#254\#353\#267\#260/2026-W18.md
+
+sent 133096 bytes  received 316 bytes  7801871 bytes/sec
+total size is 1692770  speedup is 12.69
+[main 6043515] auto: obsidian vault sync 2026-05-11 (papers=0 tools=0)
+ 11 files changed, 2549 insertions(+)
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/_storage-implementation-2026-05-10.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/_storage-schema.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-10-005930.KS.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Marketing/2026-05-10-memory-campaign/01-hyperframes-scripts-3videos.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Marketing/2026-05-10-memory-campaign/04-smoke-test-1-result.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Strategy/hermes-evolution-activation-2026-05-10.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-05-10.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-05-11.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-05-09-snapshot.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-05-09-stage-summary.md
+ create mode 100644 "raw/obsidian-vault/Trading/\354\243\274\352\260\204\353\246\254\353\267\260/2026-W18.md"
+To github.com:antryu/personal-wiki.git
+   5caff2c..6043515  main -> main
+[Mon May 11 06:30:06 KST 2026] Obsidian synced (papers=0 tools=0)
