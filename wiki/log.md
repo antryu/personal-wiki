@@ -2448,3 +2448,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-11] trending | Hugo - Static Site Generator
 - Source: GitHub Trending (Go), ⭐ 88,019, Category: tech
+
+## [2026-05-12] lint | automated
+- Broken links: 18, Orphans: 587, Oversized: 8, Placeholders: 76, Total: 668
