@@ -685,3 +685,43 @@ total size is 1692770  speedup is 12.69
 To github.com:antryu/personal-wiki.git
    5caff2c..6043515  main -> main
 [Mon May 11 06:30:06 KST 2026] Obsidian synced (papers=0 tools=0)
+Trading/V25-improvement-dual-llm-2026-05-11.md
+Trading/V27-E-enhancements-2026-05-11.md
+
+sent 397005 bytes  received 732 bytes  14154341 bytes/sec
+total size is 2036096  speedup is 5.12
+[main 87a01a7] auto: obsidian vault sync 2026-05-12 (papers=0 tools=0)
+ 31 files changed, 6995 insertions(+), 2 deletions(-)
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-AGQ.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-BITX.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-BTC.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-CASH-KRW.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-CASH-USD.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-COIN.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-ETH.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-ETHU.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-IONQ.md
+ create mode 100644 "raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-KODEX\353\240\210\353\262\204\353\246\254\354\247\200.md"
+ create mode 100644 "raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-KODEX\355\225\234\352\265\255\353\266\200\353\217\231\354\202\260\353\246\254\354\270\240\354\235\270\355\224\204\353\235\274.md"
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-NTR.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-NVDX.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-OIH.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-PLTU.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-RGTI.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-SIL.md
+ create mode 100644 "raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-TIGER\353\246\254\354\270\240\353\266\200\353\217\231\354\202\260\354\235\270\355\224\204\353\235\274.md"
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-UGL.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-XLE.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-XRP.md
+ create mode 100644 "raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/holdings/2026-05-11-\355\214\234\354\212\244\353\271\214.md"
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/Asset-portfolio/quanty-pevkelly-2026-05-11.md
+ rename raw/obsidian-vault/Projects/y-Holdings/Strategy/{hermes-evolution-activation-2026-05-10.md => self-evolution-activation-2026-05-10.md} (91%)
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-05-10-snapshot.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-05-10-stage-summary.md
+ create mode 100644 raw/obsidian-vault/Trading/V25-asymmetry-fix-backtest-2026-05-11.md
+ create mode 100644 raw/obsidian-vault/Trading/V25-comprehensive-backtest-2026-05-11.md
+ create mode 100644 raw/obsidian-vault/Trading/V25-improvement-dual-llm-2026-05-11.md
+ create mode 100644 raw/obsidian-vault/Trading/V27-E-enhancements-2026-05-11.md
+To github.com:antryu/personal-wiki.git
+   0b965cb..87a01a7  main -> main
+[Tue May 12 06:30:09 KST 2026] Obsidian synced (papers=0 tools=0)
