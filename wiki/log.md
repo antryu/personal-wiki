@@ -2451,3 +2451,90 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-12] lint | automated
 - Broken links: 18, Orphans: 587, Oversized: 8, Placeholders: 76, Total: 668
+
+## [2026-05-13] trending | GTweak: Windows Optimization Tool
+- Source: GitHub Trending (C#), ⭐ 892, Category: tech
+
+## [2026-05-13] trending | Brush: 3D Reconstruction with Gaussian Splatting
+- Source: GitHub Trending (Rust), ⭐ 4,336, Category: tech
+
+## [2026-05-13] trending | Acton - TON Smart Contract Development Toolkit
+- Source: GitHub Trending (Rust), ⭐ 177, Category: tech
+
+## [2026-05-13] trending | Language Model Evaluation Framework
+- Source: GitHub Trending (Python), ⭐ 12,550, Category: research
+
+## [2026-05-13] trending | 3D Gaussian Splatting for Real-Time Radiance Field Rendering
+- Source: GitHub Trending (Python), ⭐ 21,913, Category: research
+
+## [2026-05-13] trending | MinerU: Document Parser for LLM Workflows
+- Source: GitHub Trending (Python), ⭐ 62,900, Category: tech
+
+## [2026-05-13] trending | Odoo Open Source Business Apps
+- Source: GitHub Trending (Python), ⭐ 50,631, Category: business
+
+## [2026-05-13] trending | WSABuilds: Windows Subsystem for Android with Root and GApps
+- Source: GitHub Trending (Python), ⭐ 17,276, Category: tech
+
+## [2026-05-13] trending | Ansible Automation Platform
+- Source: GitHub Trending (Python), ⭐ 68,535, Category: tech
+
+## [2026-05-13] trending | CloakBrowser Profile Manager
+- Source: GitHub Trending (Python), ⭐ 246, Category: tech
+
+## [2026-05-13] trending | Whisper: Multilingual Speech Recognition Model
+- Source: GitHub Trending (Python), ⭐ 99,441, Category: tech
+
+## [2026-05-13] trending | PyTorch Image Models Collection
+- Source: GitHub Trending (Python), ⭐ 36,791, Category: tech
+
+## [2026-05-13] trending | TanStack Router: A Type-Safe Full-Stack Web Framework
+- Source: GitHub Trending (TypeScript), ⭐ 14,398, Category: tech
+
+## [2026-05-13] trending | AI-Powered Data Visualization Tool
+- Source: GitHub Trending (TypeScript), ⭐ 15,549, Category: tech
+
+## [2026-05-13] trending | Proma: Next-Gen Agent Desktop App
+- Source: GitHub Trending (TypeScript), ⭐ 811, Category: tech
+
+## [2026-05-13] trending | CodebuffAI - AI Coding Assistant
+- Source: GitHub Trending (TypeScript), ⭐ 5,076, Category: tech
+
+## [2026-05-13] trending | NVIDIA OpenShell: Safe Runtime for AI Agents
+- Source: GitHub Trending (Rust), ⭐ 5,894, Category: tech
+
+## [2026-05-13] trending | Hugging Face Tokenizers
+- Source: GitHub Trending (Rust), ⭐ 10,720, Category: tech
+
+## [2026-05-13] trending | Static Analysis Tool for GitHub Actions
+- Source: GitHub Trending (Rust), ⭐ 4,799, Category: tech
+
+## [2026-05-13] trending | GitHub Agentic Workflows
+- Source: GitHub Trending (Go), ⭐ 4,465, Category: tech
+
+## [2026-05-13] trending | Nomad Workload Orchestrator
+- Source: GitHub Trending (Go), ⭐ 16,496, Category: tech
+
+## [2026-05-13] trending | urfave/cli - A Go CLI toolkit
+- Source: GitHub Trending (Go), ⭐ 24,045, Category: tech
+
+## [2026-05-13] trending | Database DevSecOps Platform
+- Source: GitHub Trending (Go), ⭐ 14,014, Category: tech
+
+## [2026-05-13] trending | MCP Go SDK for LLM Integration
+- Source: GitHub Trending (Go), ⭐ 8,695, Category: tech
+
+## [2026-05-13] trending | Microservices Demo for Cloud Technologies
+- Source: GitHub Trending (Go), ⭐ 20,225, Category: tech
+
+## [2026-05-13] trending | Muesli: Local Speech-to-Text Tool for macOS
+- Source: GitHub Trending (Swift), ⭐ 415, Category: tech
+
+## [2026-05-13] trending | Clipy: Clipboard Extension for macOS
+- Source: GitHub Trending (Swift), ⭐ 8,519, Category: tech
+
+## [2026-05-13] trending | Swift Collections
+- Source: GitHub Trending (Swift), ⭐ 4,399, Category: tech
+
+## [2026-05-13] trending | Swift Argument Parser
+- Source: GitHub Trending (Swift), ⭐ 3,704, Category: tech
