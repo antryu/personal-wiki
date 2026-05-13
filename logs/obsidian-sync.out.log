@@ -725,3 +725,19 @@ total size is 2036096  speedup is 5.12
 To github.com:antryu/personal-wiki.git
    0b965cb..87a01a7  main -> main
 [Tue May 12 06:30:09 KST 2026] Obsidian synced (papers=0 tools=0)
+References/Macro/Dalio/snapshots/2026-05-11-snapshot.md
+References/Macro/Dalio/snapshots/2026-05-11-stage-summary.md
+
+sent 219615 bytes  received 188 bytes  12143812 bytes/sec
+total size is 2244966  speedup is 10.21
+[main b2e47a9] auto: obsidian vault sync 2026-05-13 (papers=0 tools=2)
+ 6 files changed, 4350 insertions(+)
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/MoeumHealth/admin-vv-fix-2026-05-12.md
+ create mode 100644 raw/obsidian-vault/Projects/y-Holdings/claude-sessions/daily/2026-05-12.md
+ create mode 100644 raw/obsidian-vault/References/AI-Tools/co-translator.md
+ create mode 100644 raw/obsidian-vault/References/AI-Tools/tradingview-mcp.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-05-11-snapshot.md
+ create mode 100644 raw/obsidian-vault/References/Macro/Dalio/snapshots/2026-05-11-stage-summary.md
+To github.com:antryu/personal-wiki.git
+   b7038ff..b2e47a9  main -> main
+[Wed May 13 06:34:43 KST 2026] Obsidian synced (papers=0 tools=2)
