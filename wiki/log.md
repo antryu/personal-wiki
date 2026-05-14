@@ -2538,3 +2538,60 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-13] trending | Swift Argument Parser
 - Source: GitHub Trending (Swift), ⭐ 3,704, Category: tech
+
+## [2026-05-14] trending | Supervision - Reusable Computer Vision Tools
+- Source: GitHub Trending (Python), ⭐ 38,852, Category: tech
+
+## [2026-05-14] trending | scrcpy: Android Screen Mirroring and Control Tool
+- Source: GitHub Trending (C), ⭐ 141,288, Category: tech
+
+## [2026-05-14] trending | NVIDIA Video Search and Summarization AI Blueprint
+- Source: GitHub Trending (Python), ⭐ 799, Category: tech
+
+## [2026-05-14] trending | Academic Research Skills for Claude Code
+- Source: GitHub Trending (Python), ⭐ 7,183, Category: research
+
+## [2026-05-14] trending | GEO-SEO Optimization for AI Search
+- Source: GitHub Trending (Python), ⭐ 7,267, Category: tech
+
+## [2026-05-14] trending | Reddit Video Maker Bot
+- Source: GitHub Trending (Python), ⭐ 11,928, Category: tech
+
+## [2026-05-14] trending | AWS Agent Plugins for AI Coding Agents
+- Source: GitHub Trending (Python), ⭐ 693, Category: tech
+
+## [2026-05-14] trending | OpenCTI Cyber Threat Intelligence Platform
+- Source: GitHub Trending (TypeScript), ⭐ 9,346, Category: security
+
+## [2026-05-14] trending | CodeGraph: Rust-based Code Analysis with AI Agents
+- Source: GitHub Trending (Rust), ⭐ 642, Category: tech
+
+## [2026-05-14] trending | Neon: Serverless PostgreSQL Database
+- Source: GitHub Trending (Rust), ⭐ 21,923, Category: tech
+
+## [2026-05-14] trending | workmux: Parallel Dev with Git and tmux
+- Source: GitHub Trending (Rust), ⭐ 1,473, Category: tech
+
+## [2026-05-14] trending | Internet Computer Protocol Source Code
+- Source: GitHub Trending (Rust), ⭐ 1,755, Category: tech
+
+## [2026-05-14] trending | Kubernetes: Container Orchestration System
+- Source: GitHub Trending (Go), ⭐ 122,265, Category: tech
+
+## [2026-05-14] trending | TruffleHog: Find Leaked Credentials
+- Source: GitHub Trending (Go), ⭐ 26,282, Category: security
+
+## [2026-05-14] trending | Secure Infrastructure Access and Audit
+- Source: GitHub Trending (Go), ⭐ 20,320, Category: infra
+
+## [2026-05-14] trending | Enhanced GeoIP Customization Tool
+- Source: GitHub Trending (Go), ⭐ 6,026, Category: tech
+
+## [2026-05-14] trending | AI Native API Gateway
+- Source: GitHub Trending (Go), ⭐ 8,380, Category: tech
+
+## [2026-05-14] trending | Prometheus Go Client Library
+- Source: GitHub Trending (Go), ⭐ 5,966, Category: tech
+
+## [2026-05-14] trending | Swift Terminal Emulator Library
+- Source: GitHub Trending (Swift), ⭐ 1,529, Category: tech
