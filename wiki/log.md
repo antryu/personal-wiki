@@ -2595,3 +2595,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-14] trending | Swift Terminal Emulator Library
 - Source: GitHub Trending (Swift), ⭐ 1,529, Category: tech
+
+## [2026-05-15] lint | automated
+- Broken links: 18, Orphans: 635, Oversized: 8, Placeholders: 76, Total: 716
