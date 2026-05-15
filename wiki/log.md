@@ -2598,3 +2598,39 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-15] lint | automated
 - Broken links: 18, Orphans: 635, Oversized: 8, Placeholders: 76, Total: 716
+
+## [2026-05-15] trending | Bun: Fast JavaScript Runtime & Tools
+- Source: GitHub Trending (Rust), ⭐ 90,583, Category: tech
+
+## [2026-05-15] trending | Anything to NotebookLM Processor
+- Source: GitHub Trending (Python), ⭐ 2,642, Category: tech
+
+## [2026-05-15] trending | Interactive Codebase Architecture Mapping
+- Source: GitHub Trending (Python), ⭐ 1,595, Category: tech
+
+## [2026-05-15] trending | NVIDIA NeMo: Generative AI Framework for LLMs and Speech AI
+- Source: GitHub Trending (Python), ⭐ 17,215, Category: tech
+
+## [2026-05-15] trending | Pyrefly: Fast Python Type Checker & Language Server
+- Source: GitHub Trending (Rust), ⭐ 5,964, Category: tech
+
+## [2026-05-15] trending | Awesome Rust Resource List
+- Source: GitHub Trending (Rust), ⭐ 57,318, Category: reference
+
+## [2026-05-15] trending | Hyperswitch Prism: Unified Payment Processor Library
+- Source: GitHub Trending (Rust), ⭐ 1,281, Category: tech
+
+## [2026-05-15] trending | NVIDIA Infra Controller Core
+- Source: GitHub Trending (Rust), ⭐ 148, Category: infra
+
+## [2026-05-15] trending | Komari Server Monitor
+- Source: GitHub Trending (Go), ⭐ 4,636, Category: tech
+
+## [2026-05-15] trending | Dapr - Distributed Application Runtime
+- Source: GitHub Trending (Go), ⭐ 25,748, Category: tech
+
+## [2026-05-15] trending | sqlc: Generate Type-Safe Code from SQL
+- Source: GitHub Trending (Go), ⭐ 17,622, Category: tech
+
+## [2026-05-15] trending | llm-d Router: Intelligent Inference Gateway
+- Source: GitHub Trending (Go), ⭐ 188, Category: tech
