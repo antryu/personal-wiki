@@ -2634,3 +2634,6 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-15] trending | llm-d Router: Intelligent Inference Gateway
 - Source: GitHub Trending (Go), ⭐ 188, Category: tech
+
+## [2026-05-16] lint | automated
+- Broken links: 18, Orphans: 647, Oversized: 8, Placeholders: 76, Total: 728
