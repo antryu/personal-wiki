@@ -2637,3 +2637,75 @@ Append-only. Format: `## [YYYY-MM-DD] {operation} | {title}`
 
 ## [2026-05-16] lint | automated
 - Broken links: 18, Orphans: 647, Oversized: 8, Placeholders: 76, Total: 728
+
+## [2026-05-16] trending | CLI-Anything: Bridging AI Agents and Software
+- Source: GitHub Trending (Python), ⭐ 35,116, Category: tech
+
+## [2026-05-16] trending | Awesome Math Resources
+- Source: GitHub Trending (Python), ⭐ 15,259, Category: reference
+
+## [2026-05-16] trending | Open Source Voice Agent Platform
+- Source: GitHub Trending (Python), ⭐ 1,312, Category: tech
+
+## [2026-05-16] trending | Free TV M3U Playlist
+- Source: GitHub Trending (Python), ⭐ 16,330, Category: projects
+
+## [2026-05-16] trending | LLM Evaluation Framework
+- Source: GitHub Trending (Python), ⭐ 15,476, Category: tech
+
+## [2026-05-16] trending | ShadowBroker: Global Real-Time Intelligence Platform
+- Source: GitHub Trending (Python), ⭐ 6,517, Category: insights
+
+## [2026-05-16] trending | NVIDIA Warp: GPU-Accelerated Python Framework
+- Source: GitHub Trending (Python), ⭐ 6,640, Category: tech
+
+## [2026-05-16] trending | Spooty - Self-hosted Spotify Downloader
+- Source: GitHub Trending (TypeScript), ⭐ 2,249, Category: projects
+
+## [2026-05-16] trending | XcodeBuild MCP Server and CLI
+- Source: GitHub Trending (TypeScript), ⭐ 5,608, Category: tech
+
+## [2026-05-16] trending | Agent Skills for AI Coding Agents
+- Source: GitHub Trending (TypeScript), ⭐ 2,542, Category: tech
+
+## [2026-05-16] trending | Grafana: Open-Source Data Visualization & Monitoring Platform
+- Source: GitHub Trending (TypeScript), ⭐ 73,788, Category: tech
+
+## [2026-05-16] trending | Codex Desktop for Linux
+- Source: GitHub Trending (Rust), ⭐ 837, Category: tech
+
+## [2026-05-16] trending | Gyroflow Video Stabilization
+- Source: GitHub Trending (Rust), ⭐ 8,740, Category: tech
+
+## [2026-05-16] trending | Miri: Rust Undefined Behavior Detector
+- Source: GitHub Trending (Rust), ⭐ 6,171, Category: tech
+
+## [2026-05-16] trending | Tempo: Blockchain for Payments
+- Source: GitHub Trending (Rust), ⭐ 938, Category: finance
+
+## [2026-05-16] trending | Octos - Agentic Operating System
+- Source: GitHub Trending (Rust), ⭐ 742, Category: tech
+
+## [2026-05-16] trending | OpenTofu - Declarative Cloud Infrastructure Management
+- Source: GitHub Trending (Go), ⭐ 28,667, Category: tech
+
+## [2026-05-16] trending | Docker CLI
+- Source: GitHub Trending (Go), ⭐ 5,861, Category: tech
+
+## [2026-05-16] trending | WhatsApp MCP Server
+- Source: GitHub Trending (Go), ⭐ 5,637, Category: tech
+
+## [2026-05-16] trending | Gas Town - Multi-Agent Workspace Manager
+- Source: GitHub Trending (Go), ⭐ 15,242, Category: tech
+
+## [2026-05-16] trending | k8sgpt
+- Source: GitHub Trending (Go), ⭐ 7,776, Category: tech
+
+## [2026-05-16] trending | Testify - Go Testing Toolkit
+- Source: GitHub Trending (Go), ⭐ 25,997, Category: tech
+
+## [2026-05-16] trending | go-chi/chi - Lightweight Go HTTP Router
+- Source: GitHub Trending (Go), ⭐ 22,192, Category: tech
+
+## [2026-05-16] trending | Whisky: Modern Wine Wrapper for macOS
+- Source: GitHub Trending (Swift), ⭐ 15,043, Category: tech

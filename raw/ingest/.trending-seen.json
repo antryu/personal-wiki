@@ -1,3126 +1,3222 @@
 [
   {
     "repo": "NousResearch/hermes-agent",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "forrestchang/andrej-karpathy-skills",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "HKUDS/DeepTutor",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "coleam00/Archon",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "YishenTu/claudian",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "aaif-goose/goose",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "antinomyhq/forgecode",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "goharbor/harbor",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "vxcontrol/pentagi",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "osaurus-ai/osaurus",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "madeye/BaoLianDeng",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "microsoft/markitdown",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "rowboatlabs/rowboat",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "multica-ai/multica",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "shiyu-coder/Kronos",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "opendataloader-project/opendataloader-pdf",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "jqlang/jq",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "shanraisshan/claude-code-best-practice",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "FloatingPragma/observer-patch-holography",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "PrefectHQ/prefect",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "OpenBMB/VoxCPM",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "jingyaogong/minimind",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "feast-dev/feast",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "666ghj/MiroFish",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tradingview/lightweight-charts",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "zhukunpenglinyutong/jetbrains-cc-gui",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "moeru-ai/airi",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "hicccc77/WeFlow",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "continuedev/continue",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "microsoft/playwright-cli",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "n8n-io/n8n",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ChromeDevTools/chrome-devtools-mcp",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "astral-sh/uv",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "astral-sh/ruff",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "denoland/deno",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "paradigmxyz/reth",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "TabbyML/tabby",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "lance-format/lance",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "farion1231/cc-switch",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "qufei1993/skills-hub",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "pola-rs/polars",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "git-ai-project/git-ai",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Wei-Shaw/sub2api",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "grafana/mcp-grafana",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "docker/compose",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "helm/helm",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "maximhq/bifrost",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "pingcap/tidb",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "pulumi/pulumi",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "nats-io/nats-server",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "canopy-network/canopy",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "google/go-github",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "p0deje/Maccy",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "getsentry/sentry-cocoa",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "pointfreeco/swift-snapshot-testing",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "airbnb/lottie-ios",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "altic-dev/FluidVoice",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "pointfreeco/sqlite-data",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "github/CopilotForXcode",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "TapXWorld/ChinaTextbook",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "alexpate/awesome-design-systems",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "aloshdenny/reverse-SynthID",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "K-Dense-AI/scientific-agent-skills",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "google-research/bert",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "agentscope-ai/agentscope",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "codeforreal1/compressO",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "snarktank/ralph",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "microsoft/playwright",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "JimLiu/baoyu-skills",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "QwenLM/qwen-code",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "wrtnlabs/autobe",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "gitbutlerapp/gitbutler",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "rustfs/rustfs",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "modelcontextprotocol/rust-sdk",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "iced-rs/iced",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "microsoft/DiskANN",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "openai/codex",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "BloopAI/vibe-kanban",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "apache/opendal",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "paritytech/polkadot-sdk",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "googleapis/mcp-toolbox",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "1Panel-dev/1Panel",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "NVIDIA/gpu-operator",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "fluxcd/flux2",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Project-HAMi/HAMi",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "bitnami-labs/sealed-secrets",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tmc/langchaingo",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "grpc/grpc-go",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "harness/harness",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "cloudwego/eino",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "jurplel/InstantSpaceSwitcher",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "automazeio/vibeproxy",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "TheBoredTeam/boring.notch",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "DataDog/dd-sdk-ios",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Beingpax/VoiceInk",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ml-explore/mlx-swift-lm",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tddworks/ClaudeBar",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "yonaskolb/XcodeGen",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "element-hq/element-x-ios",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "virattt/ai-hedge-fund",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "hugohe3/ppt-master",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ZhuLinsen/daily_stock_analysis",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "yt-dlp/yt-dlp",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "jamiepine/voicebox",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "obsidianmd/obsidian-clipper",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "firecrawl/firecrawl",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tinyfish-io/tinyfish-cookbook",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "letta-ai/letta-code",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "louis-e/arnis",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "nearai/ironclaw",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "longbridge/gpui-component",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "nautechsystems/nautilus_trader",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "dora-rs/dora",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "emilk/egui",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "launchbadge/sqlx",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ankitects/anki",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "mostlygeek/llama-swap",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "GopeedLab/gopeed",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "anthropics/anthropic-cli",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "versity/versitygw",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "karmada-io/karmada",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "SagerNet/sing-box",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "signalapp/Signal-iOS",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "pointfreeco/swift-composable-architecture",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "anthropics/claude-cookbooks",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "gsd-build/get-shit-done",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "axolotl-ai-cloud/axolotl",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "microsoft/agent-lightning",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "AIDC-AI/Pixelle-Video",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "twentyhq/twenty",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Crosstalk-Solutions/project-nomad",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "remotion-dev/remotion",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "CyberTimon/RapidRAW",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "katanemo/plano",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "raphaelmansuy/edgequake",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "wasmerio/wasmer",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "lakehq/sail",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "EasyTier/EasyTier",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "surrealdb/surrealdb",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "BoundaryML/baml",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "apache/datafusion",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "mullvad/mullvadvpn-app",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tailscale/tailscale",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "v2fly/domain-list-community",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "fish2018/pansou",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "grafana/loki",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "gdy666/lucky",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "sysadminsmedia/homebox",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "XIU2/CloudflareSpeedTest",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "AdguardTeam/AdGuardHome",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tinygo-org/tinygo",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ronitsingh10/FineTune",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "apple/container",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "xykong/flux-markdown",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "whoeevee/EeveeSpotifyReborn",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "pascalorg/editor",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "paperswithbacktest/awesome-systematic-trading",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Tracer-Cloud/opensre",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ultralytics/ultralytics",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "alirezarezvani/claude-skills",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "seerr-team/seerr",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "vercel-labs/skills",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "playcanvas/supersplat",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "chartdb/chartdb",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tonhowtf/omniget",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "superradcompany/microsandbox",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "psmux/psmux",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "rust-lang/rust-clippy",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Lampese/codex-switcher",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "navidrome/navidrome",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "QuantumNous/new-api",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "kyverno/kyverno",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "hashicorp/vault",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "open-telemetry/opentelemetry-collector",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "anchore/syft",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "alibaba/higress",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "golang-migrate/migrate",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "argoproj/argo-workflows",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "apple/swift-log",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "mozilla-mobile/firefox-ios",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "altstoreio/AltStore",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Lordog/dive-into-llms",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "public-apis/public-apis",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "vercel-labs/open-agents",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "lsdefine/GenericAgent",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "google/magika",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "zhayujie/CowAgent",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "donnemartin/system-design-primer",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "sgl-project/sglang",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "open-webui/open-webui",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "documenso/documenso",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "FlorianBruniaux/claude-code-ultimate-guide",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ColeMurray/background-agents",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Fission-AI/OpenSpec",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "gitroomhq/postiz-app",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "zhukunpenglinyutong/desktop-cc-gui",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "backnotprop/plannotator",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "zereight/gitlab-mcp",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "fathyb/carbonyl",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Ataraxy-Labs/sem",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "jj-vcs/jj",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "hank9999/kiro.rs",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "vercel/turborepo",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "aquasecurity/trivy",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "juanfont/headscale",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tinode/chat",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "istio/istio",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "open-telemetry/opentelemetry-go",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "XTLS/RealiTLScanner",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "realm/SwiftLint",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "manaflow-ai/cmux",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "MonitorControl/MonitorControl",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "z-lab/dflash",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "openai/openai-agents-python",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "EvoMap/evolver",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "SimoneAvogadro/android-reverse-engineering-skill",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "jundot/omlx",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "google-research/timesfm",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "datawhalechina/hello-agents",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "github/awesome-copilot",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Polymarket/agents",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "dimensionalOS/dimos",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "usestrix/strix",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "calcom/cal.diy",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "sparkjsdev/spark",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "strapi/strapi",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "quemsah/awesome-claude-plugins",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "archestra-ai/archestra",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "microsoft/vscode",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "EveryInc/compound-engineering-plugin",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "bluesky-social/atproto",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "firecrawl/pdf-inspector",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "embassy-rs/embassy",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "NVIDIA/ncx-infra-controller-core",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "qxcnm/Codex-Manager",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "always-further/nono",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "zellij-org/zellij",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "openziti/zrok",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "VictoriaMetrics/VictoriaMetrics",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "oauth2-proxy/oauth2-proxy",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "putyy/res-downloader",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "runkids/skillshare",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "prometheus/node_exporter",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "github/github-mcp-server",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "envoyproxy/ai-gateway",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "charmbracelet/vhs",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "pressly/goose",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "swiftlang/swift-package-manager",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "lihaoyun6/QuickRecorder",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "JerryZLiu/Dayflow",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "stripe/stripe-ios",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "lukilabs/craft-agents-oss",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "pingdotgg/t3code",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "nv-tlabs/lyra",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "NVlabs/GR00T-WholeBodyControl",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "anthropics/skills",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "datalab-to/chandra",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "microsoft/apm",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Shubhamsaboo/awesome-llm-apps",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "openai/openai-agents-js",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "getmaxun/maxun",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "sirmalloc/ccstatusline",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "web-infra-dev/midscene",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "firecrawl/open-lovable",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "cloudflare/agents",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "max-sixty/worktrunk",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "cloudflare/pingora",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "vectordotdev/vector",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "open-telemetry/opentelemetry-collector-contrib",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "iawia002/lux",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "moby/moby",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "authelia/authelia",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "oisee/vibing-steampunk",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "matlab/matlab-mcp-core-server",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "entireio/cli",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "cloudnative-pg/cloudnative-pg",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "GetStream/stream-chat-swift",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "MarkEdit-app/MarkEdit",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "facebook/facebook-ios-sdk",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "zachlatta/freeflow",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "deepseek-ai/DeepGEMM",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tractorjuice/arc-kit",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "AI4Finance-Foundation/FinRL-Trading",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "saleor/saleor",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "CadQuery/cadquery",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "DaKheera47/job-ops",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "assistant-ui/assistant-ui",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "bitwarden/ai-plugins",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "resend/react-email",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "homarr-labs/homarr",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "koala73/worldmonitor",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "actions/checkout",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "0xJacky/nginx-ui",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "kgretzky/evilginx2",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "actions/actions-runner-controller",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "go-git/go-git",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "livekit/livekit",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Azure/azure-sdk-for-go",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "temporalio/temporal",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "CJackHwang/ds2api",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "swiftlang/swift",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "apple/swift-nio",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "coteditor/CotEditor",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "paperless-ngx/paperless-ngx",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ruvnet/RuView",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "TheAlgorithms/Python",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "bytedance/deer-flow",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "d2l-ai/d2l-en",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "barry-far/V2ray-Config",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "formbricks/formbricks",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "onlook-dev/onlook",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "nexmoe/VidBee",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "sxyazi/yazi",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "XTLS/Xray-core",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "cerbos/cerbos",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "twpayne/chezmoi",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "masterking32/MasterDnsVPN",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "v2fly/v2ray-core",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "cloudflare/cloudflared",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "HexmosTech/git-lrc",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "PlayCover/PlayCover",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tisfeng/Easydict",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "permissionlesstech/bitchat",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ggml-org/LlamaBarn",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "alexzhang13/rlm",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "sansan0/TrendRadar",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "home-assistant/core",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "zhinianboke/xianyu-auto-reply",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "HKUDS/RAG-Anything",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "mnfst/manifest",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "zilliztech/claude-context",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "vercel-labs/portless",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "crbnos/carbon",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tailcallhq/forgecode",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "signalapp/libsignal",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "a2x/cs2-dumper",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "alacritty/alacritty",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "solana-foundation/anchor",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "0x192/universal-android-debloater",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "containers/libkrun",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "base/base",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "pocketbase/pocketbase",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "go-vikunja/vikunja",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "xdevplatform/xurl",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "gogs/gogs",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "basecamp/once",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ParsaKSH/spoof-tunnel",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Diniboy1123/usque",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "StephenDev0/StikDebug",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Ranchero-Software/NetNewsWire",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "apple/containerization",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "argmaxinc/argmax-oss-swift",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "quoid/userscripts",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "microsoft/ai-agents-for-beginners",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "huggingface/skills",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "MoonshotAI/kimi-cli",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "PrefectHQ/fastmcp",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "langfuse/langfuse",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tailwindlabs/tailwindcss",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "siyuan-note/siyuan",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Helicone/helicone",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "janhq/jan",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "CherryHQ/cherry-studio",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "cube-js/cube",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "n0-computer/iroh",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "cocoindex-io/cocoindex",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "juspay/hyperswitch",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Polymarket/rs-clob-client",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "hashicorp/terraform",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "guohuiyuan/go-music-dl",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "e2b-dev/infra",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "kubernetes-sigs/gateway-api",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "qax-os/excelize",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Ed1s0nZ/CyberStrikeAI",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "looplj/axonhub",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "kagent-dev/kagent",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "redis/go-redis",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Meeep1/EeveeSpotifyRevivedPublic",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "yuzeguitarist/Deck",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "KeygraphHQ/shannon",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Z4nzu/hackingtool",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Alishahryar1/free-claude-code",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "davila7/claude-code-templates",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "mvanhorn/last30days-skill",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "xiangechen/chili3d",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "nushell/nushell",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "oxc-project/oxc",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "rtk-ai/rtk",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ai-dynamo/dynamo",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "prometheus/prometheus",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ArvinLovegood/go-stock",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "lima-vm/lima",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "huggingface/ml-intern",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Anil-matcha/Open-Generative-AI",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "PowerShell/PowerShell",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "cline/cline",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "microsoft/onnxruntime",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "chiphuyen/aie-book",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "crewAIInc/crewAI",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "onyx-dot-app/onyx",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "PostHog/posthog",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "funstory-ai/BabelDOC",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "hiroi-sora/Umi-OCR",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "microsoft/presidio",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "phodal/routa",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "lfnovo/open-notebook",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "vercel-labs/agent-browser",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "emanuele-em/proxelar",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "web-infra-dev/rspack",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "cloud-hypervisor/cloud-hypervisor",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "fleetdm/fleet",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "argoproj/argo-cd",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "google/osv-scanner",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "gin-gonic/gin",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "henrygd/beszel",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "crowdsecurity/crowdsec",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "containers/podman",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "krau/SaveAny-Bot",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "kubernetes-sigs/agent-sandbox",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "coredns/coredns",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "swiftlang/swift-syntax",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "AzureAD/microsoft-authentication-library-for-objc",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "codecrafters-io/build-your-own-x",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "deepseek-ai/DeepEP",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "microsoft/typescript-go",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "openai/skills",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "google/adk-samples",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "mlflow/mlflow",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Azure/Azure-Sentinel",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "kirodotdev/Kiro",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "google-labs-code/stitch-skills",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ThinkInAIXYZ/deepchat",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Adam-CAD/CADAM",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "screenpipe/screenpipe",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "firecracker-microvm/firecracker",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "fish-shell/fish-shell",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "cloudflare/quiche",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "hatchet-dev/hatchet",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "operacle/checkcle",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "hashicorp/terraform-provider-azurerm",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "distribution/distribution",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "gorilla/websocket",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "gastownhall/beads",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "go-delve/delve",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "RooCodeInc/Roo-Code",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Universal-Commerce-Protocol/ucp",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ComposioHQ/awesome-codex-skills",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "HunxByts/GhostTrack",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tile-ai/tilelang",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "roboflow/rf-detr",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "MemoriLabs/Memori",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "deepseek-ai/DeepSeek-V3",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "facebookresearch/detectron2",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "zilliztech/memsearch",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ruvnet/ruflo",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "open-telemetry/opentelemetry-demo",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Kilo-Org/kilocode",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "alvinunreal/oh-my-opencode-slim",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tinyhumansai/openhuman",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "kenforthewin/atomic",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "GitoxideLabs/gitoxide",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "esp-rs/esp-hal",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "etcd-io/etcd",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "gastownhall/gascity",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "everywall/ladder",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "cli/cli",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "kgateway-dev/kgateway",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "quic-go/quic-go",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "krillinai/KrillinAI",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "hashicorp/consul",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "shadowsocks/ShadowsocksX-NG",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "rime/squirrel",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "AUTOMATIC1111/stable-diffusion-webui",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Comfy-Org/ComfyUI",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "google/langextract",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "dreamhunter2333/cloudflare_temp_email",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "different-ai/openwork",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "immich-app/immich",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "linshenkx/prompt-optimizer",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "zhom/donutbrowser",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "brave/adblock-rust",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "EricLBuehler/mistral.rs",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "rust-lang/rust",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "njbrake/agent-of-empires",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "helix-editor/helix",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ltaoo/wx_channels_download",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "agentscope-ai/HiClaw",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "ollama/ollama",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "Gentleman-Programming/engram",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "jellyfin/Swiftfin",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "LiveContainer/LiveContainer",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "penpot/penpot",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "microsoft/VibeVoice",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "TauricResearch/TradingAgents",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "sherlock-project/sherlock",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "nikopueringer/CorridorKey",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "openai/openai-cs-agents-demo",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "facebookresearch/ai4animationpy",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "iptv-org/iptv",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "fynnfluegge/agtx",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "sigoden/dufs",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "knadh/listmonk",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "bjdgyc/anylink",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "LoopKit/Loop",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "fspecii/ace-step-ui",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "hsliuping/TradingAgents-CN",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "keephq/keep",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "NVIDIA/personaplex",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "xiaoY233/Chat2API",
-    "ts": 1778882955190
+    "ts": 1778969894422
   },
   {
     "repo": "tldraw/tldraw",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "novuhq/novu",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "musistudio/claude-code-router",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "mui/base-ui",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "bytebot-ai/bytebot",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "delibae/claude-prism",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "kata-containers/kata-containers",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "rust-lang/rust-analyzer",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "SaladDay/cc-switch-cli",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "memvid/memvid",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "opencloud-eu/opencloud",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "charmbracelet/crush",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "chenhg5/cc-connect",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "volcano-sh/volcano",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "LiYanan2004/MarkdownView",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "warpdotdev/warp",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "1jehuang/jcode",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "iv-org/invidious",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "gorhill/uBlock",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "microsoft/PowerToys",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "neuphonic/neutts",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "KellerJordan/modded-nanogpt",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "shaxiu/XianyuAutoAgent",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "p-e-w/heretic",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "microsoft/playwright-mcp",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "getumbrel/umbrel",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "ExplosiveCoderflome/AI-Novel-Writing-Assistant",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "plait-board/drawnix",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "iii-hq/iii",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "agentgateway/agentgateway",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "datadog-labs/pup",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "risingwavelabs/risingwave",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "quickwit-oss/tantivy",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "seaweedfs/seaweedfs",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "meshery/meshery",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "dagger/dagger",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Agent-Field/agentfield",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "k0sproject/k0s",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "minio/minio",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "dwarvesf/hidden",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "gonzalezreal/swift-markdown-ui",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "ghostty-org/ghostty",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "ForrestKnight/open-source-cs",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "browserbase/skills",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "iOfficeAI/AionUi",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "codexu/note-gen",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "chaitin/MonkeyCode",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "microsoft/edit",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "slint-ui/slint",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "wezterm/wezterm",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Tencent/WeKnora",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "caddyserver/caddy",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "projectdiscovery/nuclei",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "containerd/containerd",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "hashicorp/terraform-mcp-server",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "harflabs/SwiftVLC",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "simstudioai/sim",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Flowseal/zapret-discord-youtube",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Lightricks/LTX-2",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "the-momentum/open-wearables",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Tencent/AngelSlim",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "microsoft/TRELLIS",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "777genius/claude_agent_teams_ui",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "remix-run/remix",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "bradygaster/squad",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "TibixDev/winboat",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "restatedev/restate",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "quickwit-oss/quickwit",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "go-task/task",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "flyteorg/flyte",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "hashicorp/terraform-provider-aws",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "ethereum-optimism/optimism",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "kserve/kserve",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "juicedata/juicefs",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Shopify/toxiproxy",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "apple/swift-temporal-sdk",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Hmbown/DeepSeek-TUI",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "qbittorrent/qBittorrent",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "virattt/dexter",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "jellyfin/jellyfin",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "docusealco/docuseal",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "raullenchai/Rapid-MLX",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Q00/ouroboros",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "MervinPraison/PraisonAI",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "ag2ai/ag2",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Vexa-ai/vexa",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "xingkongliang/skills-manager",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "bevyengine/bevy",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "rust-lang/rustlings",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "reubeno/brush",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "jaegertracing/jaeger",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "kopia/kopia",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "lxc/incus",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "floatpane/matcha",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "TelegramMessenger/Telegram-iOS",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "sozercan/kaset",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "home-assistant/iOS",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "jwasham/coding-interview-university",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "PriorLabs/TabPFN",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "ccxt/ccxt",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "cheahjs/free-llm-api-resources",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "CloakHQ/CloakBrowser",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "bunkerity/bunkerweb",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "ionic-team/capacitor",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "thesysdev/openui",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "vercel-labs/ai-cli",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "huggingface/candle",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "getzola/zola",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "tensorzero/tensorzero",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "warp-tech/warpgate",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Gentleman-Programming/gentle-ai",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "gotenberg/gotenberg",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "ethereum/go-ethereum",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "aws/aws-sdk-go-v2",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "googleapis/google-cloud-go",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "SnapKit/SnapKit",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "addyosmani/agent-skills",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "LadybirdBrowser/ladybird",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "anthropics/financial-services",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "pytorch/pytorch",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "kyutai-labs/pocket-tts",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "nestjs/nest",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "payloadcms/payload",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "modelcontextprotocol/servers",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "microsoft/TypeScript",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "googleworkspace/cli",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "tursodatabase/turso",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "ruvnet/RuVector",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "xpzouying/xiaohongshu-mcp",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "google/gvisor",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "decolua/9router",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Augani/openreel-video",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "freemocap/freemocap",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Open-LLM-VTuber/Open-LLM-VTuber",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "github/spec-kit",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "openai/plugins",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "awslabs/aidlc-workflows",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "xming521/WeClone",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "langgenius/dify",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "shareAI-lab/learn-claude-code",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "labring/FastGPT",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "apache/superset",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "modelcontextprotocol/ext-apps",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "bytecodealliance/wasmtime",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "lbjlaq/Antigravity-Manager",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "DataDog/pup",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "solana-foundation/pay",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "sipeed/picoclaw",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "fsnotify/fsnotify",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "HKUDS/AI-Trader",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "flutter/skills",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "PaddlePaddle/PaddleOCR",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "anthropics/claude-plugins-official",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "vercel-labs/json-render",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "colbymchenry/codegraph",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "earendil-works/pi",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "CopilotKit/CopilotKit",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "github/copilot-sdk",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "bytedance/UI-TARS-desktop",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "teamclouday/AndroidMic",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "prefix-dev/pixi",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "flipped-aurora/gin-vue-admin",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "cilium/cilium",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "influxdata/telegraf",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "milvus-io/milvus",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "datawhalechina/easy-vibe",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "oracle-devrel/oracle-ai-developer-hub",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "HKUDS/ViMax",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "anthropics/claude-agent-sdk-python",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "vellum-ai/vellum-assistant",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "google/A2UI",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "millionco/react-doctor",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "HelixDB/helix-db",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Canner/WrenAI",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "tracel-ai/burn",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "fables-tales/rubyfmt",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "0xPlaygrounds/rig",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "enfein/mieru",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "supertone-inc/supertonic",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "zai-org/GLM-OCR",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "OpenTalker/SadTalker",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "yikart/AiToEarn",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "hcengineering/platform",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "alibaba/page-agent",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "apify/crawlee",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "domcyrus/rustnet",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "trailbaseio/trailbase",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "google/adk-go",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "kubernetes/minikube",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "microsoft/waza",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "mayswind/ezbookkeeping",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "moonD4rk/HackBrowserData",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "coder/coder",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Emanuele-web04/remodex",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "soniqo/speech-swift",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "rasbt/LLMs-from-scratch",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "jwadow/kiro-gateway",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "bytedance/UI-TARS",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "ylytdeng/wechat-decrypt",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "cartesiancs/map3d",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "heygen-com/hyperframes",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "THU-MAIC/OpenMAIC",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "garrytan/gstack",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "hj01857655/kiro-account-manager",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "rust-lang/cargo",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "gitleaks/gitleaks",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "chaos-mesh/chaos-mesh",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "BenedictKing/ccx",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "apernet/hysteria",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "gohugoio/hugo",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Greedeks/GTweak",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "ArthurBrussee/brush",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "ton-blockchain/acton",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "EleutherAI/lm-evaluation-harness",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "graphdeco-inria/gaussian-splatting",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "opendatalab/MinerU",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "odoo/odoo",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "MustardChef/WSABuilds",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "ansible/ansible",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "CloakHQ/CloakBrowser-Manager",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "openai/whisper",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "huggingface/pytorch-image-models",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "TanStack/router",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "microsoft/data-formulator",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "ErlichLiu/Proma",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "CodebuffAI/codebuff",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "NVIDIA/OpenShell",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "huggingface/tokenizers",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "zizmorcore/zizmor",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "github/gh-aw",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "hashicorp/nomad",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "urfave/cli",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "bytebase/bytebase",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "mark3labs/mcp-go",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "GoogleCloudPlatform/microservices-demo",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "pHequals7/muesli",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Clipy/Clipy",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "apple/swift-collections",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "apple/swift-argument-parser",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "roboflow/supervision",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Genymobile/scrcpy",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Imbad0202/academic-research-skills",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "zubair-trabzada/geo-seo-claude",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "elebumm/RedditVideoMakerBot",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "awslabs/agent-plugins",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "OpenCTI-Platform/opencti",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Jakedismo/codegraph-rust",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "neondatabase/neon",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "raine/workmux",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "dfinity/ic",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "kubernetes/kubernetes",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "trufflesecurity/trufflehog",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "gravitational/teleport",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "Loyalsoldier/geoip",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "higress-group/higress",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "prometheus/client_golang",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "migueldeicaza/SwiftTerm",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "oven-sh/bun",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "joeseesun/qiaomu-anything-to-notebooklm",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "CodeBoarding/CodeBoarding",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "NVIDIA-NeMo/NeMo",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "facebook/pyrefly",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "rust-unofficial/awesome-rust",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "juspay/hyperswitch-prism",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "NVIDIA/infra-controller-core",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "komari-monitor/komari",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "dapr/dapr",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "sqlc-dev/sqlc",
-    "ts": 1778882955190
+    "ts": 1778969894423
   },
   {
     "repo": "llm-d/llm-d-router",
-    "ts": 1778882955190
+    "ts": 1778969894423
+  },
+  {
+    "repo": "HKUDS/CLI-Anything",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "rossant/awesome-math",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "dograh-hq/dograh",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "Free-TV/IPTV",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "confident-ai/deepeval",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "BigBodyCobain/Shadowbroker",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "NVIDIA/warp",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "Raiper34/spooty",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "getsentry/XcodeBuildMCP",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "tech-leads-club/agent-skills",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "grafana/grafana",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "ilysenko/codex-desktop-linux",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "gyroflow/gyroflow",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "rust-lang/miri",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "tempoxyz/tempo",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "octos-org/octos",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "opentofu/opentofu",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "docker/cli",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "lharries/whatsapp-mcp",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "gastownhall/gastown",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "k8sgpt-ai/k8sgpt",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "stretchr/testify",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "go-chi/chi",
+    "ts": 1778969894423
+  },
+  {
+    "repo": "Whisky-App/Whisky",
+    "ts": 1778969894423
   }
 ]
